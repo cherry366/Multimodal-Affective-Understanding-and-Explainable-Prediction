@@ -1,0 +1,11262 @@
+[
+ {
+  "id": "-3g5yACwYnA$13",
+  "duration": 5.399125,
+  "n_words": 15,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 540,
+  "n_vision_frames": 163,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 15,
+  "word_valid_length": 15,
+  "words": [
+   {
+    "token": "They've",
+    "start": 1.1,
+    "end": 1.6
+   },
+   {
+    "token": "been",
+    "start": 1.6,
+    "end": 1.68
+   },
+   {
+    "token": "able",
+    "start": 1.68,
+    "end": 1.88
+   },
+   {
+    "token": "to",
+    "start": 1.88,
+    "end": 2.04
+   },
+   {
+    "token": "find",
+    "start": 2.04,
+    "end": 2.32
+   },
+   {
+    "token": "solutions",
+    "start": 2.32,
+    "end": 2.8
+   },
+   {
+    "token": "or",
+    "start": 2.8,
+    "end": 3.1
+   },
+   {
+    "token": "at",
+    "start": 3.1,
+    "end": 3.34
+   },
+   {
+    "token": "least",
+    "start": 3.34,
+    "end": 3.34
+   },
+   {
+    "token": "bring",
+    "start": 3.34,
+    "end": 3.64
+   },
+   {
+    "token": "some",
+    "start": 3.64,
+    "end": 3.96
+   },
+   {
+    "token": "answers",
+    "start": 3.96,
+    "end": 4.2
+   },
+   {
+    "token": "to",
+    "start": 4.2,
+    "end": 4.46
+   },
+   {
+    "token": "the",
+    "start": 4.46,
+    "end": 4.54
+   },
+   {
+    "token": "table.",
+    "start": 4.54,
+    "end": 4.82
+   }
+  ]
+ },
+ {
+  "id": "-3g5yACwYnA$3",
+  "duration": 14.327875,
+  "n_words": 29,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 1433,
+  "n_vision_frames": 431,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 24,
+  "word_valid_length": 29,
+  "words": [
+   {
+    "token": "We're",
+    "start": 0.0,
+    "end": 0.9
+   },
+   {
+    "token": "a",
+    "start": 0.9,
+    "end": 1.3
+   },
+   {
+    "token": "huge",
+    "start": 1.3,
+    "end": 1.8
+   },
+   {
+    "token": "user",
+    "start": 1.8,
+    "end": 2.84
+   },
+   {
+    "token": "of",
+    "start": 2.84,
+    "end": 3.08
+   },
+   {
+    "token": "adhesives",
+    "start": 3.08,
+    "end": 3.48
+   },
+   {
+    "token": "for",
+    "start": 3.48,
+    "end": 4.32
+   },
+   {
+    "token": "our",
+    "start": 4.32,
+    "end": 4.64
+   },
+   {
+    "token": "operation,",
+    "start": 4.64,
+    "end": 5.12
+   },
+   {
+    "token": "called",
+    "start": 5.12,
+    "end": 5.76
+   },
+   {
+    "token": "flocking,",
+    "start": 5.76,
+    "end": 6.18
+   },
+   {
+    "token": "and",
+    "start": 6.18,
+    "end": 6.78
+   },
+   {
+    "token": "we",
+    "start": 6.78,
+    "end": 7.1
+   },
+   {
+    "token": "don't",
+    "start": 7.1,
+    "end": 7.22
+   },
+   {
+    "token": "have",
+    "start": 7.22,
+    "end": 7.36
+   },
+   {
+    "token": "the",
+    "start": 7.36,
+    "end": 7.42
+   },
+   {
+    "token": "technical",
+    "start": 7.42,
+    "end": 7.84
+   },
+   {
+    "token": "inside",
+    "start": 7.84,
+    "end": 8.48
+   },
+   {
+    "token": "compounding",
+    "start": 8.88,
+    "end": 10.0
+   },
+   {
+    "token": "or",
+    "start": 10.0,
+    "end": 10.22
+   },
+   {
+    "token": "the",
+    "start": 10.22,
+    "end": 10.4
+   },
+   {
+    "token": "technical",
+    "start": 10.4,
+    "end": 10.72
+   },
+   {
+    "token": "expertise",
+    "start": 10.72,
+    "end": 11.1
+   },
+   {
+    "token": "to",
+    "start": 11.1,
+    "end": 11.38
+   },
+   {
+    "token": "do",
+    "start": 11.38,
+    "end": 11.48
+   },
+   {
+    "token": "these",
+    "start": 11.48,
+    "end": 11.7
+   },
+   {
+    "token": "types",
+    "start": 11.7,
+    "end": 11.92
+   },
+   {
+    "token": "of",
+    "start": 11.92,
+    "end": 12.02
+   },
+   {
+    "token": "things.",
+    "start": 12.02,
+    "end": 12.28
+   }
+  ]
+ },
+ {
+  "id": "-3g5yACwYnA$2",
+  "duration": 9.231312,
+  "n_words": 14,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.7857,
+  "n_audio_frames": 924,
+  "n_vision_frames": 278,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 14,
+  "word_valid_length": 14,
+  "words": [
+   {
+    "token": "Key",
+    "start": 0.0,
+    "end": 1.1733333333333333
+   },
+   {
+    "token": "Polymer",
+    "start": 1.1733333333333333,
+    "end": 2.3466666666666667
+   },
+   {
+    "token": "brings",
+    "start": 2.3466666666666667,
+    "end": 3.52
+   },
+   {
+    "token": "a",
+    "start": 3.52,
+    "end": 3.68
+   },
+   {
+    "token": "technical",
+    "start": 3.68,
+    "end": 4.06
+   },
+   {
+    "token": "aspect",
+    "start": 4.06,
+    "end": 4.56
+   },
+   {
+    "token": "to",
+    "start": 4.56,
+    "end": 4.88
+   },
+   {
+    "token": "our",
+    "start": 4.88,
+    "end": 5.88
+   },
+   {
+    "token": "operation",
+    "start": 5.88,
+    "end": 6.34
+   },
+   {
+    "token": "that",
+    "start": 6.34,
+    "end": 6.6
+   },
+   {
+    "token": "we",
+    "start": 6.6,
+    "end": 6.76
+   },
+   {
+    "token": "don't",
+    "start": 6.76,
+    "end": 7.0
+   },
+   {
+    "token": "have",
+    "start": 7.0,
+    "end": 7.16
+   },
+   {
+    "token": "internally.",
+    "start": 7.16,
+    "end": 7.64
+   }
+  ]
+ },
+ {
+  "id": "-3g5yACwYnA$9",
+  "duration": 8.696125,
+  "n_words": 21,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8571,
+  "n_audio_frames": 870,
+  "n_vision_frames": 263,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 21,
+  "word_valid_length": 21,
+  "words": [
+   {
+    "token": "We",
+    "start": 0.08,
+    "end": 0.9
+   },
+   {
+    "token": "have",
+    "start": 0.9,
+    "end": 1.02
+   },
+   {
+    "token": "many",
+    "start": 1.02,
+    "end": 1.26
+   },
+   {
+    "token": "new",
+    "start": 1.26,
+    "end": 1.8
+   },
+   {
+    "token": "opportunities",
+    "start": 1.8,
+    "end": 2.36
+   },
+   {
+    "token": "through",
+    "start": 2.36,
+    "end": 2.68
+   },
+   {
+    "token": "the",
+    "start": 2.68,
+    "end": 3.46
+   },
+   {
+    "token": "way",
+    "start": 3.46,
+    "end": 3.58
+   },
+   {
+    "token": "things",
+    "start": 3.58,
+    "end": 3.82
+   },
+   {
+    "token": "have",
+    "start": 3.82,
+    "end": 3.96
+   },
+   {
+    "token": "changed",
+    "start": 3.96,
+    "end": 4.2
+   },
+   {
+    "token": "through",
+    "start": 4.2,
+    "end": 4.4
+   },
+   {
+    "token": "the",
+    "start": 4.4,
+    "end": 4.52
+   },
+   {
+    "token": "years,",
+    "start": 4.52,
+    "end": 4.88
+   },
+   {
+    "token": "looking",
+    "start": 5.36,
+    "end": 5.8
+   },
+   {
+    "token": "for",
+    "start": 5.8,
+    "end": 5.98
+   },
+   {
+    "token": "new",
+    "start": 5.98,
+    "end": 6.16
+   },
+   {
+    "token": "niche",
+    "start": 6.16,
+    "end": 6.5
+   },
+   {
+    "token": "high-end,",
+    "start": 6.5,
+    "end": 7.04
+   },
+   {
+    "token": "value-added",
+    "start": 7.04,
+    "end": 7.58
+   },
+   {
+    "token": "products.",
+    "start": 7.58,
+    "end": 7.94
+   }
+  ]
+ },
+ {
+  "id": "-3nNcZdcdvU$5",
+  "duration": 7.788563,
+  "n_words": 18,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9444,
+  "n_audio_frames": 779,
+  "n_vision_frames": 236,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 18,
+  "word_valid_length": 18,
+  "words": [
+   {
+    "token": "Noncompliance",
+    "start": 0.8399999999999994,
+    "end": 1.52
+   },
+   {
+    "token": "can",
+    "start": 1.52,
+    "end": 1.82
+   },
+   {
+    "token": "result",
+    "start": 1.82,
+    "end": 2.38
+   },
+   {
+    "token": "in",
+    "start": 2.38,
+    "end": 2.72
+   },
+   {
+    "token": "legal",
+    "start": 2.72,
+    "end": 3.02
+   },
+   {
+    "token": "liability",
+    "start": 3.02,
+    "end": 3.48
+   },
+   {
+    "token": "to",
+    "start": 3.48,
+    "end": 4.12
+   },
+   {
+    "token": "you",
+    "start": 4.12,
+    "end": 4.58
+   },
+   {
+    "token": "and",
+    "start": 4.58,
+    "end": 5.08
+   },
+   {
+    "token": "to",
+    "start": 5.08,
+    "end": 5.34
+   },
+   {
+    "token": "the",
+    "start": 5.34,
+    "end": 5.48
+   },
+   {
+    "token": "school",
+    "start": 5.48,
+    "end": 5.68
+   },
+   {
+    "token": "district",
+    "start": 5.68,
+    "end": 6.04
+   },
+   {
+    "token": "in",
+    "start": 6.04,
+    "end": 6.28
+   },
+   {
+    "token": "which",
+    "start": 6.28,
+    "end": 6.38
+   },
+   {
+    "token": "you",
+    "start": 6.38,
+    "end": 6.6
+   },
+   {
+    "token": "are",
+    "start": 6.6,
+    "end": 6.72
+   },
+   {
+    "token": "employed.",
+    "start": 6.72,
+    "end": 7.12
+   }
+  ]
+ },
+ {
+  "id": "-HwX2H8Z4hY$2",
+  "duration": 3.915812,
+  "n_words": 8,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.5,
+  "n_audio_frames": 392,
+  "n_vision_frames": 119,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 16,
+  "timebin_text_valid": 8,
+  "word_valid_length": 8,
+  "words": [
+   {
+    "token": "”",
+    "start": 0.0,
+    "end": 0.5
+   },
+   {
+    "token": "[President",
+    "start": 0.5,
+    "end": 1.0
+   },
+   {
+    "token": "Ronald",
+    "start": 1.0,
+    "end": 1.5
+   },
+   {
+    "token": "Reagan:]",
+    "start": 1.5,
+    "end": 2.0
+   },
+   {
+    "token": "\"Look",
+    "start": 2.0,
+    "end": 2.8
+   },
+   {
+    "token": "at",
+    "start": 2.8,
+    "end": 2.92
+   },
+   {
+    "token": "the",
+    "start": 2.92,
+    "end": 3.02
+   },
+   {
+    "token": "record",
+    "start": 3.02,
+    "end": 3.28
+   }
+  ]
+ },
+ {
+  "id": "-HwX2H8Z4hY$5",
+  "duration": 5.544062,
+  "n_words": 10,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9,
+  "n_audio_frames": 555,
+  "n_vision_frames": 168,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 21,
+  "timebin_text_valid": 10,
+  "word_valid_length": 10,
+  "words": [
+   {
+    "token": "\"",
+    "start": 0.0,
+    "end": 0.0
+   },
+   {
+    "token": "President",
+    "start": 0.0,
+    "end": 1.1
+   },
+   {
+    "token": "Ronald",
+    "start": 1.1,
+    "end": 1.56
+   },
+   {
+    "token": "Reagan",
+    "start": 1.56,
+    "end": 1.98
+   },
+   {
+    "token": "blamed",
+    "start": 1.98,
+    "end": 2.38
+   },
+   {
+    "token": "the",
+    "start": 2.38,
+    "end": 2.7
+   },
+   {
+    "token": "professional",
+    "start": 2.7,
+    "end": 3.32
+   },
+   {
+    "token": "bureaucracy",
+    "start": 3.32,
+    "end": 3.86
+   },
+   {
+    "token": "of",
+    "start": 3.86,
+    "end": 4.36
+   },
+   {
+    "token": "education",
+    "start": 4.36,
+    "end": 4.92
+   }
+  ]
+ },
+ {
+  "id": "-HwX2H8Z4hY$6",
+  "duration": 3.256,
+  "n_words": 7,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 326,
+  "n_vision_frames": 99,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 32,
+  "timebin_text_valid": 7,
+  "word_valid_length": 7,
+  "words": [
+   {
+    "token": "And",
+    "start": 0.0,
+    "end": 0.62
+   },
+   {
+    "token": "in",
+    "start": 0.62,
+    "end": 0.7
+   },
+   {
+    "token": "part,",
+    "start": 0.7,
+    "end": 1.12
+   },
+   {
+    "token": "Al",
+    "start": 1.12,
+    "end": 1.6
+   },
+   {
+    "token": "Shanker",
+    "start": 1.6,
+    "end": 2.16
+   },
+   {
+    "token": "did",
+    "start": 2.16,
+    "end": 2.38
+   },
+   {
+    "token": "too",
+    "start": 2.38,
+    "end": 2.7
+   }
+  ]
+ },
+ {
+  "id": "-HwX2H8Z4hY$9",
+  "duration": 7.636312,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9091,
+  "n_audio_frames": 764,
+  "n_vision_frames": 232,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 21,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "It",
+    "start": 0.0,
+    "end": 0.6
+   },
+   {
+    "token": "is",
+    "start": 0.6,
+    "end": 0.74
+   },
+   {
+    "token": "a",
+    "start": 0.74,
+    "end": 0.86
+   },
+   {
+    "token": "word",
+    "start": 0.86,
+    "end": 1.14
+   },
+   {
+    "token": "which",
+    "start": 1.36,
+    "end": 1.58
+   },
+   {
+    "token": "the",
+    "start": 1.58,
+    "end": 1.74
+   },
+   {
+    "token": "administrator",
+    "start": 1.74,
+    "end": 2.24
+   },
+   {
+    "token": "uses",
+    "start": 2.24,
+    "end": 4.14
+   },
+   {
+    "token": "when",
+    "start": 4.14,
+    "end": 4.4
+   },
+   {
+    "token": "he",
+    "start": 4.4,
+    "end": 4.5
+   },
+   {
+    "token": "turns",
+    "start": 4.5,
+    "end": 4.72
+   },
+   {
+    "token": "around",
+    "start": 4.72,
+    "end": 5.02
+   },
+   {
+    "token": "anything",
+    "start": 5.02,
+    "end": 5.4
+   },
+   {
+    "token": "which",
+    "start": 5.4,
+    "end": 5.64
+   },
+   {
+    "token": "he",
+    "start": 5.64,
+    "end": 5.74
+   },
+   {
+    "token": "doesn't",
+    "start": 5.74,
+    "end": 6.0
+   },
+   {
+    "token": "like",
+    "start": 6.0,
+    "end": 6.16
+   },
+   {
+    "token": "that",
+    "start": 6.16,
+    "end": 6.16
+   },
+   {
+    "token": "the",
+    "start": 6.16,
+    "end": 6.36
+   },
+   {
+    "token": "teacher",
+    "start": 6.36,
+    "end": 6.68
+   },
+   {
+    "token": "is",
+    "start": 6.68,
+    "end": 6.88
+   },
+   {
+    "token": "doing",
+    "start": 6.88,
+    "end": 7.08
+   }
+  ]
+ },
+ {
+  "id": "-NFrJFQijFE$1",
+  "duration": 5.658875,
+  "n_words": 16,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 566,
+  "n_vision_frames": 142,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 0,
+  "timebin_text_valid": 16,
+  "word_valid_length": 16,
+  "words": [
+   {
+    "token": "Structural",
+    "start": 0.0,
+    "end": 0.3536796875
+   },
+   {
+    "token": "mounts",
+    "start": 0.3536796875,
+    "end": 0.707359375
+   },
+   {
+    "token": "inside",
+    "start": 0.707359375,
+    "end": 1.0610390625
+   },
+   {
+    "token": "have",
+    "start": 1.0610390625,
+    "end": 1.41471875
+   },
+   {
+    "token": "to",
+    "start": 1.41471875,
+    "end": 1.7683984375000001
+   },
+   {
+    "token": "be",
+    "start": 1.7683984375000001,
+    "end": 2.122078125
+   },
+   {
+    "token": "properly",
+    "start": 2.122078125,
+    "end": 2.4757578125
+   },
+   {
+    "token": "stress",
+    "start": 2.4757578125,
+    "end": 2.8294375
+   },
+   {
+    "token": "analyzed",
+    "start": 2.8294375,
+    "end": 3.1831171875
+   },
+   {
+    "token": "so",
+    "start": 3.1831171875,
+    "end": 3.5367968750000003
+   },
+   {
+    "token": "we",
+    "start": 3.5367968750000003,
+    "end": 3.8904765625
+   },
+   {
+    "token": "make",
+    "start": 3.8904765625,
+    "end": 4.24415625
+   },
+   {
+    "token": "sure",
+    "start": 4.24415625,
+    "end": 4.5978359375
+   },
+   {
+    "token": "all",
+    "start": 4.5978359375,
+    "end": 4.951515625
+   },
+   {
+    "token": "that",
+    "start": 4.951515625,
+    "end": 5.3051953125
+   },
+   {
+    "token": "happens",
+    "start": 5.3051953125,
+    "end": 5.658875
+   }
+  ]
+ },
+ {
+  "id": "-NFrJFQijFE$2",
+  "duration": 6.698313,
+  "n_words": 18,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 670,
+  "n_vision_frames": 169,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 0,
+  "timebin_text_valid": 18,
+  "word_valid_length": 18,
+  "words": [
+   {
+    "token": "So",
+    "start": 0.0,
+    "end": 0.37212847222222223
+   },
+   {
+    "token": "we",
+    "start": 0.37212847222222223,
+    "end": 0.7442569444444445
+   },
+   {
+    "token": "coordinate",
+    "start": 0.7442569444444445,
+    "end": 1.1163854166666667
+   },
+   {
+    "token": "with",
+    "start": 1.1163854166666667,
+    "end": 1.488513888888889
+   },
+   {
+    "token": "all",
+    "start": 1.488513888888889,
+    "end": 1.8606423611111111
+   },
+   {
+    "token": "the",
+    "start": 1.8606423611111111,
+    "end": 2.2327708333333334
+   },
+   {
+    "token": "proper",
+    "start": 2.2327708333333334,
+    "end": 2.6048993055555556
+   },
+   {
+    "token": "technical",
+    "start": 2.6048993055555556,
+    "end": 2.977027777777778
+   },
+   {
+    "token": "fields",
+    "start": 2.977027777777778,
+    "end": 3.34915625
+   },
+   {
+    "token": "to",
+    "start": 3.34915625,
+    "end": 3.7212847222222223
+   },
+   {
+    "token": "get",
+    "start": 3.7212847222222223,
+    "end": 4.0934131944444445
+   },
+   {
+    "token": "ready",
+    "start": 4.0934131944444445,
+    "end": 4.465541666666667
+   },
+   {
+    "token": "for",
+    "start": 4.465541666666667,
+    "end": 4.837670138888889
+   },
+   {
+    "token": "the",
+    "start": 4.837670138888889,
+    "end": 5.209798611111111
+   },
+   {
+    "token": "instrument",
+    "start": 5.209798611111111,
+    "end": 5.581927083333333
+   },
+   {
+    "token": "to",
+    "start": 5.581927083333333,
+    "end": 5.954055555555556
+   },
+   {
+    "token": "arrive",
+    "start": 5.954055555555556,
+    "end": 6.326184027777778
+   },
+   {
+    "token": "here",
+    "start": 6.326184027777778,
+    "end": 6.6983125
+   }
+  ]
+ },
+ {
+  "id": "-THoVjtIkeU$12",
+  "duration": 14.805563,
+  "n_words": 39,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9487,
+  "n_audio_frames": 1481,
+  "n_vision_frames": 445,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 34,
+  "word_valid_length": 39,
+  "words": [
+   {
+    "token": "What",
+    "start": 0.0,
+    "end": 0.9
+   },
+   {
+    "token": "ever",
+    "start": 0.9,
+    "end": 1.8
+   },
+   {
+    "token": "we",
+    "start": 1.8,
+    "end": 2.08
+   },
+   {
+    "token": "turn",
+    "start": 2.08,
+    "end": 2.24
+   },
+   {
+    "token": "our",
+    "start": 2.24,
+    "end": 2.42
+   },
+   {
+    "token": "attention",
+    "start": 2.42,
+    "end": 2.66
+   },
+   {
+    "token": "to",
+    "start": 2.66,
+    "end": 3.06
+   },
+   {
+    "token": "is",
+    "start": 3.06,
+    "end": 3.3
+   },
+   {
+    "token": "what",
+    "start": 3.3,
+    "end": 3.44
+   },
+   {
+    "token": "grows",
+    "start": 3.44,
+    "end": 3.7
+   },
+   {
+    "token": "and",
+    "start": 4.38,
+    "end": 4.44
+   },
+   {
+    "token": "so",
+    "start": 4.44,
+    "end": 4.64
+   },
+   {
+    "token": "if",
+    "start": 4.64,
+    "end": 4.8
+   },
+   {
+    "token": "we",
+    "start": 4.8,
+    "end": 4.96
+   },
+   {
+    "token": "believe",
+    "start": 4.96,
+    "end": 5.32
+   },
+   {
+    "token": "that",
+    "start": 5.32,
+    "end": 5.72
+   },
+   {
+    "token": "anything",
+    "start": 5.72,
+    "end": 6.02
+   },
+   {
+    "token": "is",
+    "start": 6.02,
+    "end": 6.22
+   },
+   {
+    "token": "possible,",
+    "start": 6.22,
+    "end": 6.66
+   },
+   {
+    "token": "if",
+    "start": 6.66,
+    "end": 6.84
+   },
+   {
+    "token": "we",
+    "start": 6.84,
+    "end": 7.06
+   },
+   {
+    "token": "believe",
+    "start": 7.06,
+    "end": 7.9
+   },
+   {
+    "token": "that",
+    "start": 7.9,
+    "end": 8.7
+   },
+   {
+    "token": "social",
+    "start": 8.7,
+    "end": 9.6
+   },
+   {
+    "token": "justice",
+    "start": 9.6,
+    "end": 10.02
+   },
+   {
+    "token": "can",
+    "start": 10.02,
+    "end": 10.28
+   },
+   {
+    "token": "be",
+    "start": 10.28,
+    "end": 10.5
+   },
+   {
+    "token": "achieved",
+    "start": 10.5,
+    "end": 10.88
+   },
+   {
+    "token": "and",
+    "start": 10.88,
+    "end": 11.04
+   },
+   {
+    "token": "if",
+    "start": 11.04,
+    "end": 11.16
+   },
+   {
+    "token": "we",
+    "start": 11.16,
+    "end": 11.24
+   },
+   {
+    "token": "believe",
+    "start": 11.24,
+    "end": 11.62
+   },
+   {
+    "token": "in",
+    "start": 11.62,
+    "end": 11.98
+   },
+   {
+    "token": "youth,",
+    "start": 11.98,
+    "end": 12.42
+   },
+   {
+    "token": "they",
+    "start": 12.42,
+    "end": 13.2
+   },
+   {
+    "token": "will",
+    "start": 13.2,
+    "end": 13.3
+   },
+   {
+    "token": "believe",
+    "start": 13.3,
+    "end": 13.52
+   },
+   {
+    "token": "in",
+    "start": 13.52,
+    "end": 13.66
+   },
+   {
+    "token": "themselves.",
+    "start": 13.66,
+    "end": 13.96
+   }
+  ]
+ },
+ {
+  "id": "-THoVjtIkeU$2",
+  "duration": 4.230875,
+  "n_words": 10,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 424,
+  "n_vision_frames": 128,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 10,
+  "word_valid_length": 10,
+  "words": [
+   {
+    "token": "I",
+    "start": 0.0,
+    "end": 0.1
+   },
+   {
+    "token": "think",
+    "start": 0.1,
+    "end": 0.36
+   },
+   {
+    "token": "social",
+    "start": 0.36,
+    "end": 1.3
+   },
+   {
+    "token": "justice",
+    "start": 1.3,
+    "end": 1.68
+   },
+   {
+    "token": "is",
+    "start": 1.68,
+    "end": 1.88
+   },
+   {
+    "token": "extremely",
+    "start": 1.88,
+    "end": 2.28
+   },
+   {
+    "token": "important",
+    "start": 2.28,
+    "end": 2.72
+   },
+   {
+    "token": "for",
+    "start": 2.72,
+    "end": 2.96
+   },
+   {
+    "token": "young",
+    "start": 2.96,
+    "end": 3.18
+   },
+   {
+    "token": "people.",
+    "start": 3.18,
+    "end": 3.58
+   }
+  ]
+ },
+ {
+  "id": "-THoVjtIkeU$6",
+  "duration": 7.982875,
+  "n_words": 30,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9,
+  "n_audio_frames": 799,
+  "n_vision_frames": 241,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 29,
+  "word_valid_length": 30,
+  "words": [
+   {
+    "token": "You",
+    "start": 0.0,
+    "end": 0.56
+   },
+   {
+    "token": "know",
+    "start": 0.56,
+    "end": 0.66
+   },
+   {
+    "token": "that",
+    "start": 0.66,
+    "end": 0.78
+   },
+   {
+    "token": "I",
+    "start": 0.78,
+    "end": 0.82
+   },
+   {
+    "token": "think",
+    "start": 0.82,
+    "end": 1.04
+   },
+   {
+    "token": "listening",
+    "start": 1.32,
+    "end": 1.7
+   },
+   {
+    "token": "to",
+    "start": 1.7,
+    "end": 2.0
+   },
+   {
+    "token": "young",
+    "start": 2.0,
+    "end": 2.16
+   },
+   {
+    "token": "people,",
+    "start": 2.16,
+    "end": 2.54
+   },
+   {
+    "token": "taking",
+    "start": 2.7,
+    "end": 2.9
+   },
+   {
+    "token": "in",
+    "start": 2.9,
+    "end": 3.12
+   },
+   {
+    "token": "what",
+    "start": 3.12,
+    "end": 3.32
+   },
+   {
+    "token": "they",
+    "start": 3.32,
+    "end": 3.5
+   },
+   {
+    "token": "have",
+    "start": 3.5,
+    "end": 3.66
+   },
+   {
+    "token": "to",
+    "start": 3.66,
+    "end": 3.84
+   },
+   {
+    "token": "say",
+    "start": 3.84,
+    "end": 4.14
+   },
+   {
+    "token": "because",
+    "start": 4.16,
+    "end": 4.4
+   },
+   {
+    "token": "what",
+    "start": 4.4,
+    "end": 4.94
+   },
+   {
+    "token": "we",
+    "start": 4.94,
+    "end": 5.0600000000000005
+   },
+   {
+    "token": "have",
+    "start": 5.0600000000000005,
+    "end": 5.18
+   },
+   {
+    "token": "seen",
+    "start": 5.18,
+    "end": 5.38
+   },
+   {
+    "token": "all",
+    "start": 5.38,
+    "end": 5.64
+   },
+   {
+    "token": "around",
+    "start": 5.64,
+    "end": 5.86
+   },
+   {
+    "token": "the",
+    "start": 5.86,
+    "end": 6.02
+   },
+   {
+    "token": "world",
+    "start": 6.02,
+    "end": 6.3
+   },
+   {
+    "token": "is",
+    "start": 6.3,
+    "end": 6.54
+   },
+   {
+    "token": "the",
+    "start": 6.54,
+    "end": 6.66
+   },
+   {
+    "token": "power",
+    "start": 6.66,
+    "end": 7.0
+   },
+   {
+    "token": "of",
+    "start": 7.0,
+    "end": 7.2
+   },
+   {
+    "token": "youth.",
+    "start": 7.2,
+    "end": 7.42
+   }
+  ]
+ },
+ {
+  "id": "-UuX1xuaiiE$1",
+  "duration": 10.2675,
+  "n_words": 27,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 1027,
+  "n_vision_frames": 309,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 26,
+  "word_valid_length": 27,
+  "words": [
+   {
+    "token": "^And",
+    "start": 0.0,
+    "end": 0.56
+   },
+   {
+    "token": "all",
+    "start": 0.56,
+    "end": 0.78
+   },
+   {
+    "token": "of",
+    "start": 0.78,
+    "end": 0.92
+   },
+   {
+    "token": "them",
+    "start": 0.92,
+    "end": 1.04
+   },
+   {
+    "token": "are",
+    "start": 1.04,
+    "end": 1.24
+   },
+   {
+    "token": "really",
+    "start": 1.24,
+    "end": 1.58
+   },
+   {
+    "token": "being",
+    "start": 1.58,
+    "end": 1.82
+   },
+   {
+    "token": "able",
+    "start": 1.82,
+    "end": 2.66
+   },
+   {
+    "token": "to",
+    "start": 2.66,
+    "end": 2.86
+   },
+   {
+    "token": "explore",
+    "start": 2.86,
+    "end": 3.42
+   },
+   {
+    "token": "^these",
+    "start": 3.42,
+    "end": 4.16
+   },
+   {
+    "token": "different",
+    "start": 4.16,
+    "end": 4.76
+   },
+   {
+    "token": "areas",
+    "start": 4.76,
+    "end": 5.1
+   },
+   {
+    "token": "in",
+    "start": 5.1,
+    "end": 5.62
+   },
+   {
+    "token": "depth",
+    "start": 5.62,
+    "end": 6.2
+   },
+   {
+    "token": "^in",
+    "start": 6.2,
+    "end": 6.6
+   },
+   {
+    "token": "a",
+    "start": 6.6,
+    "end": 6.7
+   },
+   {
+    "token": "way",
+    "start": 6.7,
+    "end": 6.86
+   },
+   {
+    "token": "that",
+    "start": 6.86,
+    "end": 7.12
+   },
+   {
+    "token": "really",
+    "start": 7.12,
+    "end": 7.46
+   },
+   {
+    "token": "wasn't",
+    "start": 7.46,
+    "end": 7.78
+   },
+   {
+    "token": "available",
+    "start": 7.78,
+    "end": 8.12
+   },
+   {
+    "token": "^before",
+    "start": 8.12,
+    "end": 8.58
+   },
+   {
+    "token": "the",
+    "start": 8.58,
+    "end": 8.78
+   },
+   {
+    "token": "center",
+    "start": 8.78,
+    "end": 9.08
+   },
+   {
+    "token": "was",
+    "start": 9.08,
+    "end": 9.32
+   },
+   {
+    "token": "here",
+    "start": 9.32,
+    "end": 9.62
+   }
+  ]
+ },
+ {
+  "id": "-UuX1xuaiiE$0",
+  "duration": 3.575875,
+  "n_words": 9,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 358,
+  "n_vision_frames": 109,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 9,
+  "word_valid_length": 9,
+  "words": [
+   {
+    "token": "^it's",
+    "start": 0.0,
+    "end": 0.16
+   },
+   {
+    "token": "amazing",
+    "start": 0.16,
+    "end": 0.64
+   },
+   {
+    "token": "to",
+    "start": 0.64,
+    "end": 0.96
+   },
+   {
+    "token": "see",
+    "start": 0.96,
+    "end": 1.22
+   },
+   {
+    "token": "their",
+    "start": 1.22,
+    "end": 1.46
+   },
+   {
+    "token": "enthusiasm",
+    "start": 1.46,
+    "end": 2.18
+   },
+   {
+    "token": "and",
+    "start": 2.18,
+    "end": 2.36
+   },
+   {
+    "token": "their",
+    "start": 2.36,
+    "end": 2.5
+   },
+   {
+    "token": "passion",
+    "start": 2.5,
+    "end": 2.92
+   }
+  ]
+ },
+ {
+  "id": "-UuX1xuaiiE$3",
+  "duration": 4.038375,
+  "n_words": 9,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 404,
+  "n_vision_frames": 123,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 9,
+  "word_valid_length": 9,
+  "words": [
+   {
+    "token": "My",
+    "start": 0.0,
+    "end": 0.64
+   },
+   {
+    "token": "goal",
+    "start": 0.64,
+    "end": 0.84
+   },
+   {
+    "token": "is",
+    "start": 0.84,
+    "end": 1.28
+   },
+   {
+    "token": "to",
+    "start": 1.28,
+    "end": 1.58
+   },
+   {
+    "token": "become",
+    "start": 1.58,
+    "end": 1.94
+   },
+   {
+    "token": "a",
+    "start": 1.94,
+    "end": 2.64
+   },
+   {
+    "token": "human",
+    "start": 2.64,
+    "end": 2.84
+   },
+   {
+    "token": "rights",
+    "start": 2.84,
+    "end": 3.12
+   },
+   {
+    "token": "lawyer",
+    "start": 3.12,
+    "end": 3.48
+   }
+  ]
+ },
+ {
+  "id": "-UuX1xuaiiE$6",
+  "duration": 7.943812,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9545,
+  "n_audio_frames": 795,
+  "n_vision_frames": 240,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 22,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "I",
+    "start": 0.0,
+    "end": 0.62
+   },
+   {
+    "token": "ended",
+    "start": 0.62,
+    "end": 0.76
+   },
+   {
+    "token": "up",
+    "start": 0.76,
+    "end": 0.92
+   },
+   {
+    "token": "going",
+    "start": 0.92,
+    "end": 1.06
+   },
+   {
+    "token": "to",
+    "start": 1.06,
+    "end": 1.22
+   },
+   {
+    "token": "work",
+    "start": 1.22,
+    "end": 1.4
+   },
+   {
+    "token": "for",
+    "start": 1.4,
+    "end": 1.72
+   },
+   {
+    "token": "the",
+    "start": 1.72,
+    "end": 1.92
+   },
+   {
+    "token": "US",
+    "start": 1.92,
+    "end": 2.2
+   },
+   {
+    "token": "government",
+    "start": 2.2,
+    "end": 2.52
+   },
+   {
+    "token": "as",
+    "start": 2.52,
+    "end": 2.88
+   },
+   {
+    "token": "an",
+    "start": 2.88,
+    "end": 3.04
+   },
+   {
+    "token": "intelligence",
+    "start": 3.04,
+    "end": 3.36
+   },
+   {
+    "token": "analyst,",
+    "start": 3.36,
+    "end": 3.98
+   },
+   {
+    "token": "specializing",
+    "start": 4.22,
+    "end": 5.56
+   },
+   {
+    "token": "in",
+    "start": 5.56,
+    "end": 5.84
+   },
+   {
+    "token": "war",
+    "start": 5.84,
+    "end": 6.02
+   },
+   {
+    "token": "crimes",
+    "start": 6.02,
+    "end": 6.3
+   },
+   {
+    "token": "and",
+    "start": 6.3,
+    "end": 6.46
+   },
+   {
+    "token": "human",
+    "start": 6.46,
+    "end": 6.62
+   },
+   {
+    "token": "rights",
+    "start": 6.62,
+    "end": 6.88
+   },
+   {
+    "token": "issues",
+    "start": 6.88,
+    "end": 7.2
+   }
+  ]
+ },
+ {
+  "id": "-a55Q6RWvTA$3",
+  "duration": 22.083313,
+  "n_words": 65,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 2209,
+  "n_vision_frames": 664,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 43,
+  "word_valid_length": 50,
+  "words": [
+   {
+    "token": "And",
+    "start": 0.0,
+    "end": 0.74
+   },
+   {
+    "token": "if",
+    "start": 0.74,
+    "end": 1.18
+   },
+   {
+    "token": "you",
+    "start": 1.18,
+    "end": 1.28
+   },
+   {
+    "token": "clip",
+    "start": 1.28,
+    "end": 1.6
+   },
+   {
+    "token": "coupons,",
+    "start": 1.6,
+    "end": 2.4
+   },
+   {
+    "token": "if",
+    "start": 2.4,
+    "end": 2.78
+   },
+   {
+    "token": "you",
+    "start": 2.78,
+    "end": 2.92
+   },
+   {
+    "token": "don't",
+    "start": 2.92,
+    "end": 3.3
+   },
+   {
+    "token": "go",
+    "start": 3.3,
+    "end": 3.44
+   },
+   {
+    "token": "out",
+    "start": 3.44,
+    "end": 3.64
+   },
+   {
+    "token": "for",
+    "start": 3.64,
+    "end": 3.84
+   },
+   {
+    "token": "dinner",
+    "start": 3.84,
+    "end": 4.16
+   },
+   {
+    "token": "and",
+    "start": 4.16,
+    "end": 4.52
+   },
+   {
+    "token": "movies",
+    "start": 4.52,
+    "end": 4.96
+   },
+   {
+    "token": "and",
+    "start": 4.96,
+    "end": 5.3
+   },
+   {
+    "token": "things",
+    "start": 5.3,
+    "end": 5.52
+   },
+   {
+    "token": "of",
+    "start": 5.52,
+    "end": 5.66
+   },
+   {
+    "token": "that",
+    "start": 5.66,
+    "end": 5.76
+   },
+   {
+    "token": "nature",
+    "start": 5.76,
+    "end": 6.2
+   },
+   {
+    "token": "and",
+    "start": 6.76,
+    "end": 6.98
+   },
+   {
+    "token": "try",
+    "start": 6.98,
+    "end": 7.3
+   },
+   {
+    "token": "to",
+    "start": 7.3,
+    "end": 7.42
+   },
+   {
+    "token": "take",
+    "start": 7.42,
+    "end": 7.62
+   },
+   {
+    "token": "up",
+    "start": 7.62,
+    "end": 7.78
+   },
+   {
+    "token": "things",
+    "start": 7.78,
+    "end": 8.08
+   },
+   {
+    "token": "in",
+    "start": 8.08,
+    "end": 8.4
+   },
+   {
+    "token": "life",
+    "start": 8.4,
+    "end": 8.72
+   },
+   {
+    "token": "that,",
+    "start": 8.72,
+    "end": 8.98
+   },
+   {
+    "token": "well,",
+    "start": 9.1,
+    "end": 9.22
+   },
+   {
+    "token": "they",
+    "start": 9.32,
+    "end": 9.56
+   },
+   {
+    "token": "always",
+    "start": 9.56,
+    "end": 9.82
+   },
+   {
+    "token": "say,",
+    "start": 9.82,
+    "end": 10.12
+   },
+   {
+    "token": "\"the",
+    "start": 10.12,
+    "end": 10.28
+   },
+   {
+    "token": "best",
+    "start": 10.28,
+    "end": 10.52
+   },
+   {
+    "token": "things",
+    "start": 10.52,
+    "end": 10.72
+   },
+   {
+    "token": "in",
+    "start": 10.72,
+    "end": 10.88
+   },
+   {
+    "token": "life",
+    "start": 10.88,
+    "end": 11.1
+   },
+   {
+    "token": "are",
+    "start": 11.1,
+    "end": 11.28
+   },
+   {
+    "token": "free\".",
+    "start": 11.28,
+    "end": 11.72
+   },
+   {
+    "token": "Reading",
+    "start": 12.3,
+    "end": 12.6
+   },
+   {
+    "token": "a",
+    "start": 12.6,
+    "end": 12.8
+   },
+   {
+    "token": "book,",
+    "start": 12.8,
+    "end": 13.08
+   },
+   {
+    "token": "going",
+    "start": 13.74,
+    "end": 14.54
+   },
+   {
+    "token": "for",
+    "start": 14.54,
+    "end": 14.74
+   },
+   {
+    "token": "a",
+    "start": 14.74,
+    "end": 14.84
+   },
+   {
+    "token": "nice",
+    "start": 14.84,
+    "end": 14.98
+   },
+   {
+    "token": "walk,",
+    "start": 14.98,
+    "end": 15.38
+   },
+   {
+    "token": "and,",
+    "start": 15.52,
+    "end": 15.6
+   },
+   {
+    "token": "of",
+    "start": 15.6,
+    "end": 15.64
+   },
+   {
+    "token": "course,",
+    "start": 15.64,
+    "end": 15.8
+   },
+   {
+    "token": "combining",
+    "start": 15.8,
+    "end": 16.3
+   },
+   {
+    "token": "exercise",
+    "start": 16.3,
+    "end": 17.02
+   },
+   {
+    "token": "and",
+    "start": 17.02,
+    "end": 17.3
+   },
+   {
+    "token": "various",
+    "start": 17.3,
+    "end": 17.52
+   },
+   {
+    "token": "things",
+    "start": 17.52,
+    "end": 17.78
+   },
+   {
+    "token": "of",
+    "start": 17.78,
+    "end": 17.94
+   },
+   {
+    "token": "that",
+    "start": 17.94,
+    "end": 18.04
+   },
+   {
+    "token": "nature",
+    "start": 18.04,
+    "end": 18.46
+   },
+   {
+    "token": "where",
+    "start": 18.92,
+    "end": 19.04
+   },
+   {
+    "token": "you're",
+    "start": 19.04,
+    "end": 19.18
+   },
+   {
+    "token": "not",
+    "start": 19.18,
+    "end": 19.34
+   },
+   {
+    "token": "spending",
+    "start": 19.34,
+    "end": 19.88
+   },
+   {
+    "token": "money",
+    "start": 19.88,
+    "end": 20.52
+   },
+   {
+    "token": "per",
+    "start": 20.52,
+    "end": 21.0
+   },
+   {
+    "token": "se.",
+    "start": 21.0,
+    "end": 21.4
+   }
+  ]
+ },
+ {
+  "id": "-aNfi7CP8vM$7",
+  "duration": 8.537688,
+  "n_words": 18,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 854,
+  "n_vision_frames": 257,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 18,
+  "word_valid_length": 18,
+  "words": [
+   {
+    "token": "Maybe",
+    "start": 0.0,
+    "end": 0.68
+   },
+   {
+    "token": "they",
+    "start": 0.68,
+    "end": 0.86
+   },
+   {
+    "token": "have",
+    "start": 0.86,
+    "end": 1.86
+   },
+   {
+    "token": "no",
+    "start": 1.86,
+    "end": 2.02
+   },
+   {
+    "token": "political",
+    "start": 2.02,
+    "end": 2.5
+   },
+   {
+    "token": "party",
+    "start": 2.5,
+    "end": 2.9
+   },
+   {
+    "token": "affiliation,",
+    "start": 2.9,
+    "end": 3.84
+   },
+   {
+    "token": "they're",
+    "start": 4.06,
+    "end": 4.42
+   },
+   {
+    "token": "not",
+    "start": 4.42,
+    "end": 4.56
+   },
+   {
+    "token": "interested",
+    "start": 4.56,
+    "end": 5.1
+   },
+   {
+    "token": "in",
+    "start": 5.1,
+    "end": 5.3
+   },
+   {
+    "token": "politics,",
+    "start": 5.3,
+    "end": 5.76
+   },
+   {
+    "token": "they",
+    "start": 6.02,
+    "end": 6.1
+   },
+   {
+    "token": "could",
+    "start": 6.1,
+    "end": 6.26
+   },
+   {
+    "token": "care",
+    "start": 6.26,
+    "end": 6.46
+   },
+   {
+    "token": "less",
+    "start": 6.46,
+    "end": 6.72
+   },
+   {
+    "token": "about",
+    "start": 6.72,
+    "end": 7.06
+   },
+   {
+    "token": "politics.",
+    "start": 7.06,
+    "end": 7.64
+   }
+  ]
+ },
+ {
+  "id": "-aqamKhZ1Ec$0",
+  "duration": 10.890187,
+  "n_words": 14,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 1090,
+  "n_vision_frames": 329,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 14,
+  "word_valid_length": 14,
+  "words": [
+   {
+    "token": "In",
+    "start": 0.0,
+    "end": 0.2
+   },
+   {
+    "token": "2008,",
+    "start": 0.2,
+    "end": 1.2
+   },
+   {
+    "token": "there",
+    "start": 2.56,
+    "end": 2.98
+   },
+   {
+    "token": "were",
+    "start": 2.98,
+    "end": 3.1
+   },
+   {
+    "token": "very",
+    "start": 3.1,
+    "end": 3.48
+   },
+   {
+    "token": "serious",
+    "start": 3.48,
+    "end": 4.02
+   },
+   {
+    "token": "tribal",
+    "start": 4.02,
+    "end": 4.52
+   },
+   {
+    "token": "warfare",
+    "start": 4.52,
+    "end": 5.08
+   },
+   {
+    "token": "in",
+    "start": 5.08,
+    "end": 5.56
+   },
+   {
+    "token": "Kenya",
+    "start": 5.56,
+    "end": 6.22
+   },
+   {
+    "token": "following",
+    "start": 8.6,
+    "end": 9.28
+   },
+   {
+    "token": "a",
+    "start": 9.28,
+    "end": 9.44
+   },
+   {
+    "token": "disputed",
+    "start": 9.44,
+    "end": 9.92
+   },
+   {
+    "token": "election.",
+    "start": 9.92,
+    "end": 10.36
+   }
+  ]
+ },
+ {
+  "id": "-dxfTGcXJoc$1",
+  "duration": 16.018125,
+  "n_words": 36,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9722,
+  "n_audio_frames": 1602,
+  "n_vision_frames": 482,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 33,
+  "word_valid_length": 36,
+  "words": [
+   {
+    "token": "For",
+    "start": 0.0,
+    "end": 0.58
+   },
+   {
+    "token": "the",
+    "start": 0.58,
+    "end": 0.74
+   },
+   {
+    "token": "10th",
+    "start": 0.74,
+    "end": 1.08
+   },
+   {
+    "token": "straight",
+    "start": 1.08,
+    "end": 1.32
+   },
+   {
+    "token": "year,",
+    "start": 1.32,
+    "end": 1.72
+   },
+   {
+    "token": "some",
+    "start": 2.14,
+    "end": 2.42
+   },
+   {
+    "token": "of",
+    "start": 2.42,
+    "end": 2.72
+   },
+   {
+    "token": "Kentucky’s",
+    "start": 2.72,
+    "end": 3.28
+   },
+   {
+    "token": "best",
+    "start": 3.28,
+    "end": 3.62
+   },
+   {
+    "token": "and",
+    "start": 3.62,
+    "end": 3.96
+   },
+   {
+    "token": "most",
+    "start": 3.96,
+    "end": 4.26
+   },
+   {
+    "token": "innovative",
+    "start": 4.26,
+    "end": 4.72
+   },
+   {
+    "token": "biotech",
+    "start": 4.72,
+    "end": 5.5
+   },
+   {
+    "token": "companies",
+    "start": 5.5,
+    "end": 5.9
+   },
+   {
+    "token": "and",
+    "start": 5.9,
+    "end": 6.12
+   },
+   {
+    "token": "technologies",
+    "start": 6.12,
+    "end": 6.82
+   },
+   {
+    "token": "were",
+    "start": 6.82,
+    "end": 7.42
+   },
+   {
+    "token": "on",
+    "start": 7.42,
+    "end": 7.74
+   },
+   {
+    "token": "display",
+    "start": 7.74,
+    "end": 8.3
+   },
+   {
+    "token": "at",
+    "start": 8.3,
+    "end": 8.7
+   },
+   {
+    "token": "the",
+    "start": 8.7,
+    "end": 8.88
+   },
+   {
+    "token": "annual",
+    "start": 8.88,
+    "end": 9.36
+   },
+   {
+    "token": "BIO",
+    "start": 9.36,
+    "end": 9.8
+   },
+   {
+    "token": "International",
+    "start": 9.8,
+    "end": 10.72
+   },
+   {
+    "token": "Convention,",
+    "start": 10.72,
+    "end": 11.24
+   },
+   {
+    "token": "which",
+    "start": 11.74,
+    "end": 12.04
+   },
+   {
+    "token": "I",
+    "start": 12.04,
+    "end": 12.34
+   },
+   {
+    "token": "and",
+    "start": 12.34,
+    "end": 12.66
+   },
+   {
+    "token": "other",
+    "start": 12.66,
+    "end": 12.9
+   },
+   {
+    "token": "state",
+    "start": 12.9,
+    "end": 13.16
+   },
+   {
+    "token": "officials",
+    "start": 13.16,
+    "end": 13.58
+   },
+   {
+    "token": "attended",
+    "start": 13.58,
+    "end": 14.02
+   },
+   {
+    "token": "this",
+    "start": 14.02,
+    "end": 14.34
+   },
+   {
+    "token": "week",
+    "start": 14.34,
+    "end": 14.56
+   },
+   {
+    "token": "in",
+    "start": 14.56,
+    "end": 14.9
+   },
+   {
+    "token": "Chicago.",
+    "start": 14.9,
+    "end": 15.26
+   }
+  ]
+ },
+ {
+  "id": "-dxfTGcXJoc$0",
+  "duration": 20.410375,
+  "n_words": 41,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9024,
+  "n_audio_frames": 2042,
+  "n_vision_frames": 615,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 39,
+  "timebin_text_valid": 35,
+  "word_valid_length": 41,
+  "words": [
+   {
+    "token": "This",
+    "start": 0.0,
+    "end": 0.68
+   },
+   {
+    "token": "is",
+    "start": 0.68,
+    "end": 0.82
+   },
+   {
+    "token": "Governor",
+    "start": 0.82,
+    "end": 1.12
+   },
+   {
+    "token": "Steve",
+    "start": 1.12,
+    "end": 1.52
+   },
+   {
+    "token": "Beshear",
+    "start": 1.52,
+    "end": 2.04
+   },
+   {
+    "token": "...",
+    "start": 2.04,
+    "end": 2.54
+   },
+   {
+    "token": "About",
+    "start": 2.54,
+    "end": 2.76
+   },
+   {
+    "token": "Kentucky",
+    "start": 2.76,
+    "end": 3.32
+   },
+   {
+    "token": "Our",
+    "start": 4.0,
+    "end": 4.5
+   },
+   {
+    "token": "state",
+    "start": 4.5,
+    "end": 4.8
+   },
+   {
+    "token": "is",
+    "start": 4.8,
+    "end": 5.06
+   },
+   {
+    "token": "home",
+    "start": 5.06,
+    "end": 5.36
+   },
+   {
+    "token": "to",
+    "start": 5.36,
+    "end": 5.6
+   },
+   {
+    "token": "more",
+    "start": 5.6,
+    "end": 5.82
+   },
+   {
+    "token": "than",
+    "start": 5.82,
+    "end": 6.04
+   },
+   {
+    "token": "1,500",
+    "start": 6.04,
+    "end": 6.86
+   },
+   {
+    "token": "bioscience",
+    "start": 6.86,
+    "end": 7.94
+   },
+   {
+    "token": "and",
+    "start": 7.94,
+    "end": 8.34
+   },
+   {
+    "token": "lifescience",
+    "start": 8.34,
+    "end": 8.92
+   },
+   {
+    "token": "companies",
+    "start": 8.92,
+    "end": 9.42
+   },
+   {
+    "token": "and",
+    "start": 9.42,
+    "end": 10.12
+   },
+   {
+    "token": "more",
+    "start": 10.12,
+    "end": 10.34
+   },
+   {
+    "token": "than",
+    "start": 10.34,
+    "end": 10.5
+   },
+   {
+    "token": "100,000",
+    "start": 10.5,
+    "end": 11.42
+   },
+   {
+    "token": "people",
+    "start": 11.42,
+    "end": 11.8
+   },
+   {
+    "token": "who",
+    "start": 11.8,
+    "end": 12.16
+   },
+   {
+    "token": "work",
+    "start": 12.16,
+    "end": 12.38
+   },
+   {
+    "token": "for",
+    "start": 12.38,
+    "end": 12.54
+   },
+   {
+    "token": "these",
+    "start": 12.54,
+    "end": 12.76
+   },
+   {
+    "token": "firms,",
+    "start": 12.76,
+    "end": 13.2
+   },
+   {
+    "token": "in",
+    "start": 13.86,
+    "end": 13.98
+   },
+   {
+    "token": "areas",
+    "start": 13.98,
+    "end": 14.38
+   },
+   {
+    "token": "from",
+    "start": 14.38,
+    "end": 14.92
+   },
+   {
+    "token": "nutrigenomics",
+    "start": 14.92,
+    "end": 15.96
+   },
+   {
+    "token": "and",
+    "start": 15.96,
+    "end": 16.34
+   },
+   {
+    "token": "pharmaceuticals",
+    "start": 16.34,
+    "end": 17.38
+   },
+   {
+    "token": "to",
+    "start": 17.68,
+    "end": 17.72
+   },
+   {
+    "token": "nanotechnology",
+    "start": 17.72,
+    "end": 18.58
+   },
+   {
+    "token": "and",
+    "start": 18.58,
+    "end": 18.86
+   },
+   {
+    "token": "medical",
+    "start": 18.86,
+    "end": 19.12
+   },
+   {
+    "token": "devices.",
+    "start": 19.12,
+    "end": 19.66
+   }
+  ]
+ },
+ {
+  "id": "-dxfTGcXJoc$2",
+  "duration": 16.633187,
+  "n_words": 34,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9706,
+  "n_audio_frames": 1664,
+  "n_vision_frames": 500,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 33,
+  "word_valid_length": 34,
+  "words": [
+   {
+    "token": "An",
+    "start": 0.0,
+    "end": 0.6
+   },
+   {
+    "token": "estimated",
+    "start": 0.6,
+    "end": 1.1
+   },
+   {
+    "token": "20,000",
+    "start": 1.1,
+    "end": 2.2
+   },
+   {
+    "token": "biotech",
+    "start": 2.2,
+    "end": 2.94
+   },
+   {
+    "token": "scientists,",
+    "start": 2.94,
+    "end": 3.46
+   },
+   {
+    "token": "executives",
+    "start": 4.06,
+    "end": 4.34
+   },
+   {
+    "token": "and",
+    "start": 4.74,
+    "end": 4.84
+   },
+   {
+    "token": "industry",
+    "start": 4.84,
+    "end": 5.38
+   },
+   {
+    "token": "experts",
+    "start": 5.38,
+    "end": 5.94
+   },
+   {
+    "token": "from",
+    "start": 5.94,
+    "end": 6.5
+   },
+   {
+    "token": "more",
+    "start": 6.5,
+    "end": 6.74
+   },
+   {
+    "token": "than",
+    "start": 6.74,
+    "end": 6.88
+   },
+   {
+    "token": "50",
+    "start": 6.88,
+    "end": 7.2
+   },
+   {
+    "token": "nations",
+    "start": 7.2,
+    "end": 7.74
+   },
+   {
+    "token": "were",
+    "start": 7.74,
+    "end": 8.16
+   },
+   {
+    "token": "at",
+    "start": 8.16,
+    "end": 8.42
+   },
+   {
+    "token": "the",
+    "start": 8.42,
+    "end": 8.62
+   },
+   {
+    "token": "BIO",
+    "start": 8.62,
+    "end": 8.88
+   },
+   {
+    "token": "conference",
+    "start": 8.88,
+    "end": 9.4
+   },
+   {
+    "token": "to",
+    "start": 9.4,
+    "end": 9.7
+   },
+   {
+    "token": "learn",
+    "start": 9.7,
+    "end": 10.0
+   },
+   {
+    "token": "about",
+    "start": 10.0,
+    "end": 10.34
+   },
+   {
+    "token": "the",
+    "start": 10.34,
+    "end": 10.52
+   },
+   {
+    "token": "latest",
+    "start": 10.52,
+    "end": 10.82
+   },
+   {
+    "token": "scientific",
+    "start": 10.82,
+    "end": 11.36
+   },
+   {
+    "token": "advances,",
+    "start": 11.36,
+    "end": 12.0
+   },
+   {
+    "token": "and",
+    "start": 12.0,
+    "end": 12.62
+   },
+   {
+    "token": "to",
+    "start": 12.62,
+    "end": 12.74
+   },
+   {
+    "token": "exchange",
+    "start": 12.74,
+    "end": 13.16
+   },
+   {
+    "token": "ideas",
+    "start": 13.16,
+    "end": 13.78
+   },
+   {
+    "token": "and",
+    "start": 13.78,
+    "end": 14.24
+   },
+   {
+    "token": "establish",
+    "start": 14.24,
+    "end": 14.68
+   },
+   {
+    "token": "business",
+    "start": 14.68,
+    "end": 15.1
+   },
+   {
+    "token": "relationships.",
+    "start": 15.1,
+    "end": 15.8
+   }
+  ]
+ },
+ {
+  "id": "-dxfTGcXJoc$6",
+  "duration": 12.628438,
+  "n_words": 27,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9259,
+  "n_audio_frames": 1263,
+  "n_vision_frames": 381,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 27,
+  "word_valid_length": 27,
+  "words": [
+   {
+    "token": "Kentucky’s",
+    "start": 0.0,
+    "end": 0.94
+   },
+   {
+    "token": "participation",
+    "start": 0.94,
+    "end": 1.7
+   },
+   {
+    "token": "at",
+    "start": 1.7,
+    "end": 1.94
+   },
+   {
+    "token": "the",
+    "start": 1.94,
+    "end": 2.12
+   },
+   {
+    "token": "annual",
+    "start": 2.12,
+    "end": 2.56
+   },
+   {
+    "token": "BIO",
+    "start": 2.56,
+    "end": 2.9
+   },
+   {
+    "token": "International",
+    "start": 2.9,
+    "end": 3.4
+   },
+   {
+    "token": "Convention",
+    "start": 3.4,
+    "end": 4.24
+   },
+   {
+    "token": "is",
+    "start": 4.24,
+    "end": 4.86
+   },
+   {
+    "token": "the",
+    "start": 4.86,
+    "end": 5.1
+   },
+   {
+    "token": "primary",
+    "start": 5.1,
+    "end": 5.52
+   },
+   {
+    "token": "means",
+    "start": 5.52,
+    "end": 6.14
+   },
+   {
+    "token": "by",
+    "start": 6.14,
+    "end": 6.36
+   },
+   {
+    "token": "which",
+    "start": 6.36,
+    "end": 6.6
+   },
+   {
+    "token": "our",
+    "start": 6.6,
+    "end": 7.08
+   },
+   {
+    "token": "high-tech",
+    "start": 7.08,
+    "end": 7.6
+   },
+   {
+    "token": "companies",
+    "start": 7.6,
+    "end": 8.08
+   },
+   {
+    "token": "and",
+    "start": 8.08,
+    "end": 8.34
+   },
+   {
+    "token": "institutions",
+    "start": 8.34,
+    "end": 8.96
+   },
+   {
+    "token": "can",
+    "start": 8.96,
+    "end": 9.5
+   },
+   {
+    "token": "reach",
+    "start": 9.5,
+    "end": 9.74
+   },
+   {
+    "token": "out",
+    "start": 9.74,
+    "end": 10.1
+   },
+   {
+    "token": "to",
+    "start": 10.1,
+    "end": 10.36
+   },
+   {
+    "token": "the",
+    "start": 10.36,
+    "end": 10.48
+   },
+   {
+    "token": "global",
+    "start": 10.48,
+    "end": 10.84
+   },
+   {
+    "token": "scientific",
+    "start": 10.84,
+    "end": 11.3
+   },
+   {
+    "token": "community.",
+    "start": 11.3,
+    "end": 12.02
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$26",
+  "duration": 5.920562,
+  "n_words": 15,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 593,
+  "n_vision_frames": 179,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 15,
+  "word_valid_length": 15,
+  "words": [
+   {
+    "token": "We're",
+    "start": 0.0,
+    "end": 0.7
+   },
+   {
+    "token": "updating",
+    "start": 0.7,
+    "end": 1.1
+   },
+   {
+    "token": "it",
+    "start": 1.1,
+    "end": 1.3
+   },
+   {
+    "token": "all",
+    "start": 1.3,
+    "end": 1.48
+   },
+   {
+    "token": "the",
+    "start": 1.48,
+    "end": 1.66
+   },
+   {
+    "token": "time",
+    "start": 1.66,
+    "end": 1.96
+   },
+   {
+    "token": "and",
+    "start": 1.96,
+    "end": 2.54
+   },
+   {
+    "token": "looking",
+    "start": 2.54,
+    "end": 2.84
+   },
+   {
+    "token": "forward",
+    "start": 2.84,
+    "end": 3.18
+   },
+   {
+    "token": "to",
+    "start": 3.18,
+    "end": 3.44
+   },
+   {
+    "token": "your",
+    "start": 3.44,
+    "end": 3.64
+   },
+   {
+    "token": "comments",
+    "start": 3.64,
+    "end": 4.1
+   },
+   {
+    "token": "on",
+    "start": 4.1,
+    "end": 4.5
+   },
+   {
+    "token": "our",
+    "start": 4.5,
+    "end": 4.66
+   },
+   {
+    "token": "videos.",
+    "start": 4.66,
+    "end": 5.04
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$17",
+  "duration": 7.09525,
+  "n_words": 16,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.875,
+  "n_audio_frames": 710,
+  "n_vision_frames": 215,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 16,
+  "word_valid_length": 16,
+  "words": [
+   {
+    "token": "As",
+    "start": 0.0,
+    "end": 0.68
+   },
+   {
+    "token": "you",
+    "start": 0.68,
+    "end": 0.86
+   },
+   {
+    "token": "have",
+    "start": 0.86,
+    "end": 1.04
+   },
+   {
+    "token": "more",
+    "start": 1.04,
+    "end": 1.3
+   },
+   {
+    "token": "experience,",
+    "start": 1.3,
+    "end": 1.94
+   },
+   {
+    "token": "you",
+    "start": 2.44,
+    "end": 3.3
+   },
+   {
+    "token": "have",
+    "start": 3.3,
+    "end": 3.44
+   },
+   {
+    "token": "more",
+    "start": 3.44,
+    "end": 3.7
+   },
+   {
+    "token": "times",
+    "start": 3.7,
+    "end": 4.41
+   },
+   {
+    "token": "exhibiting,",
+    "start": 4.41,
+    "end": 5.12
+   },
+   {
+    "token": "you",
+    "start": 5.12,
+    "end": 5.34
+   },
+   {
+    "token": "get",
+    "start": 5.34,
+    "end": 5.48
+   },
+   {
+    "token": "to",
+    "start": 5.48,
+    "end": 5.64
+   },
+   {
+    "token": "know",
+    "start": 5.64,
+    "end": 5.8
+   },
+   {
+    "token": "more",
+    "start": 5.8,
+    "end": 6.06
+   },
+   {
+    "token": "people.",
+    "start": 6.06,
+    "end": 6.44
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$18",
+  "duration": 8.265688,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 827,
+  "n_vision_frames": 250,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 22,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "It",
+    "start": 0.0,
+    "end": 0.62
+   },
+   {
+    "token": "becomes",
+    "start": 0.62,
+    "end": 0.96
+   },
+   {
+    "token": "easier",
+    "start": 0.96,
+    "end": 1.74
+   },
+   {
+    "token": "at",
+    "start": 1.74,
+    "end": 2.04
+   },
+   {
+    "token": "each",
+    "start": 2.04,
+    "end": 2.32
+   },
+   {
+    "token": "one",
+    "start": 2.32,
+    "end": 2.54
+   },
+   {
+    "token": "of",
+    "start": 2.54,
+    "end": 2.66
+   },
+   {
+    "token": "these",
+    "start": 2.66,
+    "end": 2.86
+   },
+   {
+    "token": "conferences",
+    "start": 2.86,
+    "end": 3.46
+   },
+   {
+    "token": "to",
+    "start": 3.46,
+    "end": 4.18
+   },
+   {
+    "token": "connect",
+    "start": 4.18,
+    "end": 4.5
+   },
+   {
+    "token": "with",
+    "start": 4.5,
+    "end": 4.76
+   },
+   {
+    "token": "people",
+    "start": 4.76,
+    "end": 5.12
+   },
+   {
+    "token": "that",
+    "start": 5.12,
+    "end": 5.32
+   },
+   {
+    "token": "you've",
+    "start": 5.32,
+    "end": 5.62
+   },
+   {
+    "token": "met",
+    "start": 5.62,
+    "end": 5.82
+   },
+   {
+    "token": "or",
+    "start": 5.82,
+    "end": 6.48
+   },
+   {
+    "token": "that",
+    "start": 6.48,
+    "end": 6.66
+   },
+   {
+    "token": "you're",
+    "start": 6.66,
+    "end": 6.82
+   },
+   {
+    "token": "doing",
+    "start": 6.82,
+    "end": 7.06
+   },
+   {
+    "token": "business",
+    "start": 7.06,
+    "end": 7.4
+   },
+   {
+    "token": "with.",
+    "start": 7.4,
+    "end": 7.74
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$16",
+  "duration": 5.483,
+  "n_words": 11,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 549,
+  "n_vision_frames": 166,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 11,
+  "word_valid_length": 11,
+  "words": [
+   {
+    "token": "Third,",
+    "start": 0.0,
+    "end": 0.66
+   },
+   {
+    "token": "another",
+    "start": 0.9,
+    "end": 1.2
+   },
+   {
+    "token": "big",
+    "start": 1.2,
+    "end": 1.48
+   },
+   {
+    "token": "benefit",
+    "start": 1.48,
+    "end": 1.88
+   },
+   {
+    "token": "of",
+    "start": 1.88,
+    "end": 2.1
+   },
+   {
+    "token": "exhibiting",
+    "start": 2.1,
+    "end": 2.62
+   },
+   {
+    "token": "is",
+    "start": 2.62,
+    "end": 2.84
+   },
+   {
+    "token": "connecting",
+    "start": 2.84,
+    "end": 3.26
+   },
+   {
+    "token": "with",
+    "start": 3.26,
+    "end": 3.62
+   },
+   {
+    "token": "existing",
+    "start": 3.62,
+    "end": 4.16
+   },
+   {
+    "token": "clients.",
+    "start": 4.16,
+    "end": 4.64
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$13",
+  "duration": 4.023875,
+  "n_words": 11,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 403,
+  "n_vision_frames": 123,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 11,
+  "word_valid_length": 11,
+  "words": [
+   {
+    "token": "What",
+    "start": 0.0,
+    "end": 0.64
+   },
+   {
+    "token": "are",
+    "start": 0.64,
+    "end": 0.74
+   },
+   {
+    "token": "you",
+    "start": 0.74,
+    "end": 0.82
+   },
+   {
+    "token": "doing",
+    "start": 0.82,
+    "end": 1.08
+   },
+   {
+    "token": "that's",
+    "start": 1.08,
+    "end": 1.36
+   },
+   {
+    "token": "different?\"",
+    "start": 1.36,
+    "end": 1.68
+   },
+   {
+    "token": "They",
+    "start": 2.22,
+    "end": 2.42
+   },
+   {
+    "token": "always",
+    "start": 2.42,
+    "end": 2.68
+   },
+   {
+    "token": "want",
+    "start": 2.68,
+    "end": 2.94
+   },
+   {
+    "token": "an",
+    "start": 2.94,
+    "end": 3.12
+   },
+   {
+    "token": "answer.",
+    "start": 3.12,
+    "end": 3.42
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$1",
+  "duration": 10.15625,
+  "n_words": 20,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.95,
+  "n_audio_frames": 1016,
+  "n_vision_frames": 306,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 20,
+  "word_valid_length": 20,
+  "words": [
+   {
+    "token": "I",
+    "start": 0.0,
+    "end": 0.62
+   },
+   {
+    "token": "started",
+    "start": 0.84,
+    "end": 1.6
+   },
+   {
+    "token": "a",
+    "start": 1.6,
+    "end": 1.8
+   },
+   {
+    "token": "successful",
+    "start": 1.8,
+    "end": 2.32
+   },
+   {
+    "token": "Legal",
+    "start": 2.32,
+    "end": 2.66
+   },
+   {
+    "token": "Nurse",
+    "start": 2.66,
+    "end": 2.9
+   },
+   {
+    "token": "Consulting",
+    "start": 2.9,
+    "end": 3.42
+   },
+   {
+    "token": "Business",
+    "start": 3.42,
+    "end": 3.96
+   },
+   {
+    "token": "in",
+    "start": 3.96,
+    "end": 4.58
+   },
+   {
+    "token": "1989.",
+    "start": 4.58,
+    "end": 5.54
+   },
+   {
+    "token": "I",
+    "start": 5.54,
+    "end": 6.56
+   },
+   {
+    "token": "mentor",
+    "start": 6.56,
+    "end": 6.82
+   },
+   {
+    "token": "nurses",
+    "start": 6.82,
+    "end": 7.22
+   },
+   {
+    "token": "who",
+    "start": 7.22,
+    "end": 7.46
+   },
+   {
+    "token": "want",
+    "start": 7.46,
+    "end": 7.7
+   },
+   {
+    "token": "to",
+    "start": 7.7,
+    "end": 7.9
+   },
+   {
+    "token": "become",
+    "start": 7.9,
+    "end": 8.18
+   },
+   {
+    "token": "Legal",
+    "start": 8.18,
+    "end": 8.46
+   },
+   {
+    "token": "Nurse",
+    "start": 8.46,
+    "end": 8.78
+   },
+   {
+    "token": "Consultants.",
+    "start": 8.78,
+    "end": 9.34
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$6",
+  "duration": 6.183125,
+  "n_words": 12,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 619,
+  "n_vision_frames": 187,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 12,
+  "word_valid_length": 12,
+  "words": [
+   {
+    "token": "First",
+    "start": 0.0,
+    "end": 0.74
+   },
+   {
+    "token": "exhibiting",
+    "start": 0.98,
+    "end": 1.5
+   },
+   {
+    "token": "is",
+    "start": 1.5,
+    "end": 1.7
+   },
+   {
+    "token": "a",
+    "start": 1.7,
+    "end": 1.82
+   },
+   {
+    "token": "wonderful",
+    "start": 1.82,
+    "end": 2.24
+   },
+   {
+    "token": "opportunity",
+    "start": 2.24,
+    "end": 3.06
+   },
+   {
+    "token": "to",
+    "start": 3.06,
+    "end": 3.38
+   },
+   {
+    "token": "network",
+    "start": 3.38,
+    "end": 3.78
+   },
+   {
+    "token": "with",
+    "start": 3.78,
+    "end": 4.08
+   },
+   {
+    "token": "other",
+    "start": 4.08,
+    "end": 4.42
+   },
+   {
+    "token": "legal",
+    "start": 4.42,
+    "end": 4.82
+   },
+   {
+    "token": "vendors.",
+    "start": 4.82,
+    "end": 5.26
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$9",
+  "duration": 4.936125,
+  "n_words": 10,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 494,
+  "n_vision_frames": 150,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 10,
+  "word_valid_length": 10,
+  "words": [
+   {
+    "token": "Secondly,",
+    "start": 0.0,
+    "end": 0.82
+   },
+   {
+    "token": "another",
+    "start": 1.2,
+    "end": 1.56
+   },
+   {
+    "token": "goal",
+    "start": 1.56,
+    "end": 1.86
+   },
+   {
+    "token": "of",
+    "start": 1.86,
+    "end": 2.06
+   },
+   {
+    "token": "exhibiting",
+    "start": 2.06,
+    "end": 2.52
+   },
+   {
+    "token": "is",
+    "start": 2.52,
+    "end": 2.76
+   },
+   {
+    "token": "building",
+    "start": 2.76,
+    "end": 3.18
+   },
+   {
+    "token": "your",
+    "start": 3.18,
+    "end": 3.42
+   },
+   {
+    "token": "company",
+    "start": 3.42,
+    "end": 3.8
+   },
+   {
+    "token": "image.",
+    "start": 3.8,
+    "end": 4.26
+   }
+  ]
+ },
+ {
+  "id": "-egA8-b7-3M$20",
+  "duration": 6.474437,
+  "n_words": 20,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 648,
+  "n_vision_frames": 196,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 20,
+  "word_valid_length": 20,
+  "words": [
+   {
+    "token": "Now",
+    "start": 0.0,
+    "end": 0.72
+   },
+   {
+    "token": "you've",
+    "start": 0.72,
+    "end": 0.94
+   },
+   {
+    "token": "got",
+    "start": 0.94,
+    "end": 1.06
+   },
+   {
+    "token": "a",
+    "start": 1.06,
+    "end": 1.24
+   },
+   {
+    "token": "face",
+    "start": 1.24,
+    "end": 1.5
+   },
+   {
+    "token": "that",
+    "start": 1.5,
+    "end": 1.74
+   },
+   {
+    "token": "you",
+    "start": 1.74,
+    "end": 1.88
+   },
+   {
+    "token": "can",
+    "start": 1.88,
+    "end": 2.06
+   },
+   {
+    "token": "connect",
+    "start": 2.06,
+    "end": 2.38
+   },
+   {
+    "token": "with",
+    "start": 2.38,
+    "end": 2.66
+   },
+   {
+    "token": "a",
+    "start": 2.66,
+    "end": 2.82
+   },
+   {
+    "token": "voice,",
+    "start": 2.82,
+    "end": 3.14
+   },
+   {
+    "token": "and",
+    "start": 3.14,
+    "end": 4.02
+   },
+   {
+    "token": "that",
+    "start": 4.02,
+    "end": 4.22
+   },
+   {
+    "token": "makes",
+    "start": 4.22,
+    "end": 4.4
+   },
+   {
+    "token": "you",
+    "start": 4.4,
+    "end": 4.62
+   },
+   {
+    "token": "closer",
+    "start": 4.62,
+    "end": 5.04
+   },
+   {
+    "token": "to",
+    "start": 5.04,
+    "end": 5.28
+   },
+   {
+    "token": "that",
+    "start": 5.28,
+    "end": 5.48
+   },
+   {
+    "token": "client.",
+    "start": 5.48,
+    "end": 5.88
+   }
+  ]
+ },
+ {
+  "id": "-iRBcNs9oI8$3",
+  "duration": 5.53825,
+  "n_words": 8,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.125,
+  "n_audio_frames": 554,
+  "n_vision_frames": 167,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 7,
+  "word_valid_length": 8,
+  "words": [
+   {
+    "token": "Well,",
+    "start": 0.0,
+    "end": 0.0
+   },
+   {
+    "token": "it",
+    "start": 0.0,
+    "end": 0.0
+   },
+   {
+    "token": "is",
+    "start": 0.0,
+    "end": 0.5
+   },
+   {
+    "token": "the",
+    "start": 0.5,
+    "end": 1.50765
+   },
+   {
+    "token": "secret",
+    "start": 1.50765,
+    "end": 2.5153
+   },
+   {
+    "token": "of",
+    "start": 2.5153,
+    "end": 3.52295
+   },
+   {
+    "token": "power",
+    "start": 3.52295,
+    "end": 4.5306
+   },
+   {
+    "token": "pose",
+    "start": 4.5306,
+    "end": 5.53825
+   }
+  ]
+ },
+ {
+  "id": "-iRBcNs9oI8$7",
+  "duration": 4.00575,
+  "n_words": 9,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.1111,
+  "n_audio_frames": 401,
+  "n_vision_frames": 120,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 9,
+  "word_valid_length": 9,
+  "words": [
+   {
+    "token": "Well,",
+    "start": 0.0,
+    "end": 0.22666666666666668
+   },
+   {
+    "token": "for",
+    "start": 0.22666666666666668,
+    "end": 0.45333333333333337
+   },
+   {
+    "token": "starters,",
+    "start": 0.45333333333333337,
+    "end": 0.68
+   },
+   {
+    "token": "let's",
+    "start": 0.68,
+    "end": 0.9066666666666667
+   },
+   {
+    "token": "look",
+    "start": 0.9066666666666667,
+    "end": 1.1333333333333333
+   },
+   {
+    "token": "at",
+    "start": 1.1333333333333333,
+    "end": 1.36
+   },
+   {
+    "token": "the",
+    "start": 1.36,
+    "end": 1.52
+   },
+   {
+    "token": "word",
+    "start": 1.52,
+    "end": 2.762875
+   },
+   {
+    "token": "\"power\"",
+    "start": 2.762875,
+    "end": 4.00575
+   }
+  ]
+ },
+ {
+  "id": "-iRBcNs9oI8$6",
+  "duration": 2.820438,
+  "n_words": 5,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 283,
+  "n_vision_frames": 85,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 5,
+  "word_valid_length": 5,
+  "words": [
+   {
+    "token": "What",
+    "start": 0.0,
+    "end": 0.49920000000000003
+   },
+   {
+    "token": "is",
+    "start": 0.49920000000000003,
+    "end": 0.9984000000000001
+   },
+   {
+    "token": "a",
+    "start": 0.9984000000000001,
+    "end": 1.5296
+   },
+   {
+    "token": "power",
+    "start": 1.5296,
+    "end": 2.1248000000000005
+   },
+   {
+    "token": "pose",
+    "start": 2.1248000000000005,
+    "end": 2.624
+   }
+  ]
+ },
+ {
+  "id": "-iRBcNs9oI8$9",
+  "duration": 3.374062,
+  "n_words": 5,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.2,
+  "n_audio_frames": 338,
+  "n_vision_frames": 102,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 46,
+  "timebin_text_valid": 5,
+  "word_valid_length": 5,
+  "words": [
+   {
+    "token": "Power",
+    "start": 0.36,
+    "end": 1.66
+   },
+   {
+    "token": "is",
+    "start": 1.66,
+    "end": 2.0885154999999997
+   },
+   {
+    "token": "similar",
+    "start": 2.0885154999999997,
+    "end": 2.517031
+   },
+   {
+    "token": "to",
+    "start": 2.517031,
+    "end": 2.9455465
+   },
+   {
+    "token": "strength",
+    "start": 2.9455465,
+    "end": 3.374062
+   }
+  ]
+ },
+ {
+  "id": "-iRBcNs9oI8$8",
+  "duration": 8.026063,
+  "n_words": 21,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.0476,
+  "n_audio_frames": 803,
+  "n_vision_frames": 241,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 21,
+  "word_valid_length": 21,
+  "words": [
+   {
+    "token": "I've",
+    "start": 0.0,
+    "end": 0.7485714285714286
+   },
+   {
+    "token": "drawn",
+    "start": 0.7485714285714286,
+    "end": 1.497142857142857
+   },
+   {
+    "token": "this",
+    "start": 1.497142857142857,
+    "end": 2.2457142857142856
+   },
+   {
+    "token": "man",
+    "start": 2.2457142857142856,
+    "end": 2.994285714285714
+   },
+   {
+    "token": "here,",
+    "start": 2.994285714285714,
+    "end": 3.742857142857143
+   },
+   {
+    "token": "and",
+    "start": 3.742857142857143,
+    "end": 4.491428571428571
+   },
+   {
+    "token": "if",
+    "start": 4.491428571428571,
+    "end": 5.24
+   },
+   {
+    "token": "you",
+    "start": 5.24,
+    "end": 5.48
+   },
+   {
+    "token": "can",
+    "start": 5.48,
+    "end": 5.675851000000001
+   },
+   {
+    "token": "tell,",
+    "start": 5.675851000000001,
+    "end": 5.871702000000001
+   },
+   {
+    "token": "he",
+    "start": 5.871702000000001,
+    "end": 6.067553
+   },
+   {
+    "token": "has",
+    "start": 6.067553,
+    "end": 6.263404
+   },
+   {
+    "token": "a",
+    "start": 6.263404,
+    "end": 6.459255000000001
+   },
+   {
+    "token": "lot",
+    "start": 6.459255000000001,
+    "end": 6.655106000000001
+   },
+   {
+    "token": "of",
+    "start": 6.655106000000001,
+    "end": 6.850957000000001
+   },
+   {
+    "token": "big",
+    "start": 6.850957000000001,
+    "end": 7.046808
+   },
+   {
+    "token": "muscles,",
+    "start": 7.046808,
+    "end": 7.242659000000001
+   },
+   {
+    "token": "he",
+    "start": 7.242659000000001,
+    "end": 7.438510000000001
+   },
+   {
+    "token": "looks",
+    "start": 7.438510000000001,
+    "end": 7.634361
+   },
+   {
+    "token": "very",
+    "start": 7.634361,
+    "end": 7.830212000000001
+   },
+   {
+    "token": "strong",
+    "start": 7.830212000000001,
+    "end": 8.026063
+   }
+  ]
+ },
+ {
+  "id": "-lzEya4AM_4$5",
+  "duration": 7.569687,
+  "n_words": 19,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9474,
+  "n_audio_frames": 757,
+  "n_vision_frames": 229,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 18,
+  "word_valid_length": 19,
+  "words": [
+   {
+    "token": "If",
+    "start": 0.0,
+    "end": 0.6
+   },
+   {
+    "token": "it",
+    "start": 0.6,
+    "end": 0.7
+   },
+   {
+    "token": "falls",
+    "start": 0.7,
+    "end": 0.96
+   },
+   {
+    "token": "into",
+    "start": 0.96,
+    "end": 1.18
+   },
+   {
+    "token": "oh",
+    "start": 1.18,
+    "end": 1.18
+   },
+   {
+    "token": "any",
+    "start": 1.18,
+    "end": 1.7
+   },
+   {
+    "token": "of",
+    "start": 1.7,
+    "end": 1.86
+   },
+   {
+    "token": "those",
+    "start": 1.86,
+    "end": 2.02
+   },
+   {
+    "token": "three",
+    "start": 2.02,
+    "end": 2.26
+   },
+   {
+    "token": "categories,",
+    "start": 2.26,
+    "end": 2.76
+   },
+   {
+    "token": "inducing",
+    "start": 3.32,
+    "end": 4.26
+   },
+   {
+    "token": "nausea",
+    "start": 4.26,
+    "end": 5.46
+   },
+   {
+    "token": "and",
+    "start": 5.46,
+    "end": 5.54
+   },
+   {
+    "token": "vomiting",
+    "start": 5.54,
+    "end": 5.86
+   },
+   {
+    "token": "would",
+    "start": 5.86,
+    "end": 6.34
+   },
+   {
+    "token": "be",
+    "start": 6.34,
+    "end": 6.46
+   },
+   {
+    "token": "your",
+    "start": 6.46,
+    "end": 6.58
+   },
+   {
+    "token": "next",
+    "start": 6.58,
+    "end": 6.82
+   },
+   {
+    "token": "step.",
+    "start": 6.82,
+    "end": 7.02
+   }
+  ]
+ },
+ {
+  "id": "-lzEya4AM_4$6",
+  "duration": 14.740375,
+  "n_words": 43,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9767,
+  "n_audio_frames": 1475,
+  "n_vision_frames": 443,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 36,
+  "word_valid_length": 43,
+  "words": [
+   {
+    "token": "If",
+    "start": 0.0,
+    "end": 0.66
+   },
+   {
+    "token": "the",
+    "start": 0.66,
+    "end": 0.8
+   },
+   {
+    "token": "product",
+    "start": 0.8,
+    "end": 1.16
+   },
+   {
+    "token": "or",
+    "start": 1.16,
+    "end": 1.62
+   },
+   {
+    "token": "poison",
+    "start": 1.62,
+    "end": 2.02
+   },
+   {
+    "token": "is",
+    "start": 2.02,
+    "end": 2.22
+   },
+   {
+    "token": "some",
+    "start": 2.22,
+    "end": 2.4
+   },
+   {
+    "token": "type",
+    "start": 2.4,
+    "end": 2.6
+   },
+   {
+    "token": "of",
+    "start": 2.6,
+    "end": 2.84
+   },
+   {
+    "token": "petroleum",
+    "start": 2.84,
+    "end": 3.2
+   },
+   {
+    "token": "product",
+    "start": 3.2,
+    "end": 3.7
+   },
+   {
+    "token": "or",
+    "start": 3.7,
+    "end": 4.26
+   },
+   {
+    "token": "corrosive",
+    "start": 4.26,
+    "end": 4.78
+   },
+   {
+    "token": "product,",
+    "start": 4.78,
+    "end": 5.2
+   },
+   {
+    "token": "you",
+    "start": 5.32,
+    "end": 5.9
+   },
+   {
+    "token": "would",
+    "start": 5.9,
+    "end": 6.04
+   },
+   {
+    "token": "not",
+    "start": 6.04,
+    "end": 6.22
+   },
+   {
+    "token": "attempt",
+    "start": 6.22,
+    "end": 6.8
+   },
+   {
+    "token": "to",
+    "start": 6.8,
+    "end": 7.28
+   },
+   {
+    "token": "induce",
+    "start": 7.28,
+    "end": 7.84
+   },
+   {
+    "token": "vomiting",
+    "start": 7.84,
+    "end": 8.24
+   },
+   {
+    "token": "and",
+    "start": 8.24,
+    "end": 8.68
+   },
+   {
+    "token": "nausea,",
+    "start": 8.68,
+    "end": 9.24
+   },
+   {
+    "token": "as",
+    "start": 9.46,
+    "end": 9.7
+   },
+   {
+    "token": "as",
+    "start": 9.7,
+    "end": 9.7
+   },
+   {
+    "token": "the",
+    "start": 9.7,
+    "end": 9.86
+   },
+   {
+    "token": "product",
+    "start": 9.86,
+    "end": 10.22
+   },
+   {
+    "token": "burned",
+    "start": 10.22,
+    "end": 10.56
+   },
+   {
+    "token": "on",
+    "start": 10.56,
+    "end": 10.78
+   },
+   {
+    "token": "the",
+    "start": 10.78,
+    "end": 10.92
+   },
+   {
+    "token": "way",
+    "start": 10.92,
+    "end": 11.06
+   },
+   {
+    "token": "down",
+    "start": 11.06,
+    "end": 11.38
+   },
+   {
+    "token": "it",
+    "start": 11.68,
+    "end": 11.84
+   },
+   {
+    "token": "could",
+    "start": 11.84,
+    "end": 11.96
+   },
+   {
+    "token": "cause",
+    "start": 11.96,
+    "end": 12.24
+   },
+   {
+    "token": "damage",
+    "start": 12.24,
+    "end": 12.6
+   },
+   {
+    "token": "and",
+    "start": 12.6,
+    "end": 12.82
+   },
+   {
+    "token": "burning",
+    "start": 12.82,
+    "end": 13.12
+   },
+   {
+    "token": "on",
+    "start": 13.12,
+    "end": 13.5
+   },
+   {
+    "token": "the",
+    "start": 13.5,
+    "end": 13.6
+   },
+   {
+    "token": "way",
+    "start": 13.6,
+    "end": 13.74
+   },
+   {
+    "token": "back",
+    "start": 13.74,
+    "end": 13.92
+   },
+   {
+    "token": "up.",
+    "start": 13.92,
+    "end": 14.18
+   }
+  ]
+ },
+ {
+  "id": "-mJ2ud6oKI8$1",
+  "duration": 6.0545,
+  "n_words": 13,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 606,
+  "n_vision_frames": 182,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 0,
+  "timebin_text_valid": 13,
+  "word_valid_length": 13,
+  "words": [
+   {
+    "token": "There",
+    "start": 0.0,
+    "end": 0.4657307692307693
+   },
+   {
+    "token": "are",
+    "start": 0.4657307692307693,
+    "end": 0.9314615384615386
+   },
+   {
+    "token": "a",
+    "start": 0.9314615384615386,
+    "end": 1.3971923076923078
+   },
+   {
+    "token": "dozen",
+    "start": 1.3971923076923078,
+    "end": 1.8629230769230771
+   },
+   {
+    "token": "or",
+    "start": 1.8629230769230771,
+    "end": 2.328653846153846
+   },
+   {
+    "token": "more",
+    "start": 2.328653846153846,
+    "end": 2.7943846153846157
+   },
+   {
+    "token": "hands",
+    "start": 2.7943846153846157,
+    "end": 3.2601153846153843
+   },
+   {
+    "token": "on",
+    "start": 3.2601153846153843,
+    "end": 3.7258461538461543
+   },
+   {
+    "token": "techniques",
+    "start": 3.7258461538461543,
+    "end": 4.191576923076923
+   },
+   {
+    "token": "that",
+    "start": 4.191576923076923,
+    "end": 4.657307692307692
+   },
+   {
+    "token": "we",
+    "start": 4.657307692307692,
+    "end": 5.123038461538462
+   },
+   {
+    "token": "can",
+    "start": 5.123038461538462,
+    "end": 5.588769230769231
+   },
+   {
+    "token": "do",
+    "start": 5.588769230769231,
+    "end": 6.0545
+   }
+  ]
+ },
+ {
+  "id": "-mJ2ud6oKI8$2",
+  "duration": 5.701688,
+  "n_words": 11,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 571,
+  "n_vision_frames": 171,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 33,
+  "timebin_text_valid": 11,
+  "word_valid_length": 11,
+  "words": [
+   {
+    "token": "So",
+    "start": 0.0,
+    "end": 0.5183352272727273
+   },
+   {
+    "token": "physical",
+    "start": 0.5183352272727273,
+    "end": 1.0366704545454546
+   },
+   {
+    "token": "therapists",
+    "start": 1.0366704545454546,
+    "end": 1.5550056818181817
+   },
+   {
+    "token": "and",
+    "start": 1.5550056818181817,
+    "end": 2.073340909090909
+   },
+   {
+    "token": "chiropractors",
+    "start": 2.073340909090909,
+    "end": 2.5916761363636365
+   },
+   {
+    "token": "will",
+    "start": 2.5916761363636365,
+    "end": 3.1100113636363633
+   },
+   {
+    "token": "do",
+    "start": 3.1100113636363633,
+    "end": 3.628346590909091
+   },
+   {
+    "token": "joint",
+    "start": 3.628346590909091,
+    "end": 4.146681818181818
+   },
+   {
+    "token": "manipulations",
+    "start": 4.146681818181818,
+    "end": 4.665017045454546
+   },
+   {
+    "token": "and",
+    "start": 4.665017045454546,
+    "end": 5.183352272727273
+   },
+   {
+    "token": "mobilizations",
+    "start": 5.183352272727273,
+    "end": 5.7016875
+   }
+  ]
+ },
+ {
+  "id": "-mJ2ud6oKI8$6",
+  "duration": 2.228125,
+  "n_words": 5,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.2,
+  "n_audio_frames": 223,
+  "n_vision_frames": 67,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 5,
+  "word_valid_length": 5,
+  "words": [
+   {
+    "token": "They",
+    "start": 0.0,
+    "end": 0.2
+   },
+   {
+    "token": "are",
+    "start": 0.2,
+    "end": 0.4
+   },
+   {
+    "token": "all",
+    "start": 0.4,
+    "end": 0.66
+   },
+   {
+    "token": "very",
+    "start": 0.66,
+    "end": 1.4440624999999998
+   },
+   {
+    "token": "safe",
+    "start": 1.4440624999999998,
+    "end": 2.228125
+   }
+  ]
+ },
+ {
+  "id": "-mJ2ud6oKI8$9",
+  "duration": 6.90875,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.0909,
+  "n_audio_frames": 691,
+  "n_vision_frames": 208,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 17,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "It's",
+    "start": 0.0,
+    "end": 0.262
+   },
+   {
+    "token": "safe",
+    "start": 0.262,
+    "end": 0.524
+   },
+   {
+    "token": "and",
+    "start": 0.524,
+    "end": 0.786
+   },
+   {
+    "token": "the",
+    "start": 0.786,
+    "end": 1.048
+   },
+   {
+    "token": "person",
+    "start": 1.048,
+    "end": 1.31
+   },
+   {
+    "token": "will",
+    "start": 1.31,
+    "end": 1.572
+   },
+   {
+    "token": "feel",
+    "start": 1.572,
+    "end": 1.834
+   },
+   {
+    "token": "better",
+    "start": 1.834,
+    "end": 2.096
+   },
+   {
+    "token": "later",
+    "start": 2.096,
+    "end": 2.358
+   },
+   {
+    "token": "on,",
+    "start": 2.358,
+    "end": 2.62
+   },
+   {
+    "token": "but",
+    "start": 2.62,
+    "end": 3.02
+   },
+   {
+    "token": "it's",
+    "start": 3.02,
+    "end": 3.7640000000000002
+   },
+   {
+    "token": "sort",
+    "start": 3.7640000000000002,
+    "end": 4.508
+   },
+   {
+    "token": "of",
+    "start": 4.508,
+    "end": 5.252000000000001
+   },
+   {
+    "token": "like",
+    "start": 5.252000000000001,
+    "end": 5.996
+   },
+   {
+    "token": "flossing",
+    "start": 5.996,
+    "end": 6.74
+   },
+   {
+    "token": "your",
+    "start": 6.74,
+    "end": 6.88
+   },
+   {
+    "token": "teeth",
+    "start": 6.88,
+    "end": 6.88575
+   },
+   {
+    "token": "for",
+    "start": 6.88575,
+    "end": 6.8915
+   },
+   {
+    "token": "the",
+    "start": 6.8915,
+    "end": 6.8972500000000005
+   },
+   {
+    "token": "first",
+    "start": 6.8972500000000005,
+    "end": 6.9030000000000005
+   },
+   {
+    "token": "time",
+    "start": 6.9030000000000005,
+    "end": 6.90875
+   }
+  ]
+ },
+ {
+  "id": "-mJ2ud6oKI8$8",
+  "duration": 4.171375,
+  "n_words": 11,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.1818,
+  "n_audio_frames": 418,
+  "n_vision_frames": 125,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 11,
+  "word_valid_length": 11,
+  "words": [
+   {
+    "token": "Sometimes",
+    "start": 0.0,
+    "end": 0.5200000000000006
+   },
+   {
+    "token": "we",
+    "start": 0.5200000000000006,
+    "end": 0.88
+   },
+   {
+    "token": "have",
+    "start": 0.88,
+    "end": 1.02
+   },
+   {
+    "token": "to",
+    "start": 1.02,
+    "end": 1.12
+   },
+   {
+    "token": "stretch",
+    "start": 1.12,
+    "end": 1.5559107142857145
+   },
+   {
+    "token": "that",
+    "start": 1.5559107142857145,
+    "end": 1.9918214285714289
+   },
+   {
+    "token": "joint",
+    "start": 1.9918214285714289,
+    "end": 2.427732142857143
+   },
+   {
+    "token": "that",
+    "start": 2.427732142857143,
+    "end": 2.8636428571428576
+   },
+   {
+    "token": "is",
+    "start": 2.8636428571428576,
+    "end": 3.2995535714285715
+   },
+   {
+    "token": "already",
+    "start": 3.2995535714285715,
+    "end": 3.735464285714286
+   },
+   {
+    "token": "irritated",
+    "start": 3.735464285714286,
+    "end": 4.171375
+   }
+  ]
+ },
+ {
+  "id": "-mqbVkbCndg$0",
+  "duration": 6.3855,
+  "n_words": 12,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8333,
+  "n_audio_frames": 639,
+  "n_vision_frames": 194,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 12,
+  "word_valid_length": 12,
+  "words": [
+   {
+    "token": "How,",
+    "start": 0.0,
+    "end": 0.32
+   },
+   {
+    "token": "at",
+    "start": 0.32,
+    "end": 0.92
+   },
+   {
+    "token": "a",
+    "start": 0.92,
+    "end": 1.02
+   },
+   {
+    "token": "particular",
+    "start": 1.02,
+    "end": 1.46
+   },
+   {
+    "token": "moment",
+    "start": 1.46,
+    "end": 1.9
+   },
+   {
+    "token": "in",
+    "start": 1.9,
+    "end": 2.14
+   },
+   {
+    "token": "time—our",
+    "start": 2.14,
+    "end": 2.86
+   },
+   {
+    "token": "moment",
+    "start": 2.86,
+    "end": 3.3
+   },
+   {
+    "token": "in",
+    "start": 3.3,
+    "end": 3.56
+   },
+   {
+    "token": "time—are",
+    "start": 3.56,
+    "end": 4.58
+   },
+   {
+    "token": "they",
+    "start": 4.58,
+    "end": 4.86
+   },
+   {
+    "token": "limited",
+    "start": 4.86,
+    "end": 5.74
+   }
+  ]
+ },
+ {
+  "id": "-t217m2on-s$2",
+  "duration": 5.630187,
+  "n_words": 12,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 564,
+  "n_vision_frames": 170,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 12,
+  "word_valid_length": 12,
+  "words": [
+   {
+    "token": "But",
+    "start": 0.0,
+    "end": 0.68
+   },
+   {
+    "token": "a",
+    "start": 0.68,
+    "end": 1.38
+   },
+   {
+    "token": "good",
+    "start": 1.38,
+    "end": 1.54
+   },
+   {
+    "token": "thing",
+    "start": 1.54,
+    "end": 1.74
+   },
+   {
+    "token": "to",
+    "start": 1.74,
+    "end": 1.8
+   },
+   {
+    "token": "do",
+    "start": 1.8,
+    "end": 1.94
+   },
+   {
+    "token": "is",
+    "start": 1.94,
+    "end": 2.08
+   },
+   {
+    "token": "yawning,",
+    "start": 2.08,
+    "end": 2.48
+   },
+   {
+    "token": "chewing",
+    "start": 3.12,
+    "end": 3.82
+   },
+   {
+    "token": "gum",
+    "start": 3.82,
+    "end": 4.16
+   },
+   {
+    "token": "is",
+    "start": 4.16,
+    "end": 4.4
+   },
+   {
+    "token": "effective.",
+    "start": 4.4,
+    "end": 4.88
+   }
+  ]
+ },
+ {
+  "id": "-t217m2on-s$7",
+  "duration": 17.026375,
+  "n_words": 45,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9556,
+  "n_audio_frames": 1703,
+  "n_vision_frames": 512,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 35,
+  "word_valid_length": 45,
+  "words": [
+   {
+    "token": "If",
+    "start": 0.0,
+    "end": 0.64
+   },
+   {
+    "token": "you",
+    "start": 0.64,
+    "end": 0.74
+   },
+   {
+    "token": "find",
+    "start": 0.74,
+    "end": 1.0
+   },
+   {
+    "token": "that",
+    "start": 1.0,
+    "end": 1.26
+   },
+   {
+    "token": "your",
+    "start": 1.26,
+    "end": 1.54
+   },
+   {
+    "token": "ears",
+    "start": 1.54,
+    "end": 1.86
+   },
+   {
+    "token": "consistently",
+    "start": 1.86,
+    "end": 3.56
+   },
+   {
+    "token": "do",
+    "start": 3.56,
+    "end": 4.38
+   },
+   {
+    "token": "this",
+    "start": 4.38,
+    "end": 4.72
+   },
+   {
+    "token": "and",
+    "start": 4.72,
+    "end": 4.86
+   },
+   {
+    "token": "you",
+    "start": 4.86,
+    "end": 4.96
+   },
+   {
+    "token": "can't",
+    "start": 4.96,
+    "end": 5.42
+   },
+   {
+    "token": "pop",
+    "start": 5.42,
+    "end": 5.7
+   },
+   {
+    "token": "them",
+    "start": 5.7,
+    "end": 6.0
+   },
+   {
+    "token": "often,",
+    "start": 6.0,
+    "end": 6.48
+   },
+   {
+    "token": "you'll",
+    "start": 6.48,
+    "end": 7.04
+   },
+   {
+    "token": "definitely",
+    "start": 7.04,
+    "end": 7.32
+   },
+   {
+    "token": "need",
+    "start": 7.32,
+    "end": 7.66
+   },
+   {
+    "token": "to",
+    "start": 7.66,
+    "end": 8.02
+   },
+   {
+    "token": "see",
+    "start": 8.02,
+    "end": 8.18
+   },
+   {
+    "token": "a",
+    "start": 8.18,
+    "end": 8.28
+   },
+   {
+    "token": "physician",
+    "start": 8.28,
+    "end": 8.82
+   },
+   {
+    "token": "regarding",
+    "start": 8.82,
+    "end": 9.7
+   },
+   {
+    "token": "those",
+    "start": 9.7,
+    "end": 10.1
+   },
+   {
+    "token": "things,",
+    "start": 10.1,
+    "end": 10.5
+   },
+   {
+    "token": "it",
+    "start": 10.74,
+    "end": 10.94
+   },
+   {
+    "token": "could",
+    "start": 10.94,
+    "end": 11.12
+   },
+   {
+    "token": "be",
+    "start": 11.12,
+    "end": 11.3
+   },
+   {
+    "token": "something",
+    "start": 11.3,
+    "end": 11.66
+   },
+   {
+    "token": "more",
+    "start": 11.66,
+    "end": 11.92
+   },
+   {
+    "token": "of",
+    "start": 11.92,
+    "end": 12.06
+   },
+   {
+    "token": "a",
+    "start": 12.06,
+    "end": 12.18
+   },
+   {
+    "token": "nasal",
+    "start": 12.18,
+    "end": 12.46
+   },
+   {
+    "token": "infection",
+    "start": 12.46,
+    "end": 12.98
+   },
+   {
+    "token": "or",
+    "start": 12.98,
+    "end": 13.26
+   },
+   {
+    "token": "a",
+    "start": 13.26,
+    "end": 13.5
+   },
+   {
+    "token": "sinus",
+    "start": 13.5,
+    "end": 13.82
+   },
+   {
+    "token": "infection",
+    "start": 13.82,
+    "end": 14.44
+   },
+   {
+    "token": "that",
+    "start": 14.44,
+    "end": 15.26
+   },
+   {
+    "token": "he",
+    "start": 15.26,
+    "end": 15.48
+   },
+   {
+    "token": "would",
+    "start": 15.48,
+    "end": 15.7
+   },
+   {
+    "token": "need",
+    "start": 15.7,
+    "end": 15.9
+   },
+   {
+    "token": "to",
+    "start": 15.9,
+    "end": 16.04
+   },
+   {
+    "token": "deal",
+    "start": 16.04,
+    "end": 16.22
+   },
+   {
+    "token": "with.",
+    "start": 16.22,
+    "end": 16.44
+   }
+  ]
+ },
+ {
+  "id": "-tANM6ETl_M$3",
+  "duration": 6.603625,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9091,
+  "n_audio_frames": 661,
+  "n_vision_frames": 200,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 22,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "The",
+    "start": 0.0,
+    "end": 0.6
+   },
+   {
+    "token": "first",
+    "start": 0.6,
+    "end": 0.86
+   },
+   {
+    "token": "place",
+    "start": 0.86,
+    "end": 1.18
+   },
+   {
+    "token": "is",
+    "start": 1.18,
+    "end": 1.44
+   },
+   {
+    "token": "either",
+    "start": 1.44,
+    "end": 1.7
+   },
+   {
+    "token": "you",
+    "start": 1.7,
+    "end": 1.94
+   },
+   {
+    "token": "have",
+    "start": 1.94,
+    "end": 2.14
+   },
+   {
+    "token": "a",
+    "start": 2.14,
+    "end": 2.3
+   },
+   {
+    "token": "prospect,",
+    "start": 2.3,
+    "end": 2.98
+   },
+   {
+    "token": "or",
+    "start": 2.98,
+    "end": 3.08
+   },
+   {
+    "token": "a",
+    "start": 3.08,
+    "end": 3.14
+   },
+   {
+    "token": "customer",
+    "start": 3.14,
+    "end": 3.46
+   },
+   {
+    "token": "who's",
+    "start": 3.46,
+    "end": 3.74
+   },
+   {
+    "token": "never",
+    "start": 3.74,
+    "end": 4.1
+   },
+   {
+    "token": "done",
+    "start": 4.1,
+    "end": 4.4
+   },
+   {
+    "token": "it",
+    "start": 4.4,
+    "end": 4.58
+   },
+   {
+    "token": "before,",
+    "start": 4.58,
+    "end": 4.98
+   },
+   {
+    "token": "or",
+    "start": 4.98,
+    "end": 5.14
+   },
+   {
+    "token": "they've",
+    "start": 5.14,
+    "end": 5.34
+   },
+   {
+    "token": "never",
+    "start": 5.34,
+    "end": 5.6
+   },
+   {
+    "token": "tried",
+    "start": 5.6,
+    "end": 5.94
+   },
+   {
+    "token": "it.",
+    "start": 5.94,
+    "end": 6.1
+   }
+  ]
+ },
+ {
+  "id": "-tPCytz4rww$11",
+  "duration": 5.378563,
+  "n_words": 17,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.7059,
+  "n_audio_frames": 538,
+  "n_vision_frames": 164,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 15,
+  "word_valid_length": 17,
+  "words": [
+   {
+    "token": "Make",
+    "start": 0.0,
+    "end": 0.58
+   },
+   {
+    "token": "sure",
+    "start": 0.58,
+    "end": 0.82
+   },
+   {
+    "token": "that",
+    "start": 0.82,
+    "end": 0.98
+   },
+   {
+    "token": "your",
+    "start": 0.98,
+    "end": 1.18
+   },
+   {
+    "token": "using",
+    "start": 1.18,
+    "end": 1.42
+   },
+   {
+    "token": "comps",
+    "start": 1.42,
+    "end": 1.92
+   },
+   {
+    "token": "that",
+    "start": 1.92,
+    "end": 2.02
+   },
+   {
+    "token": "are",
+    "start": 2.02,
+    "end": 2.12
+   },
+   {
+    "token": "not",
+    "start": 2.12,
+    "end": 2.12
+   },
+   {
+    "token": "larger,",
+    "start": 2.12,
+    "end": 2.12
+   },
+   {
+    "token": "no",
+    "start": 2.12,
+    "end": 2.28
+   },
+   {
+    "token": "larger",
+    "start": 2.28,
+    "end": 2.72
+   },
+   {
+    "token": "than",
+    "start": 2.72,
+    "end": 3.82
+   },
+   {
+    "token": "twelve",
+    "start": 3.82,
+    "end": 4.05
+   },
+   {
+    "token": "hundred",
+    "start": 4.05,
+    "end": 4.28
+   },
+   {
+    "token": "square",
+    "start": 4.28,
+    "end": 4.56
+   },
+   {
+    "token": "feet.",
+    "start": 4.56,
+    "end": 4.78
+   }
+  ]
+ },
+ {
+  "id": "-tPCytz4rww$10",
+  "duration": 4.678813,
+  "n_words": 12,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8333,
+  "n_audio_frames": 468,
+  "n_vision_frames": 142,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 12,
+  "word_valid_length": 12,
+  "words": [
+   {
+    "token": "Say",
+    "start": 0.26,
+    "end": 0.7
+   },
+   {
+    "token": "twenty",
+    "start": 0.7,
+    "end": 1.01
+   },
+   {
+    "token": "percent",
+    "start": 1.01,
+    "end": 1.32
+   },
+   {
+    "token": "so",
+    "start": 1.32,
+    "end": 1.68
+   },
+   {
+    "token": "if",
+    "start": 1.68,
+    "end": 2.0
+   },
+   {
+    "token": "you've",
+    "start": 2.0,
+    "end": 2.22
+   },
+   {
+    "token": "got",
+    "start": 2.22,
+    "end": 2.3
+   },
+   {
+    "token": "a",
+    "start": 2.3,
+    "end": 2.38
+   },
+   {
+    "token": "thousand",
+    "start": 2.38,
+    "end": 2.7
+   },
+   {
+    "token": "square",
+    "start": 2.7,
+    "end": 2.96
+   },
+   {
+    "token": "foot",
+    "start": 2.96,
+    "end": 3.28
+   },
+   {
+    "token": "condo.",
+    "start": 3.28,
+    "end": 4.16
+   }
+  ]
+ },
+ {
+  "id": "-tPCytz4rww$12",
+  "duration": 11.736187,
+  "n_words": 26,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.7692,
+  "n_audio_frames": 1174,
+  "n_vision_frames": 353,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 23,
+  "word_valid_length": 26,
+  "words": [
+   {
+    "token": "No",
+    "start": 0.4,
+    "end": 0.62
+   },
+   {
+    "token": "less",
+    "start": 0.62,
+    "end": 0.84
+   },
+   {
+    "token": "than",
+    "start": 0.84,
+    "end": 1.08
+   },
+   {
+    "token": "eight",
+    "start": 1.08,
+    "end": 1.3533333333333333
+   },
+   {
+    "token": "hundred",
+    "start": 1.3533333333333333,
+    "end": 1.6266666666666665
+   },
+   {
+    "token": "squire",
+    "start": 1.6266666666666665,
+    "end": 1.9
+   },
+   {
+    "token": "feet",
+    "start": 1.9,
+    "end": 2.2
+   },
+   {
+    "token": "and",
+    "start": 2.2,
+    "end": 2.7
+   },
+   {
+    "token": "going",
+    "start": 2.7,
+    "end": 2.74
+   },
+   {
+    "token": "to",
+    "start": 2.74,
+    "end": 2.78
+   },
+   {
+    "token": "similar",
+    "start": 2.78,
+    "end": 2.82
+   },
+   {
+    "token": "in,",
+    "start": 2.82,
+    "end": 2.86
+   },
+   {
+    "token": "similar",
+    "start": 2.86,
+    "end": 3.24
+   },
+   {
+    "token": "with",
+    "start": 3.24,
+    "end": 5.72
+   },
+   {
+    "token": "bedrooms",
+    "start": 5.72,
+    "end": 6.14
+   },
+   {
+    "token": "and",
+    "start": 6.14,
+    "end": 6.34
+   },
+   {
+    "token": "bathrooms",
+    "start": 6.34,
+    "end": 6.7
+   },
+   {
+    "token": "as",
+    "start": 6.7,
+    "end": 7.0
+   },
+   {
+    "token": "well",
+    "start": 7.0,
+    "end": 7.22
+   },
+   {
+    "token": "and",
+    "start": 7.22,
+    "end": 8.04
+   },
+   {
+    "token": "hopefully",
+    "start": 8.04,
+    "end": 8.66
+   },
+   {
+    "token": "the",
+    "start": 8.66,
+    "end": 8.92
+   },
+   {
+    "token": "complexes",
+    "start": 8.92,
+    "end": 9.78
+   },
+   {
+    "token": "have",
+    "start": 9.78,
+    "end": 10.0
+   },
+   {
+    "token": "similar",
+    "start": 10.0,
+    "end": 10.44
+   },
+   {
+    "token": "amenities.",
+    "start": 10.44,
+    "end": 10.96
+   }
+  ]
+ },
+ {
+  "id": "-tPCytz4rww$16",
+  "duration": 7.139188,
+  "n_words": 16,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.875,
+  "n_audio_frames": 714,
+  "n_vision_frames": 216,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 16,
+  "word_valid_length": 16,
+  "words": [
+   {
+    "token": "So",
+    "start": 0.0,
+    "end": 0.7
+   },
+   {
+    "token": "make",
+    "start": 0.7,
+    "end": 1.04
+   },
+   {
+    "token": "sure",
+    "start": 1.04,
+    "end": 1.3
+   },
+   {
+    "token": "to",
+    "start": 1.3,
+    "end": 1.66
+   },
+   {
+    "token": "get",
+    "start": 1.66,
+    "end": 2.0
+   },
+   {
+    "token": "a",
+    "start": 2.0,
+    "end": 2.14
+   },
+   {
+    "token": "through",
+    "start": 2.14,
+    "end": 2.42
+   },
+   {
+    "token": "or",
+    "start": 2.42,
+    "end": 3.92
+   },
+   {
+    "token": "to",
+    "start": 3.92,
+    "end": 4.32
+   },
+   {
+    "token": "do",
+    "start": 4.32,
+    "end": 4.5
+   },
+   {
+    "token": "a",
+    "start": 4.5,
+    "end": 4.7
+   },
+   {
+    "token": "through",
+    "start": 4.7,
+    "end": 5.0
+   },
+   {
+    "token": "cleaning",
+    "start": 5.0,
+    "end": 5.42
+   },
+   {
+    "token": "of",
+    "start": 5.42,
+    "end": 5.86
+   },
+   {
+    "token": "the",
+    "start": 5.86,
+    "end": 6.06
+   },
+   {
+    "token": "property.",
+    "start": 6.06,
+    "end": 6.46
+   }
+  ]
+ },
+ {
+  "id": "-tPCytz4rww$18",
+  "duration": 6.568812,
+  "n_words": 16,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 657,
+  "n_vision_frames": 199,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 16,
+  "word_valid_length": 16,
+  "words": [
+   {
+    "token": "Do",
+    "start": 0.2,
+    "end": 0.62
+   },
+   {
+    "token": "so",
+    "start": 0.62,
+    "end": 0.92
+   },
+   {
+    "token": "and",
+    "start": 0.92,
+    "end": 1.6
+   },
+   {
+    "token": "as",
+    "start": 1.6,
+    "end": 1.78
+   },
+   {
+    "token": "well",
+    "start": 1.78,
+    "end": 2.0
+   },
+   {
+    "token": "you'll",
+    "start": 2.0,
+    "end": 2.76
+   },
+   {
+    "token": "also",
+    "start": 2.76,
+    "end": 3.0
+   },
+   {
+    "token": "want",
+    "start": 3.0,
+    "end": 3.26
+   },
+   {
+    "token": "to",
+    "start": 3.26,
+    "end": 3.54
+   },
+   {
+    "token": "remove",
+    "start": 3.54,
+    "end": 3.84
+   },
+   {
+    "token": "any",
+    "start": 3.84,
+    "end": 4.12
+   },
+   {
+    "token": "clutter",
+    "start": 4.12,
+    "end": 4.42
+   },
+   {
+    "token": "from",
+    "start": 4.42,
+    "end": 4.7
+   },
+   {
+    "token": "that",
+    "start": 4.94,
+    "end": 5.1
+   },
+   {
+    "token": "you've",
+    "start": 5.1,
+    "end": 5.34
+   },
+   {
+    "token": "accumulated.",
+    "start": 5.34,
+    "end": 5.8
+   }
+  ]
+ },
+ {
+  "id": "-vxjVxOeScU$4",
+  "duration": 9.037062,
+  "n_words": 21,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 904,
+  "n_vision_frames": 272,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 20,
+  "word_valid_length": 21,
+  "words": [
+   {
+    "token": "You're",
+    "start": 0.0,
+    "end": 0.66
+   },
+   {
+    "token": "going",
+    "start": 0.66,
+    "end": 0.7
+   },
+   {
+    "token": "to",
+    "start": 0.7,
+    "end": 0.76
+   },
+   {
+    "token": "talk",
+    "start": 0.76,
+    "end": 0.98
+   },
+   {
+    "token": "about",
+    "start": 0.98,
+    "end": 1.42
+   },
+   {
+    "token": "their",
+    "start": 1.42,
+    "end": 1.98
+   },
+   {
+    "token": "life,",
+    "start": 1.98,
+    "end": 2.52
+   },
+   {
+    "token": "their",
+    "start": 2.52,
+    "end": 3.08
+   },
+   {
+    "token": "marriage",
+    "start": 3.08,
+    "end": 3.64
+   },
+   {
+    "token": "and",
+    "start": 3.98,
+    "end": 4.78
+   },
+   {
+    "token": "usually",
+    "start": 4.78,
+    "end": 5.28
+   },
+   {
+    "token": "how",
+    "start": 5.28,
+    "end": 5.72
+   },
+   {
+    "token": "amazing",
+    "start": 5.72,
+    "end": 6.24
+   },
+   {
+    "token": "it",
+    "start": 6.24,
+    "end": 6.52
+   },
+   {
+    "token": "is",
+    "start": 6.52,
+    "end": 6.74
+   },
+   {
+    "token": "that",
+    "start": 6.74,
+    "end": 6.92
+   },
+   {
+    "token": "they've",
+    "start": 6.92,
+    "end": 7.14
+   },
+   {
+    "token": "stayed",
+    "start": 7.14,
+    "end": 7.34
+   },
+   {
+    "token": "together",
+    "start": 7.34,
+    "end": 7.84
+   },
+   {
+    "token": "this",
+    "start": 7.84,
+    "end": 8.1
+   },
+   {
+    "token": "long.",
+    "start": 8.1,
+    "end": 8.44
+   }
+  ]
+ },
+ {
+  "id": "-wMB_hJL-3o$7",
+  "duration": 5.975562,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 598,
+  "n_vision_frames": 181,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 22,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "So",
+    "start": 0.3999999999999997,
+    "end": 0.76
+   },
+   {
+    "token": "if",
+    "start": 1.02,
+    "end": 1.2
+   },
+   {
+    "token": "you",
+    "start": 1.2,
+    "end": 1.28
+   },
+   {
+    "token": "have",
+    "start": 1.28,
+    "end": 1.42
+   },
+   {
+    "token": "a",
+    "start": 1.42,
+    "end": 1.54
+   },
+   {
+    "token": "loved",
+    "start": 1.54,
+    "end": 1.7
+   },
+   {
+    "token": "one",
+    "start": 1.7,
+    "end": 1.94
+   },
+   {
+    "token": "who",
+    "start": 1.94,
+    "end": 2.12
+   },
+   {
+    "token": "is",
+    "start": 2.12,
+    "end": 2.26
+   },
+   {
+    "token": "depressed",
+    "start": 2.26,
+    "end": 2.68
+   },
+   {
+    "token": "those",
+    "start": 3.22,
+    "end": 3.4
+   },
+   {
+    "token": "are",
+    "start": 3.4,
+    "end": 3.52
+   },
+   {
+    "token": "some",
+    "start": 3.52,
+    "end": 3.7
+   },
+   {
+    "token": "of",
+    "start": 3.7,
+    "end": 3.82
+   },
+   {
+    "token": "the",
+    "start": 3.82,
+    "end": 3.92
+   },
+   {
+    "token": "things",
+    "start": 3.92,
+    "end": 4.14
+   },
+   {
+    "token": "that",
+    "start": 4.14,
+    "end": 4.32
+   },
+   {
+    "token": "you",
+    "start": 4.32,
+    "end": 4.48
+   },
+   {
+    "token": "should",
+    "start": 4.48,
+    "end": 4.64
+   },
+   {
+    "token": "think",
+    "start": 4.64,
+    "end": 4.82
+   },
+   {
+    "token": "about",
+    "start": 4.82,
+    "end": 5.06
+   },
+   {
+    "token": "doing.",
+    "start": 5.06,
+    "end": 5.4
+   }
+  ]
+ },
+ {
+  "id": "-wny0OAz3g8$1",
+  "duration": 6.776562,
+  "n_words": 23,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8696,
+  "n_audio_frames": 678,
+  "n_vision_frames": 205,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 23,
+  "word_valid_length": 23,
+  "words": [
+   {
+    "token": "And",
+    "start": 0.54,
+    "end": 0.6
+   },
+   {
+    "token": "because",
+    "start": 0.6,
+    "end": 0.86
+   },
+   {
+    "token": "they",
+    "start": 0.86,
+    "end": 1.06
+   },
+   {
+    "token": "couldn’t",
+    "start": 1.06,
+    "end": 1.32
+   },
+   {
+    "token": "join",
+    "start": 1.32,
+    "end": 1.5
+   },
+   {
+    "token": "unions,",
+    "start": 1.5,
+    "end": 1.88
+   },
+   {
+    "token": "many",
+    "start": 2.16,
+    "end": 2.28
+   },
+   {
+    "token": "Black",
+    "start": 2.28,
+    "end": 2.5
+   },
+   {
+    "token": "workers",
+    "start": 2.5,
+    "end": 2.8
+   },
+   {
+    "token": "couldn’t",
+    "start": 2.8,
+    "end": 3.2
+   },
+   {
+    "token": "get",
+    "start": 3.2,
+    "end": 3.3
+   },
+   {
+    "token": "manufacturing",
+    "start": 3.3,
+    "end": 3.7
+   },
+   {
+    "token": "or",
+    "start": 3.7,
+    "end": 4.1
+   },
+   {
+    "token": "trade",
+    "start": 4.1,
+    "end": 4.3
+   },
+   {
+    "token": "work",
+    "start": 4.3,
+    "end": 4.54
+   },
+   {
+    "token": "–",
+    "start": 4.54,
+    "end": 4.64
+   },
+   {
+    "token": "which",
+    "start": 4.64,
+    "end": 4.78
+   },
+   {
+    "token": "paid",
+    "start": 4.78,
+    "end": 5.0
+   },
+   {
+    "token": "much",
+    "start": 5.0,
+    "end": 5.24
+   },
+   {
+    "token": "better",
+    "start": 5.24,
+    "end": 5.54
+   },
+   {
+    "token": "than",
+    "start": 5.54,
+    "end": 5.7
+   },
+   {
+    "token": "service",
+    "start": 5.7,
+    "end": 5.98
+   },
+   {
+    "token": "work",
+    "start": 5.98,
+    "end": 6.2
+   }
+  ]
+ },
+ {
+  "id": "-wny0OAz3g8$0",
+  "duration": 3.274,
+  "n_words": 9,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8889,
+  "n_audio_frames": 328,
+  "n_vision_frames": 100,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 9,
+  "word_valid_length": 9,
+  "words": [
+   {
+    "token": "trade",
+    "start": 0.0,
+    "end": 0.44
+   },
+   {
+    "token": "labor",
+    "start": 0.44,
+    "end": 0.66
+   },
+   {
+    "token": "unions",
+    "start": 0.66,
+    "end": 0.98
+   },
+   {
+    "token": "didn’t",
+    "start": 0.98,
+    "end": 1.38
+   },
+   {
+    "token": "allow",
+    "start": 1.38,
+    "end": 1.6
+   },
+   {
+    "token": "Black",
+    "start": 1.6,
+    "end": 1.92
+   },
+   {
+    "token": "workers",
+    "start": 1.92,
+    "end": 2.22
+   },
+   {
+    "token": "to",
+    "start": 2.22,
+    "end": 2.4
+   },
+   {
+    "token": "join",
+    "start": 2.4,
+    "end": 2.66
+   }
+  ]
+ },
+ {
+  "id": "-wny0OAz3g8$3",
+  "duration": 6.099875,
+  "n_words": 20,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 610,
+  "n_vision_frames": 184,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 20,
+  "word_valid_length": 20,
+  "words": [
+   {
+    "token": "Which",
+    "start": 0.56,
+    "end": 0.66
+   },
+   {
+    "token": "then",
+    "start": 0.66,
+    "end": 0.86
+   },
+   {
+    "token": "allowed",
+    "start": 0.86,
+    "end": 1.06
+   },
+   {
+    "token": "the",
+    "start": 1.06,
+    "end": 1.24
+   },
+   {
+    "token": "white",
+    "start": 1.24,
+    "end": 1.4
+   },
+   {
+    "token": "workers",
+    "start": 1.4,
+    "end": 1.68
+   },
+   {
+    "token": "and",
+    "start": 1.68,
+    "end": 1.86
+   },
+   {
+    "token": "unions",
+    "start": 1.86,
+    "end": 2.08
+   },
+   {
+    "token": "to",
+    "start": 2.08,
+    "end": 2.32
+   },
+   {
+    "token": "justify",
+    "start": 2.32,
+    "end": 2.74
+   },
+   {
+    "token": "their",
+    "start": 2.74,
+    "end": 2.94
+   },
+   {
+    "token": "decision",
+    "start": 2.94,
+    "end": 3.22
+   },
+   {
+    "token": "to",
+    "start": 3.22,
+    "end": 3.44
+   },
+   {
+    "token": "not",
+    "start": 3.44,
+    "end": 3.62
+   },
+   {
+    "token": "allow",
+    "start": 3.62,
+    "end": 3.88
+   },
+   {
+    "token": "black",
+    "start": 3.88,
+    "end": 4.16
+   },
+   {
+    "token": "workers",
+    "start": 4.16,
+    "end": 4.56
+   },
+   {
+    "token": "into",
+    "start": 4.56,
+    "end": 4.92
+   },
+   {
+    "token": "their",
+    "start": 4.92,
+    "end": 5.14
+   },
+   {
+    "token": "union",
+    "start": 5.14,
+    "end": 5.5
+   }
+  ]
+ },
+ {
+  "id": "-wny0OAz3g8$2",
+  "duration": 6.522687,
+  "n_words": 23,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9565,
+  "n_audio_frames": 653,
+  "n_vision_frames": 197,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 23,
+  "word_valid_length": 23,
+  "words": [
+   {
+    "token": "And",
+    "start": 0.54,
+    "end": 0.6
+   },
+   {
+    "token": "because",
+    "start": 0.6,
+    "end": 0.88
+   },
+   {
+    "token": "they",
+    "start": 0.88,
+    "end": 1.08
+   },
+   {
+    "token": "couldn’t",
+    "start": 1.08,
+    "end": 1.32
+   },
+   {
+    "token": "get",
+    "start": 1.32,
+    "end": 1.42
+   },
+   {
+    "token": "these",
+    "start": 1.42,
+    "end": 1.58
+   },
+   {
+    "token": "jobs,",
+    "start": 1.58,
+    "end": 1.86
+   },
+   {
+    "token": "Black",
+    "start": 2.26,
+    "end": 2.34
+   },
+   {
+    "token": "communities",
+    "start": 2.34,
+    "end": 2.7
+   },
+   {
+    "token": "had",
+    "start": 2.7,
+    "end": 2.88
+   },
+   {
+    "token": "more",
+    "start": 2.88,
+    "end": 3.08
+   },
+   {
+    "token": "men",
+    "start": 3.08,
+    "end": 3.26
+   },
+   {
+    "token": "out",
+    "start": 3.26,
+    "end": 3.38
+   },
+   {
+    "token": "of",
+    "start": 3.38,
+    "end": 3.46
+   },
+   {
+    "token": "work,",
+    "start": 3.46,
+    "end": 3.68
+   },
+   {
+    "token": "higher",
+    "start": 3.98,
+    "end": 4.12
+   },
+   {
+    "token": "rates",
+    "start": 4.12,
+    "end": 4.34
+   },
+   {
+    "token": "of",
+    "start": 4.34,
+    "end": 4.44
+   },
+   {
+    "token": "poverty,",
+    "start": 4.44,
+    "end": 4.76
+   },
+   {
+    "token": "and",
+    "start": 4.96,
+    "end": 5.02
+   },
+   {
+    "token": "more",
+    "start": 5.02,
+    "end": 5.18
+   },
+   {
+    "token": "criminal",
+    "start": 5.18,
+    "end": 5.46
+   },
+   {
+    "token": "behavior",
+    "start": 5.46,
+    "end": 5.92
+   }
+  ]
+ },
+ {
+  "id": "-wny0OAz3g8$5",
+  "duration": 6.741437,
+  "n_words": 20,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.85,
+  "n_audio_frames": 675,
+  "n_vision_frames": 204,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 20,
+  "word_valid_length": 20,
+  "words": [
+   {
+    "token": "This",
+    "start": 0.58,
+    "end": 0.68
+   },
+   {
+    "token": "is",
+    "start": 0.68,
+    "end": 0.82
+   },
+   {
+    "token": "what’s",
+    "start": 0.82,
+    "end": 1.04
+   },
+   {
+    "token": "now",
+    "start": 1.04,
+    "end": 1.18
+   },
+   {
+    "token": "known",
+    "start": 1.18,
+    "end": 1.46
+   },
+   {
+    "token": "as",
+    "start": 1.46,
+    "end": 1.64
+   },
+   {
+    "token": "racial",
+    "start": 1.64,
+    "end": 1.9
+   },
+   {
+    "token": "formation",
+    "start": 1.9,
+    "end": 2.24
+   },
+   {
+    "token": "theory,",
+    "start": 2.24,
+    "end": 2.74
+   },
+   {
+    "token": "a",
+    "start": 3.04,
+    "end": 3.12
+   },
+   {
+    "token": "theory",
+    "start": 3.12,
+    "end": 3.32
+   },
+   {
+    "token": "formalized",
+    "start": 3.32,
+    "end": 3.86
+   },
+   {
+    "token": "by",
+    "start": 3.86,
+    "end": 4.0
+   },
+   {
+    "token": "modern",
+    "start": 4.0,
+    "end": 4.24
+   },
+   {
+    "token": "sociologists",
+    "start": 4.24,
+    "end": 4.8
+   },
+   {
+    "token": "Michael",
+    "start": 4.8,
+    "end": 5.1
+   },
+   {
+    "token": "Omi",
+    "start": 5.1,
+    "end": 5.44
+   },
+   {
+    "token": "and",
+    "start": 5.44,
+    "end": 5.62
+   },
+   {
+    "token": "Howard",
+    "start": 5.62,
+    "end": 5.84
+   },
+   {
+    "token": "Winant",
+    "start": 5.84,
+    "end": 6.741437
+   }
+  ]
+ },
+ {
+  "id": "-wny0OAz3g8$7",
+  "duration": 7.9105,
+  "n_words": 29,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8966,
+  "n_audio_frames": 792,
+  "n_vision_frames": 240,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 28,
+  "word_valid_length": 29,
+  "words": [
+   {
+    "token": "Omi",
+    "start": 0.0,
+    "end": 0.68
+   },
+   {
+    "token": "and",
+    "start": 0.68,
+    "end": 0.8
+   },
+   {
+    "token": "Winant",
+    "start": 0.8,
+    "end": 1.02
+   },
+   {
+    "token": "argue",
+    "start": 1.02,
+    "end": 1.24
+   },
+   {
+    "token": "that",
+    "start": 1.24,
+    "end": 1.44
+   },
+   {
+    "token": "the",
+    "start": 1.44,
+    "end": 1.52
+   },
+   {
+    "token": "concept",
+    "start": 1.52,
+    "end": 1.82
+   },
+   {
+    "token": "of",
+    "start": 1.82,
+    "end": 1.98
+   },
+   {
+    "token": "race",
+    "start": 1.98,
+    "end": 2.18
+   },
+   {
+    "token": "came",
+    "start": 2.18,
+    "end": 2.42
+   },
+   {
+    "token": "about",
+    "start": 2.42,
+    "end": 2.62
+   },
+   {
+    "token": "as",
+    "start": 2.62,
+    "end": 2.78
+   },
+   {
+    "token": "a",
+    "start": 2.78,
+    "end": 2.86
+   },
+   {
+    "token": "tool",
+    "start": 2.86,
+    "end": 3.08
+   },
+   {
+    "token": "to",
+    "start": 3.08,
+    "end": 3.26
+   },
+   {
+    "token": "justify",
+    "start": 3.26,
+    "end": 3.68
+   },
+   {
+    "token": "and",
+    "start": 3.68,
+    "end": 3.92
+   },
+   {
+    "token": "maintain",
+    "start": 3.92,
+    "end": 4.3
+   },
+   {
+    "token": "the",
+    "start": 4.3,
+    "end": 4.58
+   },
+   {
+    "token": "economic",
+    "start": 4.58,
+    "end": 4.96
+   },
+   {
+    "token": "and",
+    "start": 4.96,
+    "end": 5.18
+   },
+   {
+    "token": "political",
+    "start": 5.18,
+    "end": 5.48
+   },
+   {
+    "token": "power",
+    "start": 5.48,
+    "end": 5.9
+   },
+   {
+    "token": "held",
+    "start": 5.9,
+    "end": 6.18
+   },
+   {
+    "token": "by",
+    "start": 6.18,
+    "end": 6.34
+   },
+   {
+    "token": "those",
+    "start": 6.34,
+    "end": 6.5
+   },
+   {
+    "token": "of",
+    "start": 6.5,
+    "end": 6.64
+   },
+   {
+    "token": "European",
+    "start": 6.64,
+    "end": 6.96
+   },
+   {
+    "token": "descent",
+    "start": 6.96,
+    "end": 7.34
+   }
+  ]
+ },
+ {
+  "id": "-wny0OAz3g8$9",
+  "duration": 6.0435,
+  "n_words": 20,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 605,
+  "n_vision_frames": 183,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 20,
+  "word_valid_length": 20,
+  "words": [
+   {
+    "token": "He",
+    "start": 0.52,
+    "end": 0.6
+   },
+   {
+    "token": "explores",
+    "start": 0.6,
+    "end": 0.92
+   },
+   {
+    "token": "why",
+    "start": 0.92,
+    "end": 1.1
+   },
+   {
+    "token": "Black",
+    "start": 1.1,
+    "end": 1.3
+   },
+   {
+    "token": "and",
+    "start": 1.3,
+    "end": 1.44
+   },
+   {
+    "token": "White",
+    "start": 1.44,
+    "end": 1.56
+   },
+   {
+    "token": "Americans",
+    "start": 1.56,
+    "end": 1.92
+   },
+   {
+    "token": "tend",
+    "start": 1.92,
+    "end": 2.2
+   },
+   {
+    "token": "to",
+    "start": 2.2,
+    "end": 2.36
+   },
+   {
+    "token": "have",
+    "start": 2.36,
+    "end": 2.48
+   },
+   {
+    "token": "such",
+    "start": 2.48,
+    "end": 2.7
+   },
+   {
+    "token": "different",
+    "start": 2.7,
+    "end": 3.04
+   },
+   {
+    "token": "outcomes",
+    "start": 3.04,
+    "end": 3.48
+   },
+   {
+    "token": "in",
+    "start": 3.48,
+    "end": 3.76
+   },
+   {
+    "token": "terms",
+    "start": 3.76,
+    "end": 3.88
+   },
+   {
+    "token": "of",
+    "start": 3.88,
+    "end": 4.04
+   },
+   {
+    "token": "income,",
+    "start": 4.04,
+    "end": 4.36
+   },
+   {
+    "token": "education,",
+    "start": 4.56,
+    "end": 5.0
+   },
+   {
+    "token": "and",
+    "start": 5.2,
+    "end": 5.24
+   },
+   {
+    "token": "more",
+    "start": 5.24,
+    "end": 5.44
+   }
+  ]
+ },
+ {
+  "id": "-571d8cVauQ$0",
+  "duration": 4.992312,
+  "n_words": 12,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9167,
+  "n_audio_frames": 500,
+  "n_vision_frames": 152,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 46,
+  "timebin_text_valid": 12,
+  "word_valid_length": 12,
+  "words": [
+   {
+    "token": "This",
+    "start": 0.5999999999999999,
+    "end": 1.16
+   },
+   {
+    "token": "is",
+    "start": 1.16,
+    "end": 1.3
+   },
+   {
+    "token": "Rhett",
+    "start": 1.3,
+    "end": 1.54
+   },
+   {
+    "token": "Reiger,",
+    "start": 1.54,
+    "end": 2.0
+   },
+   {
+    "token": "White",
+    "start": 2.0,
+    "end": 2.1
+   },
+   {
+    "token": "Caspian",
+    "start": 2.1,
+    "end": 2.54
+   },
+   {
+    "token": "Studios",
+    "start": 2.54,
+    "end": 2.9
+   },
+   {
+    "token": "on",
+    "start": 2.9,
+    "end": 3.18
+   },
+   {
+    "token": "behalf",
+    "start": 3.18,
+    "end": 3.42
+   },
+   {
+    "token": "of",
+    "start": 3.42,
+    "end": 3.64
+   },
+   {
+    "token": "Expert",
+    "start": 3.64,
+    "end": 3.92
+   },
+   {
+    "token": "Village.",
+    "start": 3.92,
+    "end": 4.3
+   }
+  ]
+ },
+ {
+  "id": "-571d8cVauQ$5",
+  "duration": 15.11525,
+  "n_words": 43,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9767,
+  "n_audio_frames": 1512,
+  "n_vision_frames": 455,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 35,
+  "word_valid_length": 43,
+  "words": [
+   {
+    "token": "So",
+    "start": 0.62,
+    "end": 0.66
+   },
+   {
+    "token": "very",
+    "start": 0.66,
+    "end": 0.88
+   },
+   {
+    "token": "important",
+    "start": 0.88,
+    "end": 1.3
+   },
+   {
+    "token": "to",
+    "start": 1.3,
+    "end": 1.48
+   },
+   {
+    "token": "go",
+    "start": 1.48,
+    "end": 1.74
+   },
+   {
+    "token": "out",
+    "start": 1.74,
+    "end": 2.02
+   },
+   {
+    "token": "to",
+    "start": 2.02,
+    "end": 2.56
+   },
+   {
+    "token": "the",
+    "start": 2.56,
+    "end": 2.72
+   },
+   {
+    "token": "locations,",
+    "start": 2.72,
+    "end": 3.26
+   },
+   {
+    "token": "walk",
+    "start": 3.68,
+    "end": 3.94
+   },
+   {
+    "token": "around,",
+    "start": 3.94,
+    "end": 4.38
+   },
+   {
+    "token": "talk",
+    "start": 4.62,
+    "end": 4.88
+   },
+   {
+    "token": "with",
+    "start": 4.88,
+    "end": 5.08
+   },
+   {
+    "token": "the",
+    "start": 5.08,
+    "end": 5.2
+   },
+   {
+    "token": "owners",
+    "start": 5.2,
+    "end": 5.46
+   },
+   {
+    "token": "if",
+    "start": 5.46,
+    "end": 5.72
+   },
+   {
+    "token": "you",
+    "start": 5.72,
+    "end": 5.82
+   },
+   {
+    "token": "can,",
+    "start": 5.82,
+    "end": 6.1
+   },
+   {
+    "token": "tell",
+    "start": 6.36,
+    "end": 6.6
+   },
+   {
+    "token": "them",
+    "start": 6.6,
+    "end": 6.76
+   },
+   {
+    "token": "what",
+    "start": 6.76,
+    "end": 6.94
+   },
+   {
+    "token": "you're",
+    "start": 6.94,
+    "end": 7.1
+   },
+   {
+    "token": "doing,",
+    "start": 7.1,
+    "end": 7.34
+   },
+   {
+    "token": "build",
+    "start": 7.72,
+    "end": 7.8
+   },
+   {
+    "token": "a",
+    "start": 7.8,
+    "end": 8.02
+   },
+   {
+    "token": "little",
+    "start": 8.02,
+    "end": 8.18
+   },
+   {
+    "token": "excitement,",
+    "start": 8.18,
+    "end": 8.66
+   },
+   {
+    "token": "put",
+    "start": 9.12,
+    "end": 9.52
+   },
+   {
+    "token": "a",
+    "start": 9.52,
+    "end": 9.62
+   },
+   {
+    "token": "little",
+    "start": 9.62,
+    "end": 9.76
+   },
+   {
+    "token": "glitz",
+    "start": 9.76,
+    "end": 10.12
+   },
+   {
+    "token": "on",
+    "start": 10.12,
+    "end": 10.3
+   },
+   {
+    "token": "there",
+    "start": 10.3,
+    "end": 10.54
+   },
+   {
+    "token": "and",
+    "start": 11.06,
+    "end": 11.32
+   },
+   {
+    "token": "let",
+    "start": 11.32,
+    "end": 11.64
+   },
+   {
+    "token": "everybody",
+    "start": 11.64,
+    "end": 11.92
+   },
+   {
+    "token": "knows",
+    "start": 11.92,
+    "end": 12.22
+   },
+   {
+    "token": "this",
+    "start": 12.22,
+    "end": 12.84
+   },
+   {
+    "token": "is",
+    "start": 12.84,
+    "end": 13.02
+   },
+   {
+    "token": "a",
+    "start": 13.02,
+    "end": 13.2
+   },
+   {
+    "token": "very",
+    "start": 13.2,
+    "end": 13.52
+   },
+   {
+    "token": "valuable",
+    "start": 13.52,
+    "end": 14.0
+   },
+   {
+    "token": "spot.",
+    "start": 14.0,
+    "end": 14.44
+   }
+  ]
+ },
+ {
+  "id": "-I_e4mIh0yE$1",
+  "duration": 7.444312,
+  "n_words": 18,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 745,
+  "n_vision_frames": 225,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 18,
+  "word_valid_length": 18,
+  "words": [
+   {
+    "token": "In",
+    "start": 0.0,
+    "end": 0.86
+   },
+   {
+    "token": "the",
+    "start": 0.86,
+    "end": 0.98
+   },
+   {
+    "token": "United",
+    "start": 0.98,
+    "end": 1.16
+   },
+   {
+    "token": "States",
+    "start": 1.16,
+    "end": 1.52
+   },
+   {
+    "token": "we",
+    "start": 1.54,
+    "end": 1.76
+   },
+   {
+    "token": "don't",
+    "start": 1.76,
+    "end": 2.12
+   },
+   {
+    "token": "punish",
+    "start": 2.12,
+    "end": 2.44
+   },
+   {
+    "token": "failure",
+    "start": 2.44,
+    "end": 3.0
+   },
+   {
+    "token": "to",
+    "start": 3.0,
+    "end": 3.6
+   },
+   {
+    "token": "the",
+    "start": 3.6,
+    "end": 3.74
+   },
+   {
+    "token": "degree",
+    "start": 3.74,
+    "end": 4.08
+   },
+   {
+    "token": "to",
+    "start": 4.08,
+    "end": 4.32
+   },
+   {
+    "token": "which",
+    "start": 4.32,
+    "end": 4.68
+   },
+   {
+    "token": "failure",
+    "start": 4.68,
+    "end": 5.18
+   },
+   {
+    "token": "is",
+    "start": 5.18,
+    "end": 5.4
+   },
+   {
+    "token": "punished",
+    "start": 5.4,
+    "end": 5.86
+   },
+   {
+    "token": "in",
+    "start": 5.86,
+    "end": 6.34
+   },
+   {
+    "token": "Europe.",
+    "start": 6.34,
+    "end": 6.76
+   }
+  ]
+ },
+ {
+  "id": "-I_e4mIh0yE$3",
+  "duration": 8.994375,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8636,
+  "n_audio_frames": 900,
+  "n_vision_frames": 271,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 21,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "It's",
+    "start": 0.0,
+    "end": 0.76
+   },
+   {
+    "token": "perceived",
+    "start": 0.76,
+    "end": 1.28
+   },
+   {
+    "token": "that",
+    "start": 1.28,
+    "end": 1.64
+   },
+   {
+    "token": "you",
+    "start": 1.64,
+    "end": 1.75
+   },
+   {
+    "token": "have",
+    "start": 1.75,
+    "end": 1.86
+   },
+   {
+    "token": "actually",
+    "start": 1.86,
+    "end": 2.1
+   },
+   {
+    "token": "learned",
+    "start": 2.1,
+    "end": 3.94
+   },
+   {
+    "token": "something,",
+    "start": 3.94,
+    "end": 4.62
+   },
+   {
+    "token": "over",
+    "start": 4.62,
+    "end": 5.56
+   },
+   {
+    "token": "the",
+    "start": 5.56,
+    "end": 5.68
+   },
+   {
+    "token": "course",
+    "start": 5.68,
+    "end": 5.84
+   },
+   {
+    "token": "of",
+    "start": 5.84,
+    "end": 6.04
+   },
+   {
+    "token": "your",
+    "start": 6.04,
+    "end": 6.12
+   },
+   {
+    "token": "carreer,",
+    "start": 6.12,
+    "end": 6.4
+   },
+   {
+    "token": "and",
+    "start": 6.4,
+    "end": 6.54
+   },
+   {
+    "token": "that",
+    "start": 6.54,
+    "end": 6.64
+   },
+   {
+    "token": "you",
+    "start": 6.64,
+    "end": 6.78
+   },
+   {
+    "token": "won't",
+    "start": 6.78,
+    "end": 7.04
+   },
+   {
+    "token": "make",
+    "start": 7.04,
+    "end": 7.42
+   },
+   {
+    "token": "the",
+    "start": 7.42,
+    "end": 7.6
+   },
+   {
+    "token": "mistake",
+    "start": 7.6,
+    "end": 7.82
+   },
+   {
+    "token": "twice.",
+    "start": 7.82,
+    "end": 8.34
+   }
+  ]
+ },
+ {
+  "id": "-UacrmKiTn4$10",
+  "duration": 7.242063,
+  "n_words": 18,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 725,
+  "n_vision_frames": 218,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 18,
+  "word_valid_length": 18,
+  "words": [
+   {
+    "token": "Because,",
+    "start": 0.44,
+    "end": 0.72
+   },
+   {
+    "token": "if",
+    "start": 0.72,
+    "end": 0.96
+   },
+   {
+    "token": "they",
+    "start": 0.96,
+    "end": 1.14
+   },
+   {
+    "token": "are",
+    "start": 1.14,
+    "end": 1.28
+   },
+   {
+    "token": "not",
+    "start": 1.28,
+    "end": 1.56
+   },
+   {
+    "token": "in",
+    "start": 1.56,
+    "end": 2.26
+   },
+   {
+    "token": "any",
+    "start": 2.26,
+    "end": 2.54
+   },
+   {
+    "token": "way",
+    "start": 2.54,
+    "end": 2.76
+   },
+   {
+    "token": "held",
+    "start": 2.76,
+    "end": 3.04
+   },
+   {
+    "token": "accountable",
+    "start": 3.04,
+    "end": 3.7
+   },
+   {
+    "token": "for",
+    "start": 3.7,
+    "end": 4.1
+   },
+   {
+    "token": "reading",
+    "start": 4.1,
+    "end": 4.48
+   },
+   {
+    "token": "the",
+    "start": 4.48,
+    "end": 4.66
+   },
+   {
+    "token": "material",
+    "start": 4.66,
+    "end": 5.22
+   },
+   {
+    "token": "they",
+    "start": 5.54,
+    "end": 6.08
+   },
+   {
+    "token": "won't",
+    "start": 6.08,
+    "end": 6.38
+   },
+   {
+    "token": "do",
+    "start": 6.38,
+    "end": 6.5
+   },
+   {
+    "token": "it.",
+    "start": 6.5,
+    "end": 6.66
+   }
+  ]
+ },
+ {
+  "id": "-UacrmKiTn4$4",
+  "duration": 4.681938,
+  "n_words": 14,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 469,
+  "n_vision_frames": 142,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 14,
+  "word_valid_length": 14,
+  "words": [
+   {
+    "token": "Just",
+    "start": 0.0,
+    "end": 0.62
+   },
+   {
+    "token": "given",
+    "start": 0.62,
+    "end": 0.9
+   },
+   {
+    "token": "to",
+    "start": 0.9,
+    "end": 1.1
+   },
+   {
+    "token": "their",
+    "start": 1.1,
+    "end": 1.24
+   },
+   {
+    "token": "own",
+    "start": 1.24,
+    "end": 1.46
+   },
+   {
+    "token": "devices",
+    "start": 1.46,
+    "end": 1.98
+   },
+   {
+    "token": "they",
+    "start": 1.98,
+    "end": 2.28
+   },
+   {
+    "token": "are",
+    "start": 2.28,
+    "end": 2.42
+   },
+   {
+    "token": "not",
+    "start": 2.42,
+    "end": 2.62
+   },
+   {
+    "token": "going",
+    "start": 2.62,
+    "end": 2.94
+   },
+   {
+    "token": "to",
+    "start": 2.94,
+    "end": 3.14
+   },
+   {
+    "token": "read",
+    "start": 3.14,
+    "end": 3.32
+   },
+   {
+    "token": "the",
+    "start": 3.32,
+    "end": 3.5
+   },
+   {
+    "token": "textbook.",
+    "start": 3.5,
+    "end": 3.94
+   }
+  ]
+ },
+ {
+  "id": "-hnBHBN8p5A$7",
+  "duration": 7.308562,
+  "n_words": 13,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 731,
+  "n_vision_frames": 176,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 45,
+  "timebin_text_valid": 13,
+  "word_valid_length": 13,
+  "words": [
+   {
+    "token": "Picture",
+    "start": 0.0,
+    "end": 0.5621971153846154
+   },
+   {
+    "token": "this,",
+    "start": 0.5621971153846154,
+    "end": 1.1243942307692307
+   },
+   {
+    "token": "before",
+    "start": 1.1243942307692307,
+    "end": 1.6865913461538462
+   },
+   {
+    "token": "we",
+    "start": 1.6865913461538462,
+    "end": 2.2487884615384615
+   },
+   {
+    "token": "actually",
+    "start": 2.2487884615384615,
+    "end": 2.810985576923077
+   },
+   {
+    "token": "start",
+    "start": 2.810985576923077,
+    "end": 3.3731826923076924
+   },
+   {
+    "token": "hacking,",
+    "start": 3.3731826923076924,
+    "end": 3.9353798076923074
+   },
+   {
+    "token": "we’re",
+    "start": 3.9353798076923074,
+    "end": 4.497576923076923
+   },
+   {
+    "token": "in",
+    "start": 4.497576923076923,
+    "end": 5.059774038461538
+   },
+   {
+    "token": "a",
+    "start": 5.059774038461538,
+    "end": 5.621971153846154
+   },
+   {
+    "token": "room",
+    "start": 5.621971153846154,
+    "end": 6.184168269230769
+   },
+   {
+    "token": "formal",
+    "start": 6.184168269230769,
+    "end": 6.746365384615385
+   },
+   {
+    "token": "setting",
+    "start": 6.746365384615385,
+    "end": 7.3085625
+   }
+  ]
+ },
+ {
+  "id": "-hnBHBN8p5A$6",
+  "duration": 6.332813,
+  "n_words": 13,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.1538,
+  "n_audio_frames": 634,
+  "n_vision_frames": 153,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 44,
+  "timebin_text_valid": 6,
+  "word_valid_length": 13,
+  "words": [
+   {
+    "token": "Discussion,",
+    "start": 0.0,
+    "end": 4.5
+   },
+   {
+    "token": "how",
+    "start": 4.5,
+    "end": 4.82
+   },
+   {
+    "token": "to",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "discuss",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "ideas",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "and",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "opinions",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "more",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "effectively",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "than",
+    "start": 4.82,
+    "end": 4.82
+   },
+   {
+    "token": "a",
+    "start": 4.82,
+    "end": 5.76
+   },
+   {
+    "token": "native",
+    "start": 5.76,
+    "end": 6.0464065
+   },
+   {
+    "token": "speaker",
+    "start": 6.0464065,
+    "end": 6.332813
+   }
+  ]
+ },
+ {
+  "id": "-qDkUB0GgYY$6",
+  "duration": 4.614687,
+  "n_words": 16,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 462,
+  "n_vision_frames": 140,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 16,
+  "word_valid_length": 16,
+  "words": [
+   {
+    "token": "We",
+    "start": 0.46,
+    "end": 0.58
+   },
+   {
+    "token": "always",
+    "start": 0.58,
+    "end": 0.8
+   },
+   {
+    "token": "love",
+    "start": 0.8,
+    "end": 1.08
+   },
+   {
+    "token": "to",
+    "start": 1.08,
+    "end": 1.26
+   },
+   {
+    "token": "hear",
+    "start": 1.26,
+    "end": 1.38
+   },
+   {
+    "token": "what",
+    "start": 1.38,
+    "end": 1.52
+   },
+   {
+    "token": "you",
+    "start": 1.52,
+    "end": 1.64
+   },
+   {
+    "token": "say,",
+    "start": 1.88,
+    "end": 2.14
+   },
+   {
+    "token": "and",
+    "start": 2.14,
+    "end": 2.64
+   },
+   {
+    "token": "like",
+    "start": 2.64,
+    "end": 2.84
+   },
+   {
+    "token": "and",
+    "start": 2.84,
+    "end": 2.98
+   },
+   {
+    "token": "share",
+    "start": 2.98,
+    "end": 3.12
+   },
+   {
+    "token": "this",
+    "start": 3.12,
+    "end": 3.3
+   },
+   {
+    "token": "video",
+    "start": 3.3,
+    "end": 3.48
+   },
+   {
+    "token": "as",
+    "start": 3.48,
+    "end": 3.72
+   },
+   {
+    "token": "well.",
+    "start": 3.72,
+    "end": 3.96
+   }
+  ]
+ },
+ {
+  "id": "-uywlfIYOS8$4",
+  "duration": 5.881125,
+  "n_words": 18,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 589,
+  "n_vision_frames": 179,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 18,
+  "word_valid_length": 18,
+  "words": [
+   {
+    "token": "And",
+    "start": 1.08,
+    "end": 1.16
+   },
+   {
+    "token": "then",
+    "start": 1.16,
+    "end": 1.26
+   },
+   {
+    "token": "from",
+    "start": 1.26,
+    "end": 1.44
+   },
+   {
+    "token": "a",
+    "start": 1.44,
+    "end": 1.58
+   },
+   {
+    "token": "brand",
+    "start": 1.58,
+    "end": 1.92
+   },
+   {
+    "token": "point",
+    "start": 1.92,
+    "end": 2.24
+   },
+   {
+    "token": "of",
+    "start": 2.24,
+    "end": 2.4
+   },
+   {
+    "token": "view,",
+    "start": 2.4,
+    "end": 2.58
+   },
+   {
+    "token": "we",
+    "start": 2.58,
+    "end": 2.74
+   },
+   {
+    "token": "need",
+    "start": 2.74,
+    "end": 2.96
+   },
+   {
+    "token": "to",
+    "start": 2.96,
+    "end": 3.14
+   },
+   {
+    "token": "make",
+    "start": 3.14,
+    "end": 3.28
+   },
+   {
+    "token": "sure",
+    "start": 3.28,
+    "end": 3.5
+   },
+   {
+    "token": "we're",
+    "start": 3.64,
+    "end": 3.84
+   },
+   {
+    "token": "driving",
+    "start": 3.84,
+    "end": 4.14
+   },
+   {
+    "token": "the",
+    "start": 4.14,
+    "end": 4.3
+   },
+   {
+    "token": "relevant",
+    "start": 4.3,
+    "end": 4.62
+   },
+   {
+    "token": "insight.",
+    "start": 4.62,
+    "end": 5.2
+   }
+  ]
+ },
+ {
+  "id": "-6rXp3zJ3kc$8",
+  "duration": 12.738,
+  "n_words": 34,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9118,
+  "n_audio_frames": 1274,
+  "n_vision_frames": 384,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 30,
+  "word_valid_length": 34,
+  "words": [
+   {
+    "token": "Many",
+    "start": 0.46,
+    "end": 0.64
+   },
+   {
+    "token": "people",
+    "start": 0.64,
+    "end": 0.96
+   },
+   {
+    "token": "are",
+    "start": 0.96,
+    "end": 1.12
+   },
+   {
+    "token": "not",
+    "start": 1.12,
+    "end": 1.38
+   },
+   {
+    "token": "until",
+    "start": 1.38,
+    "end": 1.82
+   },
+   {
+    "token": "they",
+    "start": 1.82,
+    "end": 1.96
+   },
+   {
+    "token": "get",
+    "start": 1.96,
+    "end": 2.12
+   },
+   {
+    "token": "to",
+    "start": 2.12,
+    "end": 2.34
+   },
+   {
+    "token": "be",
+    "start": 2.34,
+    "end": 2.52
+   },
+   {
+    "token": "a",
+    "start": 2.52,
+    "end": 2.52
+   },
+   {
+    "token": "older",
+    "start": 2.52,
+    "end": 3.44
+   },
+   {
+    "token": "age",
+    "start": 3.44,
+    "end": 3.94
+   },
+   {
+    "token": "and",
+    "start": 3.94,
+    "end": 4.08
+   },
+   {
+    "token": "they",
+    "start": 4.08,
+    "end": 4.22
+   },
+   {
+    "token": "realize",
+    "start": 4.22,
+    "end": 4.6
+   },
+   {
+    "token": "that",
+    "start": 4.6,
+    "end": 4.96
+   },
+   {
+    "token": "gosh",
+    "start": 4.96,
+    "end": 5.28
+   },
+   {
+    "token": "they",
+    "start": 5.28,
+    "end": 5.96
+   },
+   {
+    "token": "wasted",
+    "start": 5.96,
+    "end": 6.24
+   },
+   {
+    "token": "a",
+    "start": 6.24,
+    "end": 6.4
+   },
+   {
+    "token": "lot",
+    "start": 6.4,
+    "end": 6.52
+   },
+   {
+    "token": "of",
+    "start": 6.52,
+    "end": 6.64
+   },
+   {
+    "token": "time",
+    "start": 6.64,
+    "end": 7.02
+   },
+   {
+    "token": "and",
+    "start": 7.02,
+    "end": 7.2
+   },
+   {
+    "token": "money",
+    "start": 7.2,
+    "end": 7.56
+   },
+   {
+    "token": "in",
+    "start": 7.56,
+    "end": 8.7
+   },
+   {
+    "token": "placing",
+    "start": 8.7,
+    "end": 9.52
+   },
+   {
+    "token": "bets",
+    "start": 9.52,
+    "end": 9.92
+   },
+   {
+    "token": "on",
+    "start": 9.92,
+    "end": 10.06
+   },
+   {
+    "token": "stock",
+    "start": 10.06,
+    "end": 10.36
+   },
+   {
+    "token": "that's",
+    "start": 10.36,
+    "end": 10.76
+   },
+   {
+    "token": "ultimately",
+    "start": 10.76,
+    "end": 11.26
+   },
+   {
+    "token": "lost",
+    "start": 11.26,
+    "end": 11.64
+   },
+   {
+    "token": "value.",
+    "start": 11.64,
+    "end": 12.16
+   }
+  ]
+ },
+ {
+  "id": "-9y-fZ3swSY$0",
+  "duration": 6.757,
+  "n_words": 22,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.7273,
+  "n_audio_frames": 676,
+  "n_vision_frames": 205,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 21,
+  "word_valid_length": 22,
+  "words": [
+   {
+    "token": "is,",
+    "start": 0.0,
+    "end": 0.0
+   },
+   {
+    "token": "you",
+    "start": 0.0,
+    "end": 0.22
+   },
+   {
+    "token": "can",
+    "start": 0.22,
+    "end": 0.3
+   },
+   {
+    "token": "say,",
+    "start": 0.3,
+    "end": 0.56
+   },
+   {
+    "token": "hey",
+    "start": 0.7,
+    "end": 0.96
+   },
+   {
+    "token": "I",
+    "start": 1.9,
+    "end": 1.98
+   },
+   {
+    "token": "really",
+    "start": 1.98,
+    "end": 2.24
+   },
+   {
+    "token": "like",
+    "start": 2.24,
+    "end": 2.6
+   },
+   {
+    "token": "baby",
+    "start": 2.6,
+    "end": 2.9050000000000002
+   },
+   {
+    "token": "skin,",
+    "start": 2.9050000000000002,
+    "end": 3.21
+   },
+   {
+    "token": "they",
+    "start": 3.21,
+    "end": 3.5149999999999997
+   },
+   {
+    "token": "are",
+    "start": 3.5149999999999997,
+    "end": 3.82
+   },
+   {
+    "token": "so",
+    "start": 3.82,
+    "end": 4.02
+   },
+   {
+    "token": "soft,",
+    "start": 4.02,
+    "end": 4.54
+   },
+   {
+    "token": "they",
+    "start": 4.72,
+    "end": 4.72
+   },
+   {
+    "token": "don’t",
+    "start": 4.72,
+    "end": 4.94
+   },
+   {
+    "token": "have",
+    "start": 4.94,
+    "end": 5.16
+   },
+   {
+    "token": "any",
+    "start": 5.16,
+    "end": 5.42
+   },
+   {
+    "token": "hair",
+    "start": 5.42,
+    "end": 5.68
+   },
+   {
+    "token": "on",
+    "start": 5.68,
+    "end": 5.8
+   },
+   {
+    "token": "their",
+    "start": 5.8,
+    "end": 5.94
+   },
+   {
+    "token": "face",
+    "start": 5.94,
+    "end": 6.18
+   }
+  ]
+ },
+ {
+  "id": "-9y-fZ3swSY$4",
+  "duration": 2.664813,
+  "n_words": 9,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8889,
+  "n_audio_frames": 267,
+  "n_vision_frames": 81,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 9,
+  "word_valid_length": 9,
+  "words": [
+   {
+    "token": "I’ve",
+    "start": 0.0,
+    "end": 0.5
+   },
+   {
+    "token": "seen",
+    "start": 0.5,
+    "end": 0.7
+   },
+   {
+    "token": "this",
+    "start": 0.7,
+    "end": 0.88
+   },
+   {
+    "token": "in",
+    "start": 0.88,
+    "end": 1.08
+   },
+   {
+    "token": "US",
+    "start": 1.08,
+    "end": 1.38
+   },
+   {
+    "token": "or",
+    "start": 1.38,
+    "end": 1.88
+   },
+   {
+    "token": "in",
+    "start": 1.88,
+    "end": 2.0
+   },
+   {
+    "token": "the",
+    "start": 2.0,
+    "end": 2.12
+   },
+   {
+    "token": "US",
+    "start": 2.12,
+    "end": 2.4
+   }
+  ]
+ },
+ {
+  "id": "-9y-fZ3swSY$8",
+  "duration": 4.917,
+  "n_words": 12,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9167,
+  "n_audio_frames": 492,
+  "n_vision_frames": 149,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 12,
+  "word_valid_length": 12,
+  "words": [
+   {
+    "token": "That’s",
+    "start": 0.0,
+    "end": 0.5
+   },
+   {
+    "token": "a",
+    "start": 0.5,
+    "end": 0.6
+   },
+   {
+    "token": "more",
+    "start": 0.6,
+    "end": 1.12
+   },
+   {
+    "token": "decent",
+    "start": 1.12,
+    "end": 1.68
+   },
+   {
+    "token": "and",
+    "start": 1.68,
+    "end": 2.18
+   },
+   {
+    "token": "more",
+    "start": 2.18,
+    "end": 2.3
+   },
+   {
+    "token": "polite",
+    "start": 2.3,
+    "end": 2.66
+   },
+   {
+    "token": "way",
+    "start": 2.66,
+    "end": 3.04
+   },
+   {
+    "token": "to",
+    "start": 3.04,
+    "end": 3.26
+   },
+   {
+    "token": "call",
+    "start": 3.26,
+    "end": 3.54
+   },
+   {
+    "token": "a",
+    "start": 3.54,
+    "end": 4.04
+   },
+   {
+    "token": "lady",
+    "start": 4.04,
+    "end": 4.32
+   }
+  ]
+ },
+ {
+  "id": "-AUZQgSxyPQ$2",
+  "duration": 22.404563,
+  "n_words": 41,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.7805,
+  "n_audio_frames": 2241,
+  "n_vision_frames": 674,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 38,
+  "word_valid_length": 41,
+  "words": [
+   {
+    "token": "The",
+    "start": 0.0,
+    "end": 0.58
+   },
+   {
+    "token": "perfect",
+    "start": 0.58,
+    "end": 0.88
+   },
+   {
+    "token": "soul",
+    "start": 0.88,
+    "end": 1.16
+   },
+   {
+    "token": "mate",
+    "start": 1.16,
+    "end": 1.44
+   },
+   {
+    "token": "to",
+    "start": 1.44,
+    "end": 1.7
+   },
+   {
+    "token": "the",
+    "start": 1.7,
+    "end": 2.31
+   },
+   {
+    "token": "Clarisonic",
+    "start": 2.31,
+    "end": 2.92
+   },
+   {
+    "token": "Spot",
+    "start": 2.92,
+    "end": 3.34
+   },
+   {
+    "token": "Therapy",
+    "start": 3.34,
+    "end": 3.88
+   },
+   {
+    "token": "Brush,",
+    "start": 3.88,
+    "end": 4.4
+   },
+   {
+    "token": "this",
+    "start": 4.94,
+    "end": 5.08
+   },
+   {
+    "token": "gentle,",
+    "start": 5.08,
+    "end": 5.5
+   },
+   {
+    "token": "Ph",
+    "start": 5.8,
+    "end": 5.96
+   },
+   {
+    "token": "balanced",
+    "start": 5.96,
+    "end": 6.42
+   },
+   {
+    "token": "and",
+    "start": 6.42,
+    "end": 6.8
+   },
+   {
+    "token": "hydrating",
+    "start": 6.8,
+    "end": 7.4
+   },
+   {
+    "token": "exfoliant",
+    "start": 7.4,
+    "end": 8.32
+   },
+   {
+    "token": "containing",
+    "start": 8.32,
+    "end": 9.100000000000001
+   },
+   {
+    "token": "jojoba",
+    "start": 9.100000000000001,
+    "end": 9.88
+   },
+   {
+    "token": "and",
+    "start": 9.88,
+    "end": 10.34
+   },
+   {
+    "token": "acai",
+    "start": 10.34,
+    "end": 10.82
+   },
+   {
+    "token": "fruit",
+    "start": 10.82,
+    "end": 11.26
+   },
+   {
+    "token": "oils",
+    "start": 11.26,
+    "end": 11.64
+   },
+   {
+    "token": "and",
+    "start": 11.64,
+    "end": 12.58
+   },
+   {
+    "token": "bamboo",
+    "start": 12.58,
+    "end": 13.02
+   },
+   {
+    "token": "and",
+    "start": 13.02,
+    "end": 13.64
+   },
+   {
+    "token": "prickly",
+    "start": 13.64,
+    "end": 14.06
+   },
+   {
+    "token": "bear",
+    "start": 14.06,
+    "end": 14.34
+   },
+   {
+    "token": "extracts",
+    "start": 14.34,
+    "end": 15.4
+   },
+   {
+    "token": "deliver",
+    "start": 15.82,
+    "end": 16.22
+   },
+   {
+    "token": "intense",
+    "start": 16.22,
+    "end": 16.74
+   },
+   {
+    "token": "healing,",
+    "start": 16.74,
+    "end": 17.3
+   },
+   {
+    "token": "while",
+    "start": 17.72,
+    "end": 17.96
+   },
+   {
+    "token": "smooth",
+    "start": 17.96,
+    "end": 18.32
+   },
+   {
+    "token": "granules",
+    "start": 18.32,
+    "end": 18.82
+   },
+   {
+    "token": "buff",
+    "start": 18.82,
+    "end": 19.2
+   },
+   {
+    "token": "away",
+    "start": 19.2,
+    "end": 19.54
+   },
+   {
+    "token": "dead,",
+    "start": 19.54,
+    "end": 20.28
+   },
+   {
+    "token": "dry",
+    "start": 20.28,
+    "end": 20.94
+   },
+   {
+    "token": "skin",
+    "start": 20.94,
+    "end": 21.38
+   },
+   {
+    "token": "cells.",
+    "start": 21.38,
+    "end": 21.72
+   }
+  ]
+ },
+ {
+  "id": "-HeZS2-Prhc$2",
+  "duration": 8.150875,
+  "n_words": 16,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 816,
+  "n_vision_frames": 246,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 16,
+  "word_valid_length": 16,
+  "words": [
+   {
+    "token": "The",
+    "start": 1.3,
+    "end": 1.82
+   },
+   {
+    "token": "August",
+    "start": 1.82,
+    "end": 2.06
+   },
+   {
+    "token": "jobs",
+    "start": 2.06,
+    "end": 2.58
+   },
+   {
+    "token": "report",
+    "start": 2.58,
+    "end": 2.88
+   },
+   {
+    "token": "is",
+    "start": 2.88,
+    "end": 3.14
+   },
+   {
+    "token": "out",
+    "start": 3.14,
+    "end": 3.4
+   },
+   {
+    "token": "and",
+    "start": 3.4,
+    "end": 4.02
+   },
+   {
+    "token": "it",
+    "start": 4.02,
+    "end": 4.26
+   },
+   {
+    "token": "was",
+    "start": 4.26,
+    "end": 4.38
+   },
+   {
+    "token": "seen",
+    "start": 4.38,
+    "end": 4.72
+   },
+   {
+    "token": "overall",
+    "start": 4.72,
+    "end": 5.6
+   },
+   {
+    "token": "as",
+    "start": 5.6,
+    "end": 6.22
+   },
+   {
+    "token": "solid",
+    "start": 6.22,
+    "end": 6.68
+   },
+   {
+    "token": "but",
+    "start": 6.68,
+    "end": 6.88
+   },
+   {
+    "token": "not",
+    "start": 6.88,
+    "end": 7.14
+   },
+   {
+    "token": "great.",
+    "start": 7.14,
+    "end": 7.56
+   }
+  ]
+ },
+ {
+  "id": "-MeTTeMJBNc$0",
+  "duration": 9.218312,
+  "n_words": 21,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 922,
+  "n_vision_frames": 279,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 48,
+  "timebin_text_valid": 21,
+  "word_valid_length": 21,
+  "words": [
+   {
+    "token": "Okay,",
+    "start": 0.0,
+    "end": 1.16
+   },
+   {
+    "token": "what",
+    "start": 1.36,
+    "end": 1.48
+   },
+   {
+    "token": "happens",
+    "start": 1.48,
+    "end": 1.96
+   },
+   {
+    "token": "at",
+    "start": 1.96,
+    "end": 2.22
+   },
+   {
+    "token": "this",
+    "start": 2.22,
+    "end": 2.52
+   },
+   {
+    "token": "point",
+    "start": 2.52,
+    "end": 2.84
+   },
+   {
+    "token": "after",
+    "start": 2.84,
+    "end": 3.36
+   },
+   {
+    "token": "we've",
+    "start": 3.36,
+    "end": 3.68
+   },
+   {
+    "token": "taken",
+    "start": 3.68,
+    "end": 3.94
+   },
+   {
+    "token": "this",
+    "start": 3.94,
+    "end": 4.26
+   },
+   {
+    "token": "brief",
+    "start": 4.26,
+    "end": 4.66
+   },
+   {
+    "token": "walk",
+    "start": 4.66,
+    "end": 5.06
+   },
+   {
+    "token": "down",
+    "start": 5.06,
+    "end": 5.42
+   },
+   {
+    "token": "memory",
+    "start": 5.42,
+    "end": 5.82
+   },
+   {
+    "token": "lane,",
+    "start": 5.82,
+    "end": 6.24
+   },
+   {
+    "token": "is",
+    "start": 6.24,
+    "end": 6.88
+   },
+   {
+    "token": "the",
+    "start": 6.88,
+    "end": 7.04
+   },
+   {
+    "token": "presentation",
+    "start": 7.04,
+    "end": 7.6
+   },
+   {
+    "token": "of",
+    "start": 7.6,
+    "end": 8.0
+   },
+   {
+    "token": "the",
+    "start": 8.0,
+    "end": 8.18
+   },
+   {
+    "token": "gift.",
+    "start": 8.18,
+    "end": 8.42
+   }
+  ]
+ },
+ {
+  "id": "-MeTTeMJBNc$13",
+  "duration": 5.2555,
+  "n_words": 14,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 526,
+  "n_vision_frames": 159,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 14,
+  "word_valid_length": 14,
+  "words": [
+   {
+    "token": "It",
+    "start": 0.0,
+    "end": 0.2
+   },
+   {
+    "token": "just",
+    "start": 0.92,
+    "end": 1.2
+   },
+   {
+    "token": "needs",
+    "start": 1.2,
+    "end": 1.54
+   },
+   {
+    "token": "to",
+    "start": 1.54,
+    "end": 1.78
+   },
+   {
+    "token": "be",
+    "start": 1.78,
+    "end": 1.92
+   },
+   {
+    "token": "a",
+    "start": 1.92,
+    "end": 2.04
+   },
+   {
+    "token": "simple",
+    "start": 2.04,
+    "end": 2.5
+   },
+   {
+    "token": "statement,",
+    "start": 2.5,
+    "end": 3.08
+   },
+   {
+    "token": "and",
+    "start": 3.08,
+    "end": 3.66
+   },
+   {
+    "token": "then",
+    "start": 3.66,
+    "end": 3.78
+   },
+   {
+    "token": "you",
+    "start": 3.78,
+    "end": 3.88
+   },
+   {
+    "token": "present",
+    "start": 3.88,
+    "end": 4.22
+   },
+   {
+    "token": "the",
+    "start": 4.22,
+    "end": 4.48
+   },
+   {
+    "token": "gift.",
+    "start": 4.48,
+    "end": 4.8
+   }
+  ]
+ },
+ {
+  "id": "-MeTTeMJBNc$7",
+  "duration": 10.411312,
+  "n_words": 31,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 1042,
+  "n_vision_frames": 314,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 29,
+  "word_valid_length": 31,
+  "words": [
+   {
+    "token": "Maybe",
+    "start": 0.0,
+    "end": 0.72
+   },
+   {
+    "token": "you",
+    "start": 0.72,
+    "end": 0.9
+   },
+   {
+    "token": "could",
+    "start": 0.9,
+    "end": 1.1
+   },
+   {
+    "token": "find",
+    "start": 1.1,
+    "end": 1.74
+   },
+   {
+    "token": "a",
+    "start": 1.74,
+    "end": 1.98
+   },
+   {
+    "token": "picture",
+    "start": 1.98,
+    "end": 2.34
+   },
+   {
+    "token": "of",
+    "start": 2.34,
+    "end": 2.52
+   },
+   {
+    "token": "the",
+    "start": 2.52,
+    "end": 2.64
+   },
+   {
+    "token": "couple",
+    "start": 2.64,
+    "end": 2.96
+   },
+   {
+    "token": "from",
+    "start": 2.96,
+    "end": 3.32
+   },
+   {
+    "token": "their",
+    "start": 3.32,
+    "end": 3.82
+   },
+   {
+    "token": "wedding",
+    "start": 3.82,
+    "end": 4.24
+   },
+   {
+    "token": "or",
+    "start": 4.24,
+    "end": 4.7
+   },
+   {
+    "token": "sometime",
+    "start": 4.7,
+    "end": 5.18
+   },
+   {
+    "token": "in",
+    "start": 5.18,
+    "end": 5.42
+   },
+   {
+    "token": "their",
+    "start": 5.42,
+    "end": 5.58
+   },
+   {
+    "token": "life,",
+    "start": 5.58,
+    "end": 6.0
+   },
+   {
+    "token": "or",
+    "start": 6.0,
+    "end": 6.2
+   },
+   {
+    "token": "maybe",
+    "start": 6.2,
+    "end": 6.42
+   },
+   {
+    "token": "even",
+    "start": 6.42,
+    "end": 6.7
+   },
+   {
+    "token": "a",
+    "start": 6.7,
+    "end": 6.82
+   },
+   {
+    "token": "current",
+    "start": 6.82,
+    "end": 7.18
+   },
+   {
+    "token": "picture",
+    "start": 7.18,
+    "end": 7.74
+   },
+   {
+    "token": "and",
+    "start": 7.74,
+    "end": 8.26
+   },
+   {
+    "token": "have",
+    "start": 8.26,
+    "end": 8.4
+   },
+   {
+    "token": "it",
+    "start": 8.4,
+    "end": 8.54
+   },
+   {
+    "token": "put",
+    "start": 8.54,
+    "end": 8.68
+   },
+   {
+    "token": "in",
+    "start": 8.68,
+    "end": 8.84
+   },
+   {
+    "token": "a",
+    "start": 8.84,
+    "end": 8.9
+   },
+   {
+    "token": "beautiful",
+    "start": 8.9,
+    "end": 9.24
+   },
+   {
+    "token": "frame.",
+    "start": 9.24,
+    "end": 9.66
+   }
+  ]
+ },
+ {
+  "id": "-RfYyzHpjk4$11",
+  "duration": 5.074875,
+  "n_words": 17,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 508,
+  "n_vision_frames": 154,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 17,
+  "word_valid_length": 17,
+  "words": [
+   {
+    "token": "So",
+    "start": 0.0,
+    "end": 0.7
+   },
+   {
+    "token": "get",
+    "start": 0.7,
+    "end": 1.4
+   },
+   {
+    "token": "your",
+    "start": 1.4,
+    "end": 1.6
+   },
+   {
+    "token": "friends",
+    "start": 1.6,
+    "end": 1.78
+   },
+   {
+    "token": "lined",
+    "start": 1.78,
+    "end": 2.04
+   },
+   {
+    "token": "up,",
+    "start": 2.04,
+    "end": 2.3
+   },
+   {
+    "token": "get",
+    "start": 2.38,
+    "end": 2.48
+   },
+   {
+    "token": "your",
+    "start": 2.48,
+    "end": 2.66
+   },
+   {
+    "token": "business",
+    "start": 2.66,
+    "end": 2.86
+   },
+   {
+    "token": "colleagues",
+    "start": 2.86,
+    "end": 3.12
+   },
+   {
+    "token": "lined",
+    "start": 3.12,
+    "end": 3.46
+   },
+   {
+    "token": "up",
+    "start": 3.46,
+    "end": 3.72
+   },
+   {
+    "token": "and",
+    "start": 3.72,
+    "end": 3.84
+   },
+   {
+    "token": "have",
+    "start": 3.84,
+    "end": 3.96
+   },
+   {
+    "token": "a",
+    "start": 3.96,
+    "end": 4.08
+   },
+   {
+    "token": "good",
+    "start": 4.08,
+    "end": 4.2
+   },
+   {
+    "token": "time.",
+    "start": 4.2,
+    "end": 4.52
+   }
+  ]
+ },
+ {
+  "id": "-RfYyzHpjk4$8",
+  "duration": 4.532375,
+  "n_words": 17,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9412,
+  "n_audio_frames": 454,
+  "n_vision_frames": 137,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 17,
+  "word_valid_length": 17,
+  "words": [
+   {
+    "token": "It's",
+    "start": 0.0,
+    "end": 0.58
+   },
+   {
+    "token": "pretty,",
+    "start": 0.58,
+    "end": 0.92
+   },
+   {
+    "token": "pretty",
+    "start": 0.96,
+    "end": 1.14
+   },
+   {
+    "token": "easy",
+    "start": 1.14,
+    "end": 1.5
+   },
+   {
+    "token": "to",
+    "start": 1.5,
+    "end": 1.64
+   },
+   {
+    "token": "do",
+    "start": 1.64,
+    "end": 1.8
+   },
+   {
+    "token": "but",
+    "start": 1.96,
+    "end": 2.0
+   },
+   {
+    "token": "you",
+    "start": 2.0,
+    "end": 2.18
+   },
+   {
+    "token": "got",
+    "start": 2.18,
+    "end": 2.28
+   },
+   {
+    "token": "to",
+    "start": 2.28,
+    "end": 2.38
+   },
+   {
+    "token": "set",
+    "start": 2.38,
+    "end": 2.58
+   },
+   {
+    "token": "up",
+    "start": 2.58,
+    "end": 2.72
+   },
+   {
+    "token": "those",
+    "start": 2.72,
+    "end": 2.98
+   },
+   {
+    "token": "numbers",
+    "start": 2.98,
+    "end": 3.22
+   },
+   {
+    "token": "ahead",
+    "start": 3.22,
+    "end": 3.5
+   },
+   {
+    "token": "of",
+    "start": 3.5,
+    "end": 3.62
+   },
+   {
+    "token": "time.",
+    "start": 3.62,
+    "end": 3.88
+   }
+  ]
+ },
+ {
+  "id": "-RfYyzHpjk4$2",
+  "duration": 5.391813,
+  "n_words": 25,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.96,
+  "n_audio_frames": 540,
+  "n_vision_frames": 164,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 25,
+  "word_valid_length": 25,
+  "words": [
+   {
+    "token": "You",
+    "start": 0.31999999999999995,
+    "end": 0.58
+   },
+   {
+    "token": "can",
+    "start": 0.58,
+    "end": 0.7
+   },
+   {
+    "token": "make",
+    "start": 0.7,
+    "end": 0.84
+   },
+   {
+    "token": "a",
+    "start": 0.84,
+    "end": 0.96
+   },
+   {
+    "token": "conference",
+    "start": 0.96,
+    "end": 1.28
+   },
+   {
+    "token": "call",
+    "start": 1.28,
+    "end": 1.5
+   },
+   {
+    "token": "but",
+    "start": 1.5,
+    "end": 1.64
+   },
+   {
+    "token": "it",
+    "start": 1.64,
+    "end": 1.74
+   },
+   {
+    "token": "takes",
+    "start": 1.74,
+    "end": 1.86
+   },
+   {
+    "token": "quite",
+    "start": 1.86,
+    "end": 2.16
+   },
+   {
+    "token": "a",
+    "start": 2.16,
+    "end": 2.28
+   },
+   {
+    "token": "bit",
+    "start": 2.28,
+    "end": 2.4
+   },
+   {
+    "token": "of",
+    "start": 2.4,
+    "end": 2.5
+   },
+   {
+    "token": "planning,",
+    "start": 2.5,
+    "end": 2.78
+   },
+   {
+    "token": "well",
+    "start": 2.8,
+    "end": 2.92
+   },
+   {
+    "token": "not",
+    "start": 2.92,
+    "end": 3.04
+   },
+   {
+    "token": "a",
+    "start": 3.04,
+    "end": 3.14
+   },
+   {
+    "token": "lot",
+    "start": 3.14,
+    "end": 3.26
+   },
+   {
+    "token": "of",
+    "start": 3.26,
+    "end": 3.4
+   },
+   {
+    "token": "planning",
+    "start": 3.4,
+    "end": 3.7
+   },
+   {
+    "token": "it's",
+    "start": 3.82,
+    "end": 3.9
+   },
+   {
+    "token": "pretty",
+    "start": 3.9,
+    "end": 4.12
+   },
+   {
+    "token": "easy",
+    "start": 4.12,
+    "end": 4.42
+   },
+   {
+    "token": "to",
+    "start": 4.42,
+    "end": 4.58
+   },
+   {
+    "token": "do.",
+    "start": 4.58,
+    "end": 4.78
+   }
+  ]
+ },
+ {
+  "id": "-UUCSKoHeMA$0",
+  "duration": 7.73225,
+  "n_words": 18,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9444,
+  "n_audio_frames": 774,
+  "n_vision_frames": 234,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 48,
+  "timebin_text_valid": 17,
+  "word_valid_length": 18,
+  "words": [
+   {
+    "token": "I",
+    "start": 1.6,
+    "end": 1.6
+   },
+   {
+    "token": "mentioned",
+    "start": 1.6,
+    "end": 1.88
+   },
+   {
+    "token": "a",
+    "start": 1.88,
+    "end": 2.14
+   },
+   {
+    "token": "word",
+    "start": 2.14,
+    "end": 2.36
+   },
+   {
+    "token": "in",
+    "start": 2.36,
+    "end": 2.72
+   },
+   {
+    "token": "the",
+    "start": 2.72,
+    "end": 2.86
+   },
+   {
+    "token": "last",
+    "start": 2.86,
+    "end": 3.24
+   },
+   {
+    "token": "clip",
+    "start": 3.24,
+    "end": 3.54
+   },
+   {
+    "token": "called",
+    "start": 3.54,
+    "end": 4.0
+   },
+   {
+    "token": "'monotone',",
+    "start": 4.0,
+    "end": 4.94
+   },
+   {
+    "token": "and",
+    "start": 4.94,
+    "end": 5.52
+   },
+   {
+    "token": "I",
+    "start": 5.52,
+    "end": 5.62
+   },
+   {
+    "token": "want",
+    "start": 5.62,
+    "end": 5.74
+   },
+   {
+    "token": "to",
+    "start": 5.74,
+    "end": 5.84
+   },
+   {
+    "token": "talk",
+    "start": 5.84,
+    "end": 6.04
+   },
+   {
+    "token": "about",
+    "start": 6.04,
+    "end": 6.36
+   },
+   {
+    "token": "that",
+    "start": 6.36,
+    "end": 6.6
+   },
+   {
+    "token": "briefly.",
+    "start": 6.6,
+    "end": 7.12
+   }
+  ]
+ },
+ {
+  "id": "-ri04Z7vwnc$0",
+  "duration": 2.76325,
+  "n_words": 8,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 277,
+  "n_vision_frames": 67,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 0,
+  "timebin_text_valid": 8,
+  "word_valid_length": 8,
+  "words": [
+   {
+    "token": "going",
+    "start": 0.0,
+    "end": 0.34540625
+   },
+   {
+    "token": "to",
+    "start": 0.34540625,
+    "end": 0.6908125
+   },
+   {
+    "token": "get",
+    "start": 0.6908125,
+    "end": 1.0362187500000002
+   },
+   {
+    "token": "married",
+    "start": 1.0362187500000002,
+    "end": 1.381625
+   },
+   {
+    "token": "or",
+    "start": 1.381625,
+    "end": 1.72703125
+   },
+   {
+    "token": "are",
+    "start": 1.72703125,
+    "end": 2.0724375000000004
+   },
+   {
+    "token": "already",
+    "start": 2.0724375000000004,
+    "end": 2.4178437500000003
+   },
+   {
+    "token": "married",
+    "start": 2.4178437500000003,
+    "end": 2.76325
+   }
+  ]
+ },
+ {
+  "id": "-ri04Z7vwnc$2",
+  "duration": 5.913375,
+  "n_words": 16,
+  "text_align": "vad_uniform",
+  "asr_model": null,
+  "word_match_ratio": 0.0,
+  "n_audio_frames": 592,
+  "n_vision_frames": 143,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 17,
+  "timebin_text_valid": 16,
+  "word_valid_length": 16,
+  "words": [
+   {
+    "token": "most",
+    "start": 0.0,
+    "end": 0.3695859375
+   },
+   {
+    "token": "people",
+    "start": 0.3695859375,
+    "end": 0.739171875
+   },
+   {
+    "token": "think",
+    "start": 0.739171875,
+    "end": 1.1087578125
+   },
+   {
+    "token": "it'll",
+    "start": 1.1087578125,
+    "end": 1.47834375
+   },
+   {
+    "token": "sort",
+    "start": 1.47834375,
+    "end": 1.8479296875000002
+   },
+   {
+    "token": "itself",
+    "start": 1.8479296875000002,
+    "end": 2.217515625
+   },
+   {
+    "token": "out,",
+    "start": 2.217515625,
+    "end": 2.5871015625
+   },
+   {
+    "token": "\"we'll",
+    "start": 2.5871015625,
+    "end": 2.9566875
+   },
+   {
+    "token": "discuss",
+    "start": 2.9566875,
+    "end": 3.3262734375000003
+   },
+   {
+    "token": "it",
+    "start": 3.3262734375000003,
+    "end": 3.6958593750000004
+   },
+   {
+    "token": "later,\"",
+    "start": 3.6958593750000004,
+    "end": 4.0654453125000005
+   },
+   {
+    "token": "it's",
+    "start": 4.0654453125000005,
+    "end": 4.43503125
+   },
+   {
+    "token": "not",
+    "start": 4.43503125,
+    "end": 4.8046171875
+   },
+   {
+    "token": "something",
+    "start": 4.8046171875,
+    "end": 5.174203125
+   },
+   {
+    "token": "too",
+    "start": 5.174203125,
+    "end": 5.5437890625
+   },
+   {
+    "token": "important",
+    "start": 5.5437890625,
+    "end": 5.913375
+   }
+  ]
+ },
+ {
+  "id": "-ri04Z7vwnc$5",
+  "duration": 3.43975,
+  "n_words": 9,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.1111,
+  "n_audio_frames": 344,
+  "n_vision_frames": 83,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 9,
+  "word_valid_length": 9,
+  "words": [
+   {
+    "token": "\"",
+    "start": 0.0,
+    "end": 0.6
+   },
+   {
+    "token": "So",
+    "start": 0.6,
+    "end": 1.2
+   },
+   {
+    "token": "I",
+    "start": 1.2,
+    "end": 1.7999999999999998
+   },
+   {
+    "token": "think",
+    "start": 1.7999999999999998,
+    "end": 2.4
+   },
+   {
+    "token": "it's",
+    "start": 2.4,
+    "end": 3.0
+   },
+   {
+    "token": "important",
+    "start": 3.0,
+    "end": 3.24
+   },
+   {
+    "token": "to",
+    "start": 3.24,
+    "end": 3.3065833333333337
+   },
+   {
+    "token": "discuss",
+    "start": 3.3065833333333337,
+    "end": 3.3731666666666666
+   },
+   {
+    "token": "finances",
+    "start": 3.3731666666666666,
+    "end": 3.43975
+   }
+  ]
+ },
+ {
+  "id": "-s9qJ7ATP7w$1",
+  "duration": 4.643813,
+  "n_words": 11,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9091,
+  "n_audio_frames": 465,
+  "n_vision_frames": 140,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 11,
+  "word_valid_length": 11,
+  "words": [
+   {
+    "token": "But",
+    "start": 0.0,
+    "end": 0.0
+   },
+   {
+    "token": "the",
+    "start": 0.0,
+    "end": 0.62
+   },
+   {
+    "token": "hardest",
+    "start": 0.62,
+    "end": 1.64
+   },
+   {
+    "token": "thing",
+    "start": 1.64,
+    "end": 1.86
+   },
+   {
+    "token": "in",
+    "start": 1.86,
+    "end": 1.98
+   },
+   {
+    "token": "life",
+    "start": 1.98,
+    "end": 2.1
+   },
+   {
+    "token": "to",
+    "start": 2.1,
+    "end": 2.28
+   },
+   {
+    "token": "learn,",
+    "start": 2.28,
+    "end": 2.5
+   },
+   {
+    "token": "is",
+    "start": 2.5,
+    "end": 3.16
+   },
+   {
+    "token": "to",
+    "start": 3.16,
+    "end": 3.32
+   },
+   {
+    "token": "lose",
+    "start": 3.32,
+    "end": 3.56
+   }
+  ]
+ },
+ {
+  "id": "-s9qJ7ATP7w$0",
+  "duration": 6.710562,
+  "n_words": 24,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 672,
+  "n_vision_frames": 204,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 24,
+  "word_valid_length": 24,
+  "words": [
+   {
+    "token": "they",
+    "start": 0.0,
+    "end": 0.14
+   },
+   {
+    "token": "have",
+    "start": 0.14,
+    "end": 0.24
+   },
+   {
+    "token": "doubt,",
+    "start": 0.24,
+    "end": 0.48
+   },
+   {
+    "token": "they",
+    "start": 0.78,
+    "end": 0.8
+   },
+   {
+    "token": "have",
+    "start": 0.8,
+    "end": 0.92
+   },
+   {
+    "token": "fear,",
+    "start": 0.92,
+    "end": 1.28
+   },
+   {
+    "token": "they",
+    "start": 1.76,
+    "end": 1.8
+   },
+   {
+    "token": "lose",
+    "start": 1.8,
+    "end": 2.02
+   },
+   {
+    "token": "in",
+    "start": 2.02,
+    "end": 2.22
+   },
+   {
+    "token": "a",
+    "start": 2.22,
+    "end": 2.3
+   },
+   {
+    "token": "Ferrari",
+    "start": 2.3,
+    "end": 2.6
+   },
+   {
+    "token": "race,",
+    "start": 2.6,
+    "end": 3.02
+   },
+   {
+    "token": "or",
+    "start": 3.02,
+    "end": 3.2
+   },
+   {
+    "token": "they",
+    "start": 3.2,
+    "end": 3.32
+   },
+   {
+    "token": "lose",
+    "start": 3.32,
+    "end": 3.56
+   },
+   {
+    "token": "in",
+    "start": 3.56,
+    "end": 3.88
+   },
+   {
+    "token": "a",
+    "start": 3.88,
+    "end": 4.1
+   },
+   {
+    "token": "race,",
+    "start": 4.1,
+    "end": 4.68
+   },
+   {
+    "token": "and",
+    "start": 4.68,
+    "end": 5.26
+   },
+   {
+    "token": "then",
+    "start": 5.26,
+    "end": 5.36
+   },
+   {
+    "token": "they",
+    "start": 5.36,
+    "end": 5.52
+   },
+   {
+    "token": "just",
+    "start": 5.52,
+    "end": 5.7
+   },
+   {
+    "token": "give",
+    "start": 5.7,
+    "end": 5.88
+   },
+   {
+    "token": "up",
+    "start": 5.88,
+    "end": 6.12
+   }
+  ]
+ },
+ {
+  "id": "-s9qJ7ATP7w$5",
+  "duration": 8.397875,
+  "n_words": 19,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 1.0,
+  "n_audio_frames": 840,
+  "n_vision_frames": 253,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 19,
+  "word_valid_length": 19,
+  "words": [
+   {
+    "token": "I",
+    "start": 0.88,
+    "end": 1.26
+   },
+   {
+    "token": "have",
+    "start": 1.26,
+    "end": 1.42
+   },
+   {
+    "token": "been",
+    "start": 1.42,
+    "end": 1.6
+   },
+   {
+    "token": "beat",
+    "start": 1.6,
+    "end": 1.9
+   },
+   {
+    "token": "up",
+    "start": 1.9,
+    "end": 2.4
+   },
+   {
+    "token": "and",
+    "start": 2.4,
+    "end": 2.64
+   },
+   {
+    "token": "put",
+    "start": 2.64,
+    "end": 2.94
+   },
+   {
+    "token": "down",
+    "start": 2.94,
+    "end": 3.52
+   },
+   {
+    "token": "and",
+    "start": 3.52,
+    "end": 3.96
+   },
+   {
+    "token": "everything",
+    "start": 3.96,
+    "end": 5.12
+   },
+   {
+    "token": "that",
+    "start": 5.12,
+    "end": 5.36
+   },
+   {
+    "token": "can",
+    "start": 5.36,
+    "end": 5.5
+   },
+   {
+    "token": "go",
+    "start": 5.5,
+    "end": 5.7
+   },
+   {
+    "token": "wrong,",
+    "start": 5.7,
+    "end": 6.2
+   },
+   {
+    "token": "has",
+    "start": 6.2,
+    "end": 6.78
+   },
+   {
+    "token": "gone",
+    "start": 6.78,
+    "end": 6.98
+   },
+   {
+    "token": "wrong",
+    "start": 6.98,
+    "end": 7.28
+   },
+   {
+    "token": "for",
+    "start": 7.28,
+    "end": 7.58
+   },
+   {
+    "token": "me",
+    "start": 7.58,
+    "end": 7.82
+   }
+  ]
+ },
+ {
+  "id": "-s9qJ7ATP7w$4",
+  "duration": 4.246875,
+  "n_words": 9,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8889,
+  "n_audio_frames": 425,
+  "n_vision_frames": 129,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 9,
+  "word_valid_length": 9,
+  "words": [
+   {
+    "token": "I",
+    "start": 0.58,
+    "end": 0.66
+   },
+   {
+    "token": "have",
+    "start": 0.66,
+    "end": 0.8
+   },
+   {
+    "token": "lost",
+    "start": 0.8,
+    "end": 1.08
+   },
+   {
+    "token": "at",
+    "start": 1.08,
+    "end": 1.38
+   },
+   {
+    "token": "everything",
+    "start": 1.38,
+    "end": 1.98
+   },
+   {
+    "token": "you",
+    "start": 1.98,
+    "end": 2.22
+   },
+   {
+    "token": "can",
+    "start": 2.22,
+    "end": 2.38
+   },
+   {
+    "token": "imagine,",
+    "start": 2.38,
+    "end": 2.78
+   },
+   {
+    "token": "seriously",
+    "start": 3.0,
+    "end": 3.28
+   }
+  ]
+ },
+ {
+  "id": "-s9qJ7ATP7w$7",
+  "duration": 6.838563,
+  "n_words": 28,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.7143,
+  "n_audio_frames": 684,
+  "n_vision_frames": 207,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 37,
+  "timebin_text_valid": 27,
+  "word_valid_length": 28,
+  "words": [
+   {
+    "token": "I",
+    "start": 0.0,
+    "end": 0.6
+   },
+   {
+    "token": "used",
+    "start": 0.6,
+    "end": 0.74
+   },
+   {
+    "token": "to",
+    "start": 0.74,
+    "end": 0.86
+   },
+   {
+    "token": "work",
+    "start": 0.86,
+    "end": 0.96
+   },
+   {
+    "token": "for",
+    "start": 0.96,
+    "end": 1.14
+   },
+   {
+    "token": "Warren",
+    "start": 1.14,
+    "end": 1.36
+   },
+   {
+    "token": "Avis,",
+    "start": 1.36,
+    "end": 1.66
+   },
+   {
+    "token": "the",
+    "start": 1.92,
+    "end": 2.0
+   },
+   {
+    "token": "guy",
+    "start": 2.0,
+    "end": 2.12
+   },
+   {
+    "token": "who",
+    "start": 2.12,
+    "end": 2.3033333333333337
+   },
+   {
+    "token": "started",
+    "start": 2.3033333333333337,
+    "end": 2.486666666666667
+   },
+   {
+    "token": "Avis",
+    "start": 2.486666666666667,
+    "end": 2.67
+   },
+   {
+    "token": "Rent",
+    "start": 2.67,
+    "end": 2.8533333333333335
+   },
+   {
+    "token": "a",
+    "start": 2.8533333333333335,
+    "end": 3.036666666666667
+   },
+   {
+    "token": "Car,",
+    "start": 3.036666666666667,
+    "end": 3.22
+   },
+   {
+    "token": "and",
+    "start": 3.22,
+    "end": 3.28
+   },
+   {
+    "token": "he",
+    "start": 3.28,
+    "end": 3.38
+   },
+   {
+    "token": "said",
+    "start": 3.38,
+    "end": 3.45
+   },
+   {
+    "token": "to",
+    "start": 3.45,
+    "end": 3.52
+   },
+   {
+    "token": "me",
+    "start": 3.52,
+    "end": 3.74
+   },
+   {
+    "token": "one",
+    "start": 3.74,
+    "end": 3.96
+   },
+   {
+    "token": "day,",
+    "start": 3.96,
+    "end": 4.16
+   },
+   {
+    "token": "\"Robert,",
+    "start": 4.78,
+    "end": 4.96
+   },
+   {
+    "token": "\"what's",
+    "start": 5.2,
+    "end": 5.34
+   },
+   {
+    "token": "the",
+    "start": 5.34,
+    "end": 5.44
+   },
+   {
+    "token": "purpose",
+    "start": 5.44,
+    "end": 5.72
+   },
+   {
+    "token": "of",
+    "start": 5.72,
+    "end": 5.9
+   },
+   {
+    "token": "business",
+    "start": 5.9,
+    "end": 6.18
+   }
+  ]
+ },
+ {
+  "id": "-s9qJ7ATP7w$6",
+  "duration": 2.314812,
+  "n_words": 5,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.8,
+  "n_audio_frames": 232,
+  "n_vision_frames": 71,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 42,
+  "timebin_text_valid": 5,
+  "word_valid_length": 5,
+  "words": [
+   {
+    "token": "But",
+    "start": 0.58,
+    "end": 0.68
+   },
+   {
+    "token": "I",
+    "start": 0.68,
+    "end": 0.98
+   },
+   {
+    "token": "just",
+    "start": 0.98,
+    "end": 1.38
+   },
+   {
+    "token": "kept",
+    "start": 1.38,
+    "end": 1.56
+   },
+   {
+    "token": "going",
+    "start": 1.56,
+    "end": 1.78
+   }
+  ]
+ },
+ {
+  "id": "-s9qJ7ATP7w$8",
+  "duration": 3.18425,
+  "n_words": 13,
+  "text_align": "whisper_seq",
+  "asr_model": "base",
+  "word_match_ratio": 0.9231,
+  "n_audio_frames": 319,
+  "n_vision_frames": 97,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 13,
+  "word_valid_length": 13,
+  "words": [
+   {
+    "token": "\"",
+    "start": 0.0,
+    "end": 0.34
+   },
+   {
+    "token": "And",
+    "start": 0.34,
+    "end": 0.56
+   },
+   {
+    "token": "I",
+    "start": 0.56,
+    "end": 0.68
+   },
+   {
+    "token": "said,",
+    "start": 0.68,
+    "end": 0.86
+   },
+   {
+    "token": "\"Oh,",
+    "start": 0.86,
+    "end": 1.04
+   },
+   {
+    "token": "make",
+    "start": 1.04,
+    "end": 1.24
+   },
+   {
+    "token": "a",
+    "start": 1.24,
+    "end": 1.36
+   },
+   {
+    "token": "profit,",
+    "start": 1.36,
+    "end": 1.76
+   },
+   {
+    "token": "and",
+    "start": 1.76,
+    "end": 1.96
+   },
+   {
+    "token": "all",
+    "start": 1.96,
+    "end": 2.04
+   },
+   {
+    "token": "these",
+    "start": 2.04,
+    "end": 2.16
+   },
+   {
+    "token": "other",
+    "start": 2.16,
+    "end": 2.32
+   },
+   {
+    "token": "things",
+    "start": 2.32,
+    "end": 2.6
+   }
+  ]
+ },
+ {
+  "id": "-yRb-Jum7EQ$1",
+  "duration": 29.10975,
+  "n_words": 49,
+  "text_align": "whisper_seq",
+  "asr_model": "small",
+  "word_match_ratio": 0.3265,
+  "n_audio_frames": 2911,
+  "n_vision_frames": 875,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 38,
+  "word_valid_length": 49,
+  "words": [
+   {
+    "token": "it",
+    "start": 0.0,
+    "end": 1.7066666666666668
+   },
+   {
+    "token": "comes",
+    "start": 1.7066666666666668,
+    "end": 3.4133333333333336
+   },
+   {
+    "token": "with",
+    "start": 3.4133333333333336,
+    "end": 5.12
+   },
+   {
+    "token": "the",
+    "start": 5.12,
+    "end": 5.42
+   },
+   {
+    "token": "assistance",
+    "start": 5.42,
+    "end": 8.04
+   },
+   {
+    "token": "and",
+    "start": 8.04,
+    "end": 8.28
+   },
+   {
+    "token": "agitation",
+    "start": 8.28,
+    "end": 8.503333333333332
+   },
+   {
+    "token": "of",
+    "start": 8.503333333333332,
+    "end": 8.726666666666667
+   },
+   {
+    "token": "states",
+    "start": 8.726666666666667,
+    "end": 8.95
+   },
+   {
+    "token": "and",
+    "start": 8.95,
+    "end": 9.173333333333332
+   },
+   {
+    "token": "regimes,",
+    "start": 9.173333333333332,
+    "end": 9.396666666666667
+   },
+   {
+    "token": "Yesterday",
+    "start": 9.396666666666667,
+    "end": 9.62
+   },
+   {
+    "token": "Iran",
+    "start": 9.62,
+    "end": 9.96
+   },
+   {
+    "token": "announced",
+    "start": 9.96,
+    "end": 10.528
+   },
+   {
+    "token": "that",
+    "start": 10.528,
+    "end": 11.096
+   },
+   {
+    "token": "it",
+    "start": 11.096,
+    "end": 11.664000000000001
+   },
+   {
+    "token": "will",
+    "start": 11.664000000000001,
+    "end": 12.232000000000001
+   },
+   {
+    "token": "finance",
+    "start": 12.232000000000001,
+    "end": 12.8
+   },
+   {
+    "token": "the",
+    "start": 12.8,
+    "end": 13.84
+   },
+   {
+    "token": "families",
+    "start": 13.84,
+    "end": 14.62
+   },
+   {
+    "token": "of",
+    "start": 14.62,
+    "end": 15.42
+   },
+   {
+    "token": "the",
+    "start": 15.42,
+    "end": 15.54
+   },
+   {
+    "token": "terrorists",
+    "start": 15.54,
+    "end": 15.92
+   },
+   {
+    "token": "and",
+    "start": 15.92,
+    "end": 16.71
+   },
+   {
+    "token": "murderers",
+    "start": 16.71,
+    "end": 17.5
+   },
+   {
+    "token": "this",
+    "start": 17.5,
+    "end": 17.76
+   },
+   {
+    "token": "shows",
+    "start": 17.76,
+    "end": 17.94
+   },
+   {
+    "token": "that",
+    "start": 17.94,
+    "end": 18.2
+   },
+   {
+    "token": "Iran,",
+    "start": 18.2,
+    "end": 18.44
+   },
+   {
+    "token": "even",
+    "start": 18.44,
+    "end": 18.54
+   },
+   {
+    "token": "after",
+    "start": 18.54,
+    "end": 18.74
+   },
+   {
+    "token": "the",
+    "start": 18.74,
+    "end": 19.0
+   },
+   {
+    "token": "nuclear",
+    "start": 19.0,
+    "end": 19.365000000000002
+   },
+   {
+    "token": "agreement,",
+    "start": 19.365000000000002,
+    "end": 19.73
+   },
+   {
+    "token": "is",
+    "start": 19.73,
+    "end": 20.095
+   },
+   {
+    "token": "continuing",
+    "start": 20.095,
+    "end": 20.46
+   },
+   {
+    "token": "to",
+    "start": 20.46,
+    "end": 21.18
+   },
+   {
+    "token": "aid",
+    "start": 21.18,
+    "end": 21.8
+   },
+   {
+    "token": "terrorism,",
+    "start": 21.8,
+    "end": 22.42
+   },
+   {
+    "token": "including",
+    "start": 22.42,
+    "end": 23.66
+   },
+   {
+    "token": "Palestinian",
+    "start": 23.66,
+    "end": 23.74
+   },
+   {
+    "token": "terrorism,",
+    "start": 23.74,
+    "end": 24.41121875
+   },
+   {
+    "token": "Hezbollah",
+    "start": 24.41121875,
+    "end": 25.082437499999997
+   },
+   {
+    "token": "terrorism",
+    "start": 25.082437499999997,
+    "end": 25.75365625
+   },
+   {
+    "token": "and",
+    "start": 25.75365625,
+    "end": 26.424875
+   },
+   {
+    "token": "its",
+    "start": 26.424875,
+    "end": 27.096093749999998
+   },
+   {
+    "token": "assistance",
+    "start": 27.096093749999998,
+    "end": 27.7673125
+   },
+   {
+    "token": "to",
+    "start": 27.7673125,
+    "end": 28.438531249999997
+   },
+   {
+    "token": "Hamas.",
+    "start": 28.438531249999997,
+    "end": 29.10975
+   }
+  ]
+ },
+ {
+  "id": "-yRb-Jum7EQ$5",
+  "duration": 13.044562,
+  "n_words": 25,
+  "text_align": "whisper_seq",
+  "asr_model": "small",
+  "word_match_ratio": 0.2,
+  "n_audio_frames": 1305,
+  "n_vision_frames": 394,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 23,
+  "word_valid_length": 25,
+  "words": [
+   {
+    "token": "Yesterday",
+    "start": 0.0,
+    "end": 0.4
+   },
+   {
+    "token": "Eliav",
+    "start": 0.4,
+    "end": 0.98
+   },
+   {
+    "token": "Gelman",
+    "start": 0.98,
+    "end": 3.3400000000000003
+   },
+   {
+    "token": "lost",
+    "start": 3.3400000000000003,
+    "end": 5.700000000000001
+   },
+   {
+    "token": "his",
+    "start": 5.7,
+    "end": 5.92
+   },
+   {
+    "token": "life",
+    "start": 5.92,
+    "end": 6.148571428571429
+   },
+   {
+    "token": "in",
+    "start": 6.148571428571429,
+    "end": 6.377142857142857
+   },
+   {
+    "token": "another",
+    "start": 6.377142857142857,
+    "end": 6.605714285714285
+   },
+   {
+    "token": "terrorist",
+    "start": 6.605714285714285,
+    "end": 6.834285714285714
+   },
+   {
+    "token": "attack,",
+    "start": 6.834285714285714,
+    "end": 7.062857142857142
+   },
+   {
+    "token": "not",
+    "start": 7.062857142857142,
+    "end": 7.291428571428571
+   },
+   {
+    "token": "by",
+    "start": 7.291428571428571,
+    "end": 7.52
+   },
+   {
+    "token": "the",
+    "start": 7.52,
+    "end": 7.6
+   },
+   {
+    "token": "students",
+    "start": 7.6,
+    "end": 8.48
+   },
+   {
+    "token": "of",
+    "start": 8.48,
+    "end": 8.48
+   },
+   {
+    "token": "terrorism,",
+    "start": 9.28,
+    "end": 9.28
+   },
+   {
+    "token": "but",
+    "start": 9.28,
+    "end": 9.698284666666666
+   },
+   {
+    "token": "by",
+    "start": 9.698284666666666,
+    "end": 10.116569333333333
+   },
+   {
+    "token": "those",
+    "start": 10.116569333333333,
+    "end": 10.534854
+   },
+   {
+    "token": "who",
+    "start": 10.534854,
+    "end": 10.953138666666668
+   },
+   {
+    "token": "teach",
+    "start": 10.953138666666668,
+    "end": 11.371423333333333
+   },
+   {
+    "token": "terrorism,",
+    "start": 11.371423333333333,
+    "end": 11.789708000000001
+   },
+   {
+    "token": "a",
+    "start": 11.789708000000001,
+    "end": 12.207992666666668
+   },
+   {
+    "token": "Palestinian",
+    "start": 12.207992666666668,
+    "end": 12.626277333333334
+   },
+   {
+    "token": "teacher.",
+    "start": 12.626277333333334,
+    "end": 13.044562
+   }
+  ]
+ },
+ {
+  "id": "-yRb-Jum7EQ$6",
+  "duration": 11.242563,
+  "n_words": 19,
+  "text_align": "whisper_seq",
+  "asr_model": "small",
+  "word_match_ratio": 0.4737,
+  "n_audio_frames": 1125,
+  "n_vision_frames": 336,
+  "timebin_audio_valid": 50,
+  "timebin_vision_valid": 50,
+  "timebin_text_valid": 17,
+  "word_valid_length": 19,
+  "words": [
+   {
+    "token": "Therefore,",
+    "start": 0.0,
+    "end": 0.66
+   },
+   {
+    "token": "the",
+    "start": 0.76,
+    "end": 0.9
+   },
+   {
+    "token": "world",
+    "start": 0.9,
+    "end": 1.06
+   },
+   {
+    "token": "needs",
+    "start": 1.06,
+    "end": 1.58
+   },
+   {
+    "token": "to",
+    "start": 1.58,
+    "end": 1.58
+   },
+   {
+    "token": "stand",
+    "start": 1.58,
+    "end": 1.7000000000000002
+   },
+   {
+    "token": "with",
+    "start": 1.7000000000000002,
+    "end": 1.82
+   },
+   {
+    "token": "Israel",
+    "start": 1.82,
+    "end": 2.84
+   },
+   {
+    "token": "against",
+    "start": 2.84,
+    "end": 3.9
+   },
+   {
+    "token": "this",
+    "start": 3.9,
+    "end": 4.12
+   },
+   {
+    "token": "incitement,",
+    "start": 4.12,
+    "end": 4.72
+   },
+   {
+    "token": "which",
+    "start": 4.72,
+    "end": 5.32
+   },
+   {
+    "token": "is",
+    "start": 5.32,
+    "end": 5.92
+   },
+   {
+    "token": "the",
+    "start": 5.92,
+    "end": 6.52
+   },
+   {
+    "token": "number",
+    "start": 6.52,
+    "end": 6.92
+   },
+   {
+    "token": "one",
+    "start": 6.92,
+    "end": 7.14
+   },
+   {
+    "token": "cause",
+    "start": 7.14,
+    "end": 8.507521
+   },
+   {
+    "token": "of",
+    "start": 8.507521,
+    "end": 9.875042
+   },
+   {
+    "token": "terrorism.",
+    "start": 9.875042,
+    "end": 11.242563
+   }
+  ]
+ }
+]

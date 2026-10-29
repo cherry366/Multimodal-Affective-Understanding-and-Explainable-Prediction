@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local run outputs (reproducible)
+q1_output/
+q2_output/
+q3_output/
+q3_v2_output/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
